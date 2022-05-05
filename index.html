@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>A Map-Oriented Visualization</title>
+  <title>Gemma's Final Data Vis Project</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta charset="utf-8">
 
@@ -23,16 +23,54 @@
 
 </head>
 <body>
-  <h1>Map-Oriented Project</h1>
+
+  <header class="header" data-scroll>
+    <div class="col-12">
+    <div class="container">
+      <h1>Earthquakes Map</h1>
+    </div>
+  </header>
+
+   <!-- text content 2 -->
+
+  <div class="col-12">
+    <div class="long-text" id="text-zero">
+
+      <p>This dataset is a geocoded extension of a selection of disasters from the Centre for Research on 
+        the Epidemiology of Disasters’ (CRED) emergency events database (EM-DAT) (Guha-Sapir, 
+        Below, and Hoyois, 2014). The dataset encompasses 39,953 locations for 9,924 disastersthat
+        occurred worldwide in the years 1960 to 2018. All floods, storms (typhoons, monsoons etc.), 
+        earthquakes, landslides (wet and dry), droughts, volcanic activity and extreme temperatures that
+        were recorded in EM-DAT during these 58 years are included in the dataset.1</p>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+    <div class="container">
+    <div class="row">
+      <div class="col-12">
+      <!-- Insert HTML division tag to layout the map -->
+      <h2>Earthquakes on a map: 1960 to 1999</h2>   
+      <div id="hover-content"> </div>
+      <div id='map'> </div>
+      </div>
+     </div>
+  </div>
 
   <div class="container">
     <div class="row">
       <div class="col-12">
       <!-- Insert HTML division tag to layout the map -->
-         <div id='map'> </div>
+      <h2>Earthquakes on a map: 2000 to 2018</h2>    
+      <div id='map2'> </div>
       </div>
      </div>
   </div>
+
 
  <!-- text content 1 -->
  <div class="container">
@@ -51,15 +89,23 @@
 
    <div class="container">
     <div class="row">
-      <div class="col-6">
+      <div class="col-10">
 
 
-        <label for="dropdown">Filter Selection</label>
+        <label for="dropdown">Select Country</label>
         <select id="dropdown" name="dropdown"></select>
         <div class="svg" id='chart'></div>
       </div>
       
-
+  <div class="container">
+    <div class="row">
+      <div class="col-5">
+    
+    
+        <label for="dropdown">Select Country</label>
+        <select id="dropdown_top" name="dropdown_top"></select>
+        <div class="svg" id='chart_top'></div>
+      </div>
 
 
    <!-- text content 2 -->
@@ -90,9 +136,12 @@
     </div>
 
   <!-- Insert Javascript (.js) code to create the map -->
-
-  <script src="./squirrel-map.js" type="module"></script>
+  
+  <script src="./map_19.js" type="text/javascript"></script>
+  <script src="./map_20.js" type="text/javascript"></script>
   <script src="./lib/d3.js"></script>
-  <script src="./squirrel-chart.js" type="module"></script>
+  <script src="./bar-chart.js"  type="module"></script>
+  <script src="./top_bar_chart.js"  type="module"></script>
+     
 </body>
 </html>

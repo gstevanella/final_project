@@ -1,0 +1,1047 @@
+id,country,iso3,gwno,year,geo_id,geolocation,level,adm1,adm2,adm3,location,historical,hist_country,disastertype,disasterno,Latitude,Longitude
+1099,Chile,CHL,155,1995,3687,Chanaral,2,Atacama,Chanaral,Chanaral,Chanaral,0,NA,earthquake,1995-0171,-26.22121912,-69.49489839
+1099,Chile,CHL,155,1995,3709,Diego De Almagro,3,Atacama,Chanaral,Diego De Almagro,Diego de Almagro,0,NA,earthquake,1995-0171,-26.18831384,-69.25727705
+2013,Ecuador,ECU,130,1996,6076,La Merced,3,Pichincha,Quito,La Merced,La Merced,0,NA,earthquake,1996-0062,-0.287552725,-78.38982644
+2013,Ecuador,ECU,130,1996,6130,San Antonio,3,Pichincha,Quito,San Antonio,San Antonio,0,NA,earthquake,1996-0062,-2.591325968,-79.22447096
+2015,Ecuador,ECU,130,1998,6009,Bahia De Caraquez,3,Manabi,Sucre,Bahia De Caraquez,Bahia de Caraquez,0,NA,earthquake,1998-0353,-0.685155661,-80.40157971
+2015,Ecuador,ECU,130,1998,6022,Charapoto,3,Manabi,Sucre,Charapoto,Charapoto,0,NA,earthquake,1998-0353,-0.781936823,-80.44364531
+2374,Greece,GRC,350,1968,6940,Agios Efstratios,3,Aegean,North Aegean,Agios Efstratios,Agios Efstratios,0,NA,earthquake,1968-0032,39.51423464,25.00682689
+2374,Greece,GRC,350,1968,6989,Lemnos,3,Aegean,North Aegean,Lemnos,Limnos,0,NA,earthquake,1968-0032,39.91440852,25.2255903
+2391,Greece,GRC,350,1995,6974,Grevena,3,Epirus And Western Macedonia,West Macedonia,Grevena,Grevena-Kozani,0,NA,earthquake,1995-0085,40.04281357,21.36192821
+2391,Greece,GRC,350,1995,6985,Kozani,3,Epirus And Western Macedonia,West Macedonia,Kozani,Kozani,0,NA,earthquake,1995-0085,40.30928976,21.83193968
+2396,Greece,GRC,350,1999,6971,Elefsina,3,Attica,Attica,Elefsina,Elefsina,0,NA,earthquake,1999-0302,38.0818383,23.53245393
+2396,Greece,GRC,350,1999,7010,Peristeri,3,Attica,Attica,Peristeri,Peristeri,0,NA,earthquake,1999-0302,38.01188262,23.68833905
+2396,Greece,GRC,350,1999,7011,Petroupoli,3,Attica,Attica,Petroupoli,Petroupoli,0,NA,earthquake,1999-0302,38.04160401,23.6736876
+4448,Nepal,NPL,790,1988,14160,Dhankuta,3,East,Koshi,Dhankuta,Dhankuta,0,NA,earthquake,1988-0383,26.99110971,87.33355772
+4448,Nepal,NPL,790,1988,14190,Ilam,3,East,Mechi,Ilam,Ilam,0,NA,earthquake,1988-0383,26.8810675,87.90348445
+4448,Nepal,NPL,790,1988,14264,Morang,3,East,Koshi,Morang,Morang,0,NA,earthquake,1988-0383,26.61669552,87.47181543
+4448,Nepal,NPL,790,1988,14292,Panchthar,3,East,Mechi,Panchthar,Panchthar,0,NA,earthquake,1988-0383,27.11337157,87.77651847
+4448,Nepal,NPL,790,1988,14395,Terhathum,3,East,Koshi,Terhathum,Terathum,0,NA,earthquake,1988-0383,27.15437248,87.55107653
+1099,Chile,CHL,155,1995,3699,Copiapo,3,Atacama,Copiapo,Copiapo,Copiapo,0,NA,earthquake,1995-0171,-27.31083434,-69.75745575
+2396,Greece,GRC,350,1999,6942,Athens,3,Attica,Attica,Athens,Haidari,0,NA,earthquake,1999-0302,37.98627768,23.73434117
+3439,Italy,ITA,325,1984,10364,Assisi,3,Umbria,Perugia,Assisi,Assisi,0,NA,earthquake,1984-0038,43.08711524,12.62617111
+3439,Italy,ITA,325,1984,10428,Gubbio,3,Umbria,Perugia,Gubbio,Gubbio,0,NA,earthquake,1984-0038,43.33174618,12.54754695
+3441,Italy,ITA,325,1984,10354,Adrano,3,Sicily,Catania,Adrano,Mt Etna,0,NA,earthquake,1984-0274,37.69573249,14.85737864
+3441,Italy,ITA,325,1984,10395,Catania,3,Sicily,Catania,Catania,Catania,0,NA,earthquake,1984-0274,37.44306509,15.03625581
+1099,Chile,CHL,155,1995,3682,Caldera,3,Atacama,Copiapo,Caldera,Caldera,0,NA,earthquake,1995-0171,-27.2862012,-70.71313794
+14,Afghanistan,AFG,700,1994,77,Char Bolak,2,Balkh,Char Bolak,NA,Balkh,0,NA,earthquake,1994-0057,36.8298296,66.61709276
+14,Afghanistan,AFG,700,1994,230,Mazar-i-Sharif,2,Balkh,Mazar-i-Sharif,NA,Mazar-I-Sharif District,0,NA,earthquake,1994-0057,36.70319295,67.10315636
+25,Afghanistan,AFG,700,1999,66,Baraki Barak,2,Logar,Baraki Barak,NA,Baraki Barak,0,NA,earthquake,1999-0054,33.92139587,68.89916029
+25,Afghanistan,AFG,700,1999,232,Muhammad Agha,2,Logar,Muhammad Agha,NA,Mohammad Agha - Lowgar,0,NA,earthquake,1999-0054,34.21339019,69.18868602
+25,Afghanistan,AFG,700,1999,258,Nirkh,2,Wardak,Nirkh,NA,Nirkh,0,NA,earthquake,1999-0054,34.34596944,68.73607548
+25,Afghanistan,AFG,700,1999,282,Puli Alam,2,Logar,Puli Alam,NA,Pul-e-Alam,0,NA,earthquake,1999-0054,33.98821607,69.05572359
+25,Afghanistan,AFG,700,1999,302,Sayid Abad,2,Wardak,Sayid Abad,NA,Sayedabad,0,NA,earthquake,1999-0054,33.92584748,68.6548562
+268,Australia,AUS,900,1968,1266,Perth,2,Western Australia,Perth,NA,Perth,0,NA,earthquake,1968-0077,-31.95564407,115.8554552
+407,Azerbaijan,AZE,373,1998,1444,Astara,2,Lankaran,Astara,NA,Astara,0,NA,earthquake,1998-0215,38.49829077,48.72394629
+407,Azerbaijan,AZE,373,1998,1471,Lerik,2,Lankaran,Lerik,NA,Lerik,0,NA,earthquake,1998-0215,38.71144527,48.48394294
+407,Azerbaijan,AZE,373,1998,1472,Masalli,2,Lankaran,Masalli,NA,Masally,0,NA,earthquake,1998-0215,38.98408475,48.72215133
+407,Azerbaijan,AZE,373,1998,1495,Yardimli,2,Lankaran,Yardimli,NA,Yardimili,0,NA,earthquake,1998-0215,38.88030703,48.25370469
+408,Azerbaijan,AZE,373,1999,1491,Ucar,2,Aran,Ucar,NA,Udzhar,0,NA,earthquake,1999-0196,40.41042084,47.72448117
+1088,Chile,CHL,155,1985,3685,Cauquenes,2,Maule,Cauquenes,NA,Cauquenes,0,NA,earthquake,1985-0041,-35.84418273,-72.35544822
+1088,Chile,CHL,155,1985,3770,Talca,2,Maule,Talca,NA,Talca,0,NA,earthquake,1985-0041,-35.51649757,-71.34746489
+1099,Chile,CHL,155,1995,3681,Calama,3,Antofagasta,El Loa,Calama,Calama,0,NA,earthquake,1995-0171,-22.18679851,-68.60286468
+1099,Chile,CHL,155,1995,3778,Tocopilla,2,Antofagasta,Tocopilla,NA,Tocopilla,0,NA,earthquake,1995-0171,-22.03853475,-69.55833016
+1103,Chile,CHL,155,1997,3690,Choapa,2,Coquimbo,Choapa,NA,Choapa,0,NA,earthquake,1997-0247,-31.6509409,-71.01461747
+1103,Chile,CHL,155,1997,3710,Elqui,2,Coquimbo,Elqui,NA,Elqui,0,NA,earthquake,1997-0247,-29.82587274,-70.73134574
+1103,Chile,CHL,155,1997,3722,Limari,2,Coquimbo,Limari,NA,Limari,0,NA,earthquake,1997-0247,-30.75156689,-70.92603989
+1705,Colombia,COL,100,1992,5133,Medellin,2,Antioquia,Medellin,NA,Murindo Apartado Medellin,0,NA,earthquake,1992-0151,6.265726924,-75.63383605
+1705,Colombia,COL,100,1992,5239,San Pedro De Uraba,2,Antioquia,San Pedro De Uraba,NA,San Pedro de Uraba,0,NA,earthquake,1992-0151,8.418978217,-76.31830328
+1705,Colombia,COL,100,1992,5310,Vigia Del Fuerte,2,Antioquia,Vigia Del Fuerte,NA,Vigia del Fuerte,0,NA,earthquake,1992-0151,6.384962336,-76.66407945
+1831,Croatia,HRV,344,1996,5556,Dubrovacko Primorje,2,Dubrovacko-Neretvanska,Dubrovacko Primorje,NA,Slano,0,NA,earthquake,1996-0212,42.83083649,17.83015224
+1831,Croatia,HRV,344,1996,5575,Ston,2,Dubrovacko-Neretvanska,Ston,NA,Ston,0,NA,earthquake,1996-0212,42.86054578,17.60264407
+2012,Ecuador,ECU,130,1995,6003,Archidona,2,Napo,Archidona,NA,Archidona,0,NA,earthquake,1995-0226,-0.716448459,-77.92988964
+2012,Ecuador,ECU,130,1995,6143,Tena,2,Napo,Tena,NA,Tena,0,NA,earthquake,1995-0226,-0.998317107,-77.80463188
+2015,Ecuador,ECU,130,1998,6018,Canoa,3,Manabi,San Vicente,Canoa,Canoa,0,NA,earthquake,1998-0353,-0.407933077,-80.3829717
+2015,Ecuador,ECU,130,1998,6028,Chone,2,Manabi,Chone,NA,Chone,0,NA,earthquake,1998-0353,-0.46607852,-79.95565664
+2015,Ecuador,ECU,130,1998,6074,Jama,3,Manabi,Jama,Jama,Jama,0,NA,earthquake,1998-0353,-0.222088214,-80.22999142
+2015,Ecuador,ECU,130,1998,6105,Montecristi,2,Manabi,Montecristi,NA,Montecristi,0,NA,earthquake,1998-0353,-1.108871292,-80.68549438
+2015,Ecuador,ECU,130,1998,6123,Portoviejo,2,Manabi,Portoviejo,NA,Portoviejo,0,NA,earthquake,1998-0353,-1.049996292,-80.34880618
+2299,Germany,DEU,260,1992,6798,Bonn,2,Nordrhein-Westfalen,Bonn,NA,Bonn,0,NA,earthquake,1992-0093,50.70569774,7.112616792
+2299,Germany,DEU,260,1992,6818,Heinsberg,2,Nordrhein-Westfalen,Heinsberg,NA,Heinsberg,0,NA,earthquake,1992-0093,51.04914603,6.162254137
+2371,Greece,GRC,350,1965,6965,Corinth,3,Peloponnese; Western Greece And The Ionian Islands,Peloponnese,Corinth,Corinth,0,NA,earthquake,1965-0015,37.81382394,22.94476589
+2371,Greece,GRC,350,1965,7035,West Greece,2,Peloponnese; Western Greece And The Ionian Islands,West Greece,NA,Patras,0,NA,earthquake,1965-0015,38.28216056,21.57299253
+2383,Greece,GRC,350,1986,6978,Kalamata,3,Peloponnese; Western Greece And The Ionian Islands,Peloponnese,Kalamata,Kalamata,0,NA,earthquake,1986-0113,37.10027548,22.13119107
+2434,Guatemala,GTM,90,1985,7107,Ixcan,2,Quiche,Ixcan,NA,San Antonio Chiquito,0,NA,earthquake,1985-0120,15.9385554,-90.83544375
+2720,India,IND,750,1988,7992,Darbhanga,2,Bihar,Darbhanga,NA,Dharbhanga,0,NA,earthquake,1988-0382,26.11540047,86.01625194
+2720,India,IND,750,1988,8414,Madhubani,2,Bihar,Madhubani,NA,Madhubani,0,NA,earthquake,1988-0382,26.40674188,86.21186545
+2720,India,IND,750,1988,8505,Munger,2,Bihar,Munger,NA,Munger,0,NA,earthquake,1988-0382,25.20892285,86.5265508
+2720,India,IND,750,1988,8712,Saharsa,2,Bihar,Saharsa,NA,Saharsa,0,NA,earthquake,1988-0382,25.81718474,86.58260238
+2752,India,IND,750,1993,8410,Latur,2,Maharashtra,Latur,NA,Killari,0,NA,earthquake,1993-0074,18.37278299,76.75964617
+2752,India,IND,750,1993,8607,Osmanabad,2,Maharashtra,Osmanabad,NA,Osmanabad,0,NA,earthquake,1993-0074,18.18785859,76.03986326
+2785,India,IND,750,1999,7820,Bageshwar,2,Uttarakhand,Bageshwar,NA,Bageshwar,0,NA,earthquake,1999-0099,29.99572737,79.84641101
+2785,India,IND,750,1999,7947,Chamoli,2,Uttarakhand,Chamoli,NA,Chamoli,0,NA,earthquake,1999-0099,30.49807762,79.55785969
+2785,India,IND,750,1999,8705,Rudraprayag,2,Uttarakhand,Rudraprayag,NA,Rudraprayag,0,NA,earthquake,1999-0099,30.5935937,79.09749807
+2785,India,IND,750,1999,8809,Tehri Garhwal,2,Uttarakhand,Tehri Garhwal,NA,Tehri Garhwal,0,NA,earthquake,1999-0099,30.44316264,78.56945826
+2995,Indonesia,IDN,850,1980,9845,Tasikmalaya,2,Jawa Barat,Tasikmalaya,NA,Tasikmalaja,0,NA,earthquake,1980-0258,-7.496236966,108.1374781
+3014,Indonesia,IDN,850,1985,9593,Paniai,2,Papua,Paniai,NA,Paniai District,0,NA,earthquake,1985-0110,-3.650986833,136.6476279
+3034,Indonesia,IDN,850,1990,9450,Kuningan,2,Jawa Barat,Kuningan,NA,Kuningan,0,NA,earthquake,1990-0702,-7.000979469,108.5601904
+3034,Indonesia,IDN,850,1990,9490,Majalengka,2,Jawa Barat,Majalengka,NA,Majalenga,0,NA,earthquake,1990-0702,-6.816073485,108.2594969
+3034,Indonesia,IDN,850,1990,9825,Sumedang,2,Jawa Barat,Sumedang,NA,Sumedang area,0,NA,earthquake,1990-0702,-6.822337424,107.9823666
+3035,Indonesia,IDN,850,1990,9049,Aceh Tenggara,2,Aceh,Aceh Tenggara,NA,Kutacane,0,NA,earthquake,1990-0593,3.363086552,97.7056392
+3041,Indonesia,IDN,850,1992,9188,Ende,2,Nusa Tenggara Timur,Ende,NA,Ende,0,NA,earthquake,1992-0163,-8.675260436,121.7196723
+3041,Indonesia,IDN,850,1992,9543,Ngada,2,Nusa Tenggara Timur,Ngada,NA,Ngada,0,NA,earthquake,1992-0163,-8.681315192,121.1148513
+3041,Indonesia,IDN,850,1992,9680,Sikka,2,Nusa Tenggara Timur,Sikka,NA,Sikka,0,NA,earthquake,1992-0163,-8.613387917,122.3025868
+3060,Indonesia,IDN,850,1995,9588,Palu,2,Sulawesi Tengah,Palu,NA,Palu,0,NA,earthquake,1995-0089,-0.87042364,119.9010773
+3270,Iran,IRN,630,1990,9914,Astara,2,Gilan,Astara,NA,Astara,0,NA,earthquake,1990-0034,38.3658888,48.76990318
+3270,Iran,IRN,630,1990,10156,Mianeh,2,East Azarbaijan,Mianeh,NA,Miane,0,NA,earthquake,1990-0034,37.47421473,47.67508945
+3270,Iran,IRN,630,1990,10190,Rasht,2,Gilan,Rasht,NA,Rasht,0,NA,earthquake,1990-0034,37.29320034,49.67194504
+3270,Iran,IRN,630,1990,10214,Rudbar,2,Gilan,Rudbar,NA,Rudbar,0,NA,earthquake,1990-0034,36.80719664,49.60477304
+3270,Iran,IRN,630,1990,10257,Tabriz,2,East Azarbaijan,Tabriz,NA,Tabriz,0,NA,earthquake,1990-0034,37.7928439,45.98265018
+3299,Iran,IRN,630,1997,9934,Bojnurd,2,North Khorasan,Bojnurd,NA,Bojnurd,0,NA,earthquake,1997-0017,37.43194958,57.90772623
+3301,Iran,IRN,630,1997,9929,Birjand,2,South Khorasan,Birjand,NA,Birjand,0,NA,earthquake,1997-0095,33.72438996,59.66392405
+3303,Iran,IRN,630,1997,9930,Birjand,2,South Khorasan,Birjand,NA,Birjand,0,NA,earthquake,1997-0533,33.72438996,59.66392405
+3433,Italy,ITA,325,1980,10366,Avellino,2,Campania,Avellino,NA,Avellino,0,NA,earthquake,1980-0103,40.97700999,15.07831076
+3433,Italy,ITA,325,1980,10393,Caserta,2,Campania,Caserta,NA,Caserta,0,NA,earthquake,1980-0103,41.21760249,14.16034434
+3878,Kyrgyzstan,KGZ,703,1997,12031,Ak-Talaa,2,Naryn,Ak-Talaa,NA,Ak-Tala district,0,NA,earthquake,1997-0028,41.24297006,74.7752938
+4183,Mexico,MEX,70,1995,13123,Cuajinicuilapa,2,Guerrero,Cuajinicuilapa,NA,Cuajinicuilapa,0,NA,earthquake,1995-0203,16.4890745,-98.51420656
+4183,Mexico,MEX,70,1995,13170,Igualapa,2,Guerrero,Igualapa,NA,Igualapa,0,NA,earthquake,1995-0203,16.83015734,-98.432127
+4183,Mexico,MEX,70,1995,13301,Ometepec,2,Guerrero,Ometepec,NA,Ometepec,0,NA,earthquake,1995-0203,16.70073129,-98.28498802
+4440,Nepal,NPL,790,1980,14246,Mahakali,2,Far-Western,Mahakali,NA,Mahakali,0,NA,earthquake,1980-0071,29.50751599,80.57209181
+4440,Nepal,NPL,790,1980,14309,Rapti,2,Mid-Western,Rapti,NA,Rapti zones,0,NA,earthquake,1980-0071,27.96523787,82.41155673
+4440,Nepal,NPL,790,1980,14347,Seti,2,Far-Western,Seti,NA,Seti,0,NA,earthquake,1980-0071,29.11195352,81.30014326
+4689,Pakistan,PAK,770,1991,14993,Chitral,3,N.W.F.P.,Malakand,Chitral,Chitral,0,NA,earthquake,1991-0033,36.22647705,72.23618133
+4689,Pakistan,PAK,770,1991,15151,Peshawar,2,N.W.F.P.,Peshawar,NA,Peshawar area,0,NA,earthquake,1991-0033,34.01301839,71.79335279
+4690,Pakistan,PAK,770,1992,15074,Kohat,2,N.W.F.P.,Kohat,NA,Kohat,0,NA,earthquake,1992-0202,33.32515236,71.24675238
+4690,Pakistan,PAK,770,1992,15152,Peshawar,2,N.W.F.P.,Peshawar,NA,Peshawar,0,NA,earthquake,1992-0202,34.01301839,71.79335279
+4708,Pakistan,PAK,770,1998,15154,Peshawar,2,N.W.F.P.,Peshawar,NA,Peshawar,0,NA,earthquake,1998-0579,34.01301839,71.79335279
+4708,Pakistan,PAK,770,1998,15252,Swabi,3,N.W.F.P.,Mardan,Swabi,Yar Husain,0,NA,earthquake,1998-0579,34.13624248,72.46791818
+4788,Panama,PAN,95,1991,15294,Bocas Del Toro,2,Bocas Del Toro,Bocas Del Toro,NA,Bocas del Toro area,0,NA,earthquake,1991-0773,9.212808761,-82.25426198
+4898,Peru,PER,135,1996,15687,Nazca,2,Ica,Nazca,NA,Nazca,0,NA,earthquake,1996-0261,-14.94138893,-75.08033017
+4898,Peru,PER,135,1996,15691,Palpa,2,Ica,Palpa,NA,Palpa,0,NA,earthquake,1996-0261,-14.36880102,-75.17406744
+5441,Romania,ROU,360,1991,19397,Voiteg,2,Timis,Voiteg,NA,Vouteg,0,NA,earthquake,1991-0399,45.48059687,21.2715995
+5495,Russia,RUS,365,1995,19527,Okhinskiy Rayon,2,Sakhalin,Okhinskiy Rayon,NA,Neftegorsk,0,NA,earthquake,1995-0097,52.98239824,142.4431105
+5663,Slovenia,SVN,349,1998,20004,Bohinj,2,Gorenjska,Bohinj,NA,Bojinj,0,NA,earthquake,1998-0110,46.29687821,13.91434431
+5663,Slovenia,SVN,349,1998,20006,Bovec,2,Goriska,Bovec,NA,Bovec,0,NA,earthquake,1998-0110,46.36207173,13.62691301
+5663,Slovenia,SVN,349,1998,20013,Jesenice,2,Gorenjska,Jesenice,NA,Jesenice,0,NA,earthquake,1998-0110,46.45021478,14.07576428
+5663,Slovenia,SVN,349,1998,20014,Kobarid,2,Goriska,Kobarid,NA,Kobarid,0,NA,earthquake,1998-0110,46.25496658,13.54942002
+5663,Slovenia,SVN,349,1998,20019,Tolmin,2,Goriska,Tolmin,NA,Tolmin,0,NA,earthquake,1998-0110,46.17249532,13.8027914
+5797,Uzbekistan,UZB,365,1984,26239,Jondor,2,Bukhoro,Jondor,NA,Gazli,1,USSR,earthquake,1984-0028,39.9528832,63.65083945
+5810,Kyrgyzstan,KGZ,365,1990,12066,Uzgen,2,Osh,Uzgen,NA,Uzgen,1,USSR,earthquake,1990-0601,40.83111421,73.57074979
+5815,Georgia,GEO,372,1991,6744,Oni,2,Racha-Lechkhumi-Kvemo Svaneti,Oni,NA,Oni,0,NA,earthquake,1991-0117,42.62247376,43.53697709
+6341,Turkey,TUR,640,1983,22373,Horasan,2,Erzurum,Horasan,NA,Horasan,0,NA,earthquake,1983-0136,40.0382095,42.21032858
+6341,Turkey,TUR,640,1983,22452,Pasinler,2,Erzurum,Pasinler,NA,Pasinler,0,NA,earthquake,1983-0136,40.00152851,41.65465827
+6356,Turkey,TUR,640,1995,22321,Dinar,2,Afyon,Dinar,NA,Dinar,0,NA,earthquake,1995-0233,38.14066119,30.24894532
+6356,Turkey,TUR,640,1995,22353,Evciler,2,Afyon,Evciler,NA,Evciler,0,NA,earthquake,1995-0233,38.0307137,29.8723986
+6481,United Kingdom,GBR,200,1990,22885,Powys,2,Wales,Powys,NA,Powys,0,NA,earthquake,1990-0193,52.30815873,-3.405021081
+6481,United Kingdom,GBR,200,1990,22979,Wrexham,2,Wales,Wrexham,NA,Wrexham,0,NA,earthquake,1990-0193,52.96033858,-3.057336644
+6538,United States,USA,2,1964,23081,Anchorage,2,Alaska,Anchorage,NA,Anchorage,0,NA,earthquake,1964-0021,61.14927934,-149.1075655
+6582,United States,USA,2,1983,23213,Bonneville,2,Idaho,Bonneville,NA,Eastern Idaho,0,NA,earthquake,1983-0514,43.38825553,-111.6141602
+6582,United States,USA,2,1983,23473,Custer,2,Idaho,Custer,NA,Borah Peak,0,NA,earthquake,1983-0514,38.10827566,-105.3648
+6651,United States,USA,2,1989,23198,Berkeley,2,California,Berkeley,NA,Berkeley,0,NA,earthquake,1989-0133,33.19613971,-79.95107548
+6651,United States,USA,2,1989,25519,San Benito,2,California,San Benito,NA,Holister,0,NA,earthquake,1989-0133,36.6060511,-121.0743497
+6651,United States,USA,2,1989,25525,San Francisco,2,California,San Francisco,NA,San Francisco,0,NA,earthquake,1989-0133,37.7552392,-122.4450135
+6651,United States,USA,2,1989,25531,San Mateo,2,California,San Mateo,NA,San Mateo,0,NA,earthquake,1989-0133,37.42207849,-122.3310138
+6651,United States,USA,2,1989,25537,Santa Cruz,2,California,Santa Cruz,NA,Santa Cruz,0,NA,earthquake,1989-0133,31.52396318,-110.8452028
+6760,United States,USA,2,1994,24252,Los Angeles,2,California,Los Angeles,NA,Los Angeles,0,NA,earthquake,1994-0002,34.32090698,-118.2275975
+6760,United States,USA,2,1994,25282,Orange,2,California,Orange,NA,Orange,0,NA,earthquake,1994-0002,33.70274935,-117.7620186
+6760,United States,USA,2,1994,25521,San Bernardino,2,California,San Bernardino,NA,San Bernardino Counties,0,NA,earthquake,1994-0002,34.84275635,-116.1806586
+6760,United States,USA,2,1994,25922,Ventura,2,California,Ventura,NA,Ventura,0,NA,earthquake,1994-0002,34.45823545,-119.0849008
+3014,Indonesia,IDN,850,1985,9599,Papua,1,Papua,Papua,NA,Eastern Irian Jaya,0,NA,earthquake,1985-0110,-4.662877994,138.6911071
+268,Australia,AUS,900,1968,1055,Cunderdin,2,Western Australia,Cunderdin,NA,Meckering,0,NA,earthquake,1968-0077,-31.59958132,117.1557197
+408,Azerbaijan,AZE,373,1999,1440,Agdas,2,Aran,Agdas,NA,Agdash,0,NA,earthquake,1999-0196,40.56465114,47.3876576
+408,Azerbaijan,AZE,373,1999,1457,Goycay,2,Aran,Goycay,NA,Geokchai,0,NA,earthquake,1999-0196,40.56164507,47.82220899
+1691,Colombia,COL,100,1979,5234,San Juan De Pasto,2,Narino,San Juan De Pasto,NA,Pasto,0,NA,earthquake,1979-0113,1.061885647,-77.22296294
+1691,Colombia,COL,100,1979,5291,Tumaco,2,Narino,Tumaco,NA,Tumaco Island,0,NA,earthquake,1979-0113,1.583880854,-78.66412217
+1704,Colombia,COL,100,1991,5257,Santiago De Cali,2,Valle Del Cauca,Santiago De Cali,NA,Cali,0,NA,earthquake,1991-0390,3.399817575,-76.59957733
+1705,Colombia,COL,100,1992,5148,Murindo,2,Antioquia,Murindo,NA,Murindo,0,NA,earthquake,1992-0151,6.792449758,-76.72032114
+2299,Germany,DEU,260,1992,6824,Koln,2,Nordrhein-Westfalen,Koln,NA,Koln,0,NA,earthquake,1992-0093,50.94566688,6.973218552
+2434,Guatemala,GTM,90,1985,7200,Uspantan,2,Quiche,Uspantan,NA,San Miguel Uspantan,0,NA,earthquake,1985-0120,15.46655556,-90.81766947
+3035,Indonesia,IDN,850,1990,9193,Gayo Lues,2,Aceh,Gayo Lues,NA,Bangkejeren,0,NA,earthquake,1990-0593,3.981911266,97.35743629
+3041,Indonesia,IDN,850,1992,9190,Flores Timur,2,Nusa Tenggara Timur,Flores Timur,NA,East Flores,0,NA,earthquake,1992-0163,-8.365094236,122.9444229
+3072,Indonesia,IDN,850,1998,9212,Halmahera Tengah,2,Maluku Utara,Halmahera Tengah,NA,Halmahera Tengah,0,NA,earthquake,1998-0403,0.40274103,128.2821957
+3072,Indonesia,IDN,850,1998,9431,Kepulauan Sula,2,Maluku Utara,Kepulauan Sula,NA,Sula Island,0,NA,earthquake,1998-0403,-1.872904242,125.151639
+4187,Mexico,MEX,70,1995,13037,Alvaro Obregon,2,Distrito Federal,Alvaro Obregon,NA,Alvaro Obregon,0,NA,earthquake,1995-0454,19.28098007,-99.19713787
+6341,Turkey,TUR,640,1983,22441,Narman,2,Erzurum,Narman,NA,Narman,0,NA,earthquake,1983-0136,40.3038737,41.87679564
+1704,Colombia,COL,100,1991,4992,Buenaventura,2,Valle Del Cauca,Buenaventura,NA,Buenaventura,0,NA,earthquake,1991-0390,3.596249087,-77.08665041
+3060,Indonesia,IDN,850,1995,9641,Poso,2,Sulawesi Tengah,Poso,NA,Poso,0,NA,earthquake,1995-0089,-1.680809256,120.5210926
+6538,United States,USA,2,1964,25914,Valdez-Cordova,2,Alaska,Valdez-Cordova,NA,Prince William Sound,0,NA,earthquake,1964-0021,61.46630881,-144.2794106
+6651,United States,USA,2,1989,25536,Santa Clara,2,California,Santa Clara,NA,San Jose,0,NA,earthquake,1989-0133,37.23123906,-121.6928912
+1099,Chile,CHL,155,1995,3772,Taltal,3,Antofagasta,Antofagasta,Taltal,Taltal,0,NA,earthquake,1995-0171,-25.17610075,-69.8881514
+1099,Chile,CHL,155,1995,3783,Vallenar,3,Atacama,Huasco,Vallenar,Vallenar,0,NA,earthquake,1995-0171,-28.56473179,-70.54080274
+3448,Italy,ITA,325,1990,10391,Carlentini,3,Sicily,Syracuse,Carlentini,Carlentini,0,NA,earthquake,1990-0250,37.25294826,14.99782827
+4788,Panama,PAN,95,1991,15286,Almirante,3,Bocas Del Toro,Changuinola,Almirante,Almirante,0,NA,earthquake,1991-0773,9.274454312,-82.39730377
+01-1118,Peru,PER,135,1972,28271,Tarapoto,3,San Martin,San Martin,Tarapoto, Tarapoto,0,NA,earthquake,1972-0024,-6.497946098,-76.36915318
+01-1118,Peru,PER,135,1972,28272,Juanjui,3,San Martin,Mariscal Caceres,Juanjui,Juanjui,0,NA,earthquake,1972-0024,-7.192874085,-76.78275925
+01-130,Portugal,POR,235,1998,28604,Faial Da Terra,3,Azores,Povoacao,Faial Da Terra,Faial and Pico Isl.,0,NA,earthquake,1998-0206,37.7534823,-25.19996504
+01-130,Portugal,POR,235,1998,28605,Pico Da Pedra,3,Azores,Ribeira Grande,Pico Da Pedra,Faial and Pico Isl.,0,NA,earthquake,1998-0206,37.7941588,-25.61567301
+01-954,Mexico,MEX,70,1995,30441,Ometepec,2,Guerrero,Ometepec,NA, Ometepec,0,NA,earthquake,1995-0203,16.69902592,-98.28628021
+01-954,Mexico,MEX,70,1995,30442,Cuajinicuilapa,2,Guerrero,Cuajinicuilapa,NA, Cuajinicuilapa,0,NA,earthquake,1995-0203,16.48959125,-98.5131951
+01-954,Mexico,MEX,70,1995,30443,Igualapa,2,Guerrero,Igualapa,NA, Igualapa,0,NA,earthquake,1995-0203,16.83563741,-98.43341331
+2378,Greece,GRC,350,1980,7034,Volos,3,Thessaly And Central Greece,Thessaly,Volos,Volos,0,NA,earthquake,1980-0239,39.35363493,22.90709645
+2,Afghanistan,AFG,700,1982,34,Baghlan,1,Baghlan,NA,NA,Baghlan province,0,NA,earthquake,1982-0127,35.70539596,68.714507
+3,Afghanistan,AFG,700,1983,6,Badakhshan,1,Badakhshan,NA,NA,North-East,0,NA,earthquake,1983-0166,37.03277237,71.46118314
+3,Afghanistan,AFG,700,1983,35,Baghlan,1,Baghlan,NA,NA,Baghlan,0,NA,earthquake,1983-0166,35.70539596,68.714507
+3,Afghanistan,AFG,700,1983,195,Kunar,1,Kunar,NA,NA,North-East,0,NA,earthquake,1983-0166,34.96435131,71.11623151
+3,Afghanistan,AFG,700,1983,204,Kunduz,1,Kunduz,NA,NA,North-East,0,NA,earthquake,1983-0166,36.83896883,68.75096391
+3,Afghanistan,AFG,700,1983,260,Nuristan,1,Nuristan,NA,NA,Nuristan,0,NA,earthquake,1983-0166,35.41144261,70.80035231
+3,Afghanistan,AFG,700,1983,272,Panjshir,1,Panjshir,NA,NA,North-East,0,NA,earthquake,1983-0166,35.45479053,69.82098733
+3,Afghanistan,AFG,700,1983,316,Takhar,1,Takhar,NA,NA,North-East,0,NA,earthquake,1983-0166,36.70599574,69.77863762
+4,Afghanistan,AFG,700,1984,140,Jalal Abad,2,Nangarhar,Jalal Abad,NA,Jalal-Abad,0,NA,earthquake,1984-0309,34.46599848,70.46849831
+5,Afghanistan,AFG,700,1991,7,Badakhshan,1,Badakhshan,NA,NA,Badakhstan,0,NA,earthquake,1991-0033,37.03277237,71.46118314
+5,Afghanistan,AFG,700,1991,196,Kunar,1,Kunar,NA,NA,Konar,0,NA,earthquake,1991-0033,34.96435131,71.11623151
+5,Afghanistan,AFG,700,1991,240,Nangarhar,1,Nangarhar,NA,NA,Nangarhar,0,NA,earthquake,1991-0033,34.27536705,70.46719776
+8,Afghanistan,AFG,700,1991,9,Badakhshan,1,Badakhshan,NA,NA,Badakhshan province,0,NA,earthquake,1991-0498,37.03277237,71.46118314
+14,Afghanistan,AFG,700,1994,142,Jawzjan,1,Jawzjan,NA,NA,Jowzan,0,NA,earthquake,1994-0057,36.818929,65.86573548
+17,Afghanistan,AFG,700,1996,68,Bilchiragh,2,Faryab,Bilchiragh,NA,Pakhalsoz,0,NA,earthquake,1996-0020,35.71850907,65.31827213
+17,Afghanistan,AFG,700,1996,150,Kabul,1,Kabul,NA,NA,Qala-E-Khwaja,0,NA,earthquake,1996-0020,34.55788293,69.31210786
+19,Afghanistan,AFG,700,1997,125,Hirat,1,Hirat,NA,NA,Herat area,0,NA,earthquake,1997-0095,34.19079483,62.12001279
+22,Afghanistan,AFG,700,1998,286,Rustaq,2,Takhar,Rustaq,NA,Rustaq,0,NA,earthquake,1998-0026,37.1043848,69.87293405
+24,Afghanistan,AFG,700,1998,13,Badakhshan,1,Badakhshan,NA,NA,Faizabad,0,NA,earthquake,1998-0152,37.03277237,71.46118314
+94,Albania,ALB,339,1967,352,Diber,1,Diber,NA,NA,Shupenze,0,NA,earthquake,1967-0075,41.58799308,20.24867822
+96,Albania,ALB,339,1982,386,Lushnjes,2,Fier,Lushnjes,NA,Lushnje,0,NA,earthquake,1982-0161,40.93124031,19.63420664
+97,Albania,ALB,339,1988,406,Tirane,1,Tirane,Tiranes,NA,Tirana,0,NA,earthquake,1988-0702,41.26666599,19.79181058
+102,Albania,ALB,339,1998,372,Kukes,1,Kukes,NA,NA,Kukes,0,NA,earthquake,1998-0584,42.19509298,20.24114138
+112,Algeria,DZA,220,1960,537,M'Sila,1,M'Sila,NA,NA,Beni Illmane,1,France,earthquake,1960-0033,36.29244602,6.145986667
+113,Algeria,DZA,615,1965,538,M'Sila,1,M'Sila,NA,NA,M'sila & Environs,0,NA,earthquake,1965-0002,36.29244602,6.145986667
+116,Algeria,DZA,615,1980,511,El Asnam,2,Bouira,El Asnam,NA,El Asnam,0,NA,earthquake,1980-0096,36.35358863,4.032355389
+117,Algeria,DZA,615,1980,512,El Asnam,2,Bouira,El Asnam,NA,El Asnam area,0,NA,earthquake,1980-0111,36.35358863,4.032355389
+121,Algeria,DZA,615,1985,499,Constantine,1,Constantine,NA,NA,Constantine,0,NA,earthquake,1985-0386,36.34783418,6.688083228
+121,Algeria,DZA,615,1985,603,Skikda,1,Skikda,NA,NA,Skikda,0,NA,earthquake,1985-0386,36.7835197,6.833149234
+122,Algeria,DZA,615,1987,473,Bordj Bou Arreridj,1,Bordj Bou Arreridj,NA,NA,Daira de Bordj Bou Naama,0,NA,earthquake,1987-0306,36.08137819,4.713775866
+122,Algeria,DZA,615,1987,536,Larbaa,2,Tissemsilt,Larbaa,NA,Larbaa,0,NA,earthquake,1987-0306,35.33950781,6.121865672
+123,Algeria,DZA,615,1988,465,Blida,1,Blida,NA,NA,Blida area,0,NA,earthquake,1988-0042,36.49210826,2.920971089
+124,Algeria,DZA,615,1989,466,Blida,1,Blida,NA,NA,Blida,0,NA,earthquake,1989-0139,36.49210826,2.920971089
+124,Algeria,DZA,615,1989,479,Boumerdes,1,Boumerdes,NA,NA,Boumerdes,0,NA,earthquake,1989-0139,36.72789281,3.636741514
+124,Algeria,DZA,615,1989,555,Mostaganem,1,Mostaganem,NA,NA,El-Nador,0,NA,earthquake,1989-0139,35.98730491,0.330881926
+124,Algeria,DZA,615,1989,623,Tipaza,1,Tipaza,NA,NA,Tipasa,0,NA,earthquake,1989-0139,36.51993168,2.214876038
+125,Algeria,DZA,615,1992,422,Ain Defla,1,Ain Defla,NA,NA,Ain-Defla,0,NA,earthquake,1992-0012,36.18406054,2.069146568
+128,Algeria,DZA,615,1994,546,Mascara,1,Mascara,NA,NA,Mascara province,0,NA,earthquake,1994-0196,35.39068636,0.159045282
+133,Algeria,DZA,615,1999,429,Ain Temouchent,1,Ain Temouchent,NA,NA,Ain Temuchent,0,NA,earthquake,1999-0561,35.35046643,-1.054942752
+211,Argentina,ARG,160,1977,827,Caucete,2,San Juan,Caucete,NA,Caucete,0,NA,earthquake,1977-0137,-31.50781311,-67.5449118
+211,Argentina,ARG,160,1977,840,Cordoba,1,Cordoba,NA,NA,Cardoba,0,NA,earthquake,1977-0137,-32.14099274,-63.80146137
+215,Argentina,ARG,160,1985,903,Mendoza,1,Mendoza,NA,NA,Mendoza province,0,NA,earthquake,1985-0024,-34.62804118,-68.58705855
+264,Armenia,ARM,371,1997,963,Tavush,1,Tavush,NA,NA,Tavush region,0,NA,earthquake,1997-0368,40.91141419,45.13013983
+291,Australia,AUS,900,1994,1041,Cessnock,2,New South Wales,Cessnock,NA,Cessnock,0,NA,earthquake,1994-0642,-32.92480474,151.2247887
+388,Austria,AUT,305,1998,1396,Arnoldstein,3,Karnten,Villach Land,Arnoldstein,Arnoldstein,0,NA,earthquake,1998-0110,46.5458139,13.73443976
+484,Bangladesh,BGD,771,1988,2256,Sylhet,1,Sylhet,NA,NA,Syhlet,0,NA,earthquake,1988-0079,24.71687954,91.66644368
+491,Bangladesh,BGD,771,1989,1607,Banari Para,3,Barisal,Barisal,Banari Para,Banaripara area,0,NA,earthquake,1989-0071,22.81173083,90.13114569
+663,Belgium,BEL,211,1983,2362,Liege,2,Wallonie,Liege,NA,Seraing,0,NA,earthquake,1983-0146,50.51848781,5.738169024
+727,Bolivia,BOL,145,1982,2545,Tarija,1,Tarija,NA,NA,Tarija,0,NA,earthquake,1982-0396,-21.59247581,-63.88285003
+736,Bolivia,BOL,145,1998,2434,Aiquile,3,Cochabamba,Narciso Campero,Aiquile,Aiquile,0,NA,earthquake,1998-0169,-18.3090403,-65.10327711
+793,Brazil,BRA,140,1986,2798,Joao Camara,2,Rio Grande Do Norte,Joao Camara,NA,Joao Camara,0,NA,earthquake,1986-0141,-5.475169929,-35.87229607
+793,Brazil,BRA,140,1986,2995,Sao Leopoldo,2,Rio Grande Do Sul,Sao Leopoldo,NA,Pobo Branco,0,NA,earthquake,1986-0141,-29.75455574,-51.14457586
+881,Bulgaria,BGR,355,1977,3110,Ruse,1,Ruse,NA,NA,Ruse,0,NA,earthquake,1977-0048,43.67017346,26.00117468
+881,Bulgaria,BGR,355,1977,3143,Svishtov,2,Veliko Tarnovo,Svishtov,NA,Svishtov,0,NA,earthquake,1977-0048,43.52835871,25.34612697
+883,Bulgaria,BGR,355,1986,3141,Strazhitsa,2,Veliko Tarnovo,Strazhitsa,NA,Strazhitsa,0,NA,earthquake,1986-0140,43.25687533,25.96796349
+1080,Chile,CHL,155,1960,3744,Puerto Montt,3,Los Lagos,Llanquihue,Puerto Montt,Puerto Montt,0,NA,earthquake,1960-0013,-41.47604118,-72.81041733
+1080,Chile,CHL,155,1960,3780,Valdivia,2,Los Rios,Valdivia,NA,Valdivia,0,NA,earthquake,1960-0013,-39.87852955,-72.67192928
+1081,Chile,CHL,155,1965,3701,Coquimbo,1,Coquimbo,NA,NA,Coquimbo,0,NA,earthquake,1965-0016,-30.60618824,-70.86997776
+1081,Chile,CHL,155,1965,3760,Santiago,2,Region Metropolitana De Santiago,Santiago,NA,Santiago,0,NA,earthquake,1965-0016,-33.30455324,-70.61612308
+1082,Chile,CHL,155,1966,3658,Antofagasta,1,Antofagasta,NA,NA,Taltal & Catalina,0,NA,earthquake,1966-0090,-23.45726688,-69.10383908
+1085,Chile,CHL,155,1971,3702,Coquimbo,1,Coquimbo,NA,NA,Salamnca,0,NA,earthquake,1971-0042,-30.60618824,-70.86997776
+1085,Chile,CHL,155,1971,3784,Valparaiso,1,Valparaiso,NA,NA,Valparaiso,0,NA,earthquake,1971-0042,-32.65699609,-71.39461035
+1088,Chile,CHL,155,1985,3718,La Serena,3,Coquimbo,Elqui,La Serena,La Serena,0,NA,earthquake,1985-0041,-29.75500178,-70.99197556
+1088,Chile,CHL,155,1985,3750,Rancagua,3,Libertador General Bernardo O'Higgins,Cachapoal,Rancagua,Rancegua,0,NA,earthquake,1985-0041,-34.04373407,-70.9380286
+1088,Chile,CHL,155,1985,3762,Santiago,2,Region Metropolitana De Santiago,Santiago,NA,Santiago,0,NA,earthquake,1985-0041,-33.30455324,-70.61612308
+1088,Chile,CHL,155,1985,3785,Valparaiso,1,Valparaiso,NA,NA,Valparaiso,0,NA,earthquake,1985-0041,-32.65699609,-71.39461035
+1091,Chile,CHL,155,1987,3667,Arica,2,Arica Y Parinacota,Arica,NA,Arica,0,NA,earthquake,1987-0144,-18.63728435,-69.88836328
+1091,Chile,CHL,155,1987,3714,Iquique,2,Tarapaca,Iquique,NA,Iquique,0,NA,earthquake,1987-0144,-20.13895983,-69.40659999
+1099,Chile,CHL,155,1995,3668,Arica,2,Arica Y Parinacota,Arica,NA,Arica,0,NA,earthquake,1995-0171,-18.63728435,-69.88836328
+1099,Chile,CHL,155,1995,3715,Iquique,2,Tarapaca,Iquique,NA,Iquique,0,NA,earthquake,1995-0171,-20.13895983,-69.40659999
+1099,Chile,CHL,155,1995,3719,La Serena,3,Coquimbo,Elqui,La Serena,La serena,0,NA,earthquake,1995-0171,-29.75500178,-70.99197556
+1131,China,CHN,710,1966,4224,Hebei,1,Hebei,NA,NA,Hopeh,0,NA,earthquake,1966-0034,39.54672665,116.1309498
+1133,China,CHN,710,1969,4733,Tianjin,1,Tianjin,NA,NA,Tientsin,0,NA,earthquake,1969-0082,39.31052006,117.33333
+1136,China,CHN,710,1976,3829,Beijing,1,Beijing,NA,NA,Pek,0,NA,earthquake,1976-0050,40.18379278,116.4105636
+1136,China,CHN,710,1976,4225,Hebei,1,Hebei,NA,NA,Tangshan,0,NA,earthquake,1976-0050,39.54672665,116.1309498
+1136,China,CHN,710,1976,4734,Tianjin,1,Tianjin,NA,NA,Tientsin,0,NA,earthquake,1976-0050,39.31052006,117.33333
+1138,China,CHN,710,1979,4398,Jiangsu,1,Jiangsu,NA,NA,Jiangsu province,0,NA,earthquake,1979-0063,32.97290031,119.4547481
+1139,China,CHN,710,1979,4436,Jiangxi,1,Jiangxi,NA,NA,Wu-Yuan,0,NA,earthquake,1979-0082,27.61292064,115.720715
+1139,China,CHN,710,1979,4526,Nei Mongol,1,Nei Mongol,NA,NA,Inner Mongolia,0,NA,earthquake,1979-0082,44.08653703,113.915341
+1166,China,CHN,710,1987,4400,Jiangsu,1,Jiangsu,NA,NA,Wushi,0,NA,earthquake,1987-0102,32.97290031,119.4547481
+1174,China,CHN,710,1987,4438,Jiangxi,1,Jiangxi,NA,NA,Ganzhou-Xunwu,0,NA,earthquake,1987-0149,27.61292064,115.720715
+1177,China,CHN,710,1987,4439,Jiangxi,1,Jiangxi,NA,NA,South Jiangxi,0,NA,earthquake,1987-0158,27.61292064,115.720715
+1179,China,CHN,710,1988,4541,Ningxia Hui,1,Ningxia Hui,NA,NA,Ningxia province,0,NA,earthquake,1988-0035,37.26972902,106.1634852
+1198,China,CHN,710,1989,4228,Hebei,1,Hebei,NA,NA,Hebei,0,NA,earthquake,1989-0136,39.54672665,116.1309498
+1198,China,CHN,710,1989,4621,Shanxi,1,Shanxi,NA,NA,Shanxi,0,NA,earthquake,1989-0136,37.57642454,112.2919106
+1199,China,CHN,710,1989,3839,Chongqing,1,Chongqing,NA,NA,Jiangbei county,0,NA,earthquake,1989-0225,30.05913409,107.8744248
+1201,China,CHN,710,1990,4546,Qinghai,1,Qinghai,NA,NA,Qinghai Province,0,NA,earthquake,1990-0099,35.74896959,96.00370543
+1212,China,CHN,710,1990,3830,Beijing,1,Beijing,NA,NA,Tian Zhu,0,NA,earthquake,1990-0093,40.18379278,116.4105636
+1218,China,CHN,710,1991,4230,Hebei,1,Hebei,NA,NA,Hebei province,0,NA,earthquake,1991-0088,39.54672665,116.1309498
+1218,China,CHN,710,1991,4403,Jiangsu,1,Jiangsu,NA,NA,Guangling,0,NA,earthquake,1991-0088,32.97290031,119.4547481
+1218,China,CHN,710,1991,4622,Shanxi,1,Shanxi,NA,NA,Yuxian,0,NA,earthquake,1991-0088,37.57642454,112.2919106
+1251,China,CHN,710,1994,4547,Qinghai,1,Qinghai,NA,NA,Gonghe,0,NA,earthquake,1994-0767,35.74896959,96.00370543
+1278,China,CHN,710,1996,4529,Nei Mongol,1,Nei Mongol,NA,NA,Guyang county,0,NA,earthquake,1996-0081,44.08653703,113.915341
+1302,China,CHN,710,1998,4232,Hebei,1,Hebei,NA,NA,Hebei province,0,NA,earthquake,1998-0076,39.54672665,116.1309498
+1317,China,CHN,710,1998,4259,Henan,1,Henan,NA,NA,Yongcheng,0,NA,earthquake,1998-0384,33.88331294,113.6128077
+1319,China,CHN,710,1999,4233,Hebei,1,Hebei,NA,NA,Zangbei,0,NA,earthquake,1999-0383,39.54672665,116.1309498
+1332,China,CHN,710,1999,4626,Shanxi,1,Shanxi,NA,NA,Shanxi Province,0,NA,earthquake,1999-0455,37.57642454,112.2919106
+1333,China,CHN,710,1999,3831,Beijing,1,Beijing,NA,NA,Sanjianfang,0,NA,earthquake,1999-0553,40.18379278,116.4105636
+1684,Colombia,COL,100,1967,5163,Neiva,2,Huila,Neiva,NA,Neiva,0,NA,earthquake,1967-0020,3.011598581,-75.34216434
+1686,Colombia,COL,100,1970,4960,Bahia Solano,2,Choco,Bahia Solano,NA,Bahia Solano,0,NA,earthquake,1970-0051,6.324646274,-77.36161319
+1686,Colombia,COL,100,1970,5171,Pereira,2,Risaralda,Pereira,NA,Pereira,0,NA,earthquake,1970-0051,4.771218014,-75.73858894
+1691,Colombia,COL,100,1979,5090,Guapi,2,Cauca,Guapi,NA,Gorgona Island,0,NA,earthquake,1979-0113,2.425151222,-77.65810581
+1695,Colombia,COL,100,1983,5176,Popayan,2,Cauca,Popayan,NA,Popayan city,0,NA,earthquake,1983-0059,2.479148032,-76.64576353
+1707,Colombia,COL,100,1993,5183,Puerto Rondon,2,Arauca,Puerto Rondon,NA,Puerto Rondon,0,NA,earthquake,1993-0490,6.562377664,-71.09257565
+1709,Colombia,COL,100,1994,5094,Huila,1,Huila,NA,NA,Huila,0,NA,earthquake,1994-0059,2.538582517,-75.63992305
+1709,Colombia,COL,100,1994,5111,La Cruz,2,Narino,La Cruz,NA,La Cruz,0,NA,earthquake,1994-0059,1.567370119,-76.92823475
+1709,Colombia,COL,100,1994,5169,Paez,2,Cauca,Paez,NA,Toez,0,NA,earthquake,1994-0059,5.070367131,-73.02870704
+1710,Colombia,COL,100,1995,4982,Boyaca,1,Boyaca,NA,NA,Boyaca Province,0,NA,earthquake,1995-0015,5.759687938,-73.12314816
+1710,Colombia,COL,100,1995,5012,Casanare,1,Casanare,NA,NA,Casanare Department,0,NA,earthquake,1995-0015,5.36850759,-71.62256343
+1711,Colombia,COL,100,1995,5172,Pereira,2,Risaralda,Pereira,NA,Pereira,0,NA,earthquake,1995-0030,4.771218014,-75.73858894
+1716,Colombia,COL,100,1999,4946,Armenia,2,Quindio,Armenia,NA,Armenia,0,NA,earthquake,1999-0016,6.159021384,-75.82462639
+1716,Colombia,COL,100,1999,5212,Risaralda,1,Risaralda,NA,NA,Risaralda,0,NA,earthquake,1999-0016,5.067733956,-75.92181764
+1716,Colombia,COL,100,1999,5282,Tolima,1,Tolima,NA,NA,Tolima,0,NA,earthquake,1999-0016,4.044428637,-75.26657551
+1780,Costa Rica,CRI,94,1973,5485,San Carlos,2,Alajuela,San Carlos,NA,South Laguna Arenal,0,NA,earthquake,1973-0024,10.59267932,-84.433624
+1782,Costa Rica,CRI,94,1983,5490,San Jose,1,San Jose,NA,NA,SE San Jose,0,NA,earthquake,1983-0065,9.609320443,-83.98901842
+1783,Costa Rica,CRI,94,1983,5491,San Jose,1,San Jose,NA,NA,San Jose province,0,NA,earthquake,1983-0092,9.609320443,-83.98901842
+1785,Costa Rica,CRI,94,1990,5471,Puntarenas,1,Puntarenas,NA,NA,Puntarenas,0,NA,earthquake,1990-0191,9.154546175,-83.72552887
+1785,Costa Rica,CRI,94,1990,5492,San Jose,1,San Jose,NA,NA,San Jose,0,NA,earthquake,1990-0191,9.609320443,-83.98901842
+1786,Costa Rica,CRI,94,1990,5346,Alajuela,1,Alajuela,NA,NA,Alajuela,0,NA,earthquake,1990-0170,10.56383442,-84.61012338
+1786,Costa Rica,CRI,94,1990,5404,Heredia,1,Heredia,NA,NA,Heredia,0,NA,earthquake,1990-0170,10.4210701,-84.01305455
+1786,Costa Rica,CRI,94,1990,5493,San Jose,1,San Jose,NA,NA,San Jose,0,NA,earthquake,1990-0170,9.609320443,-83.98901842
+1787,Costa Rica,CRI,94,1991,5440,Matina,2,Limon,Matina,NA,Matina,0,NA,earthquake,1991-0114,10.01923587,-83.28886095
+1788,Costa Rica,CRI,94,1991,5425,Limon,1,Limon,NA,NA,Limon,0,NA,earthquake,1991-0773,9.94700922,-83.34421445
+1789,Costa Rica,CRI,94,1991,5494,San Jose,1,San Jose,NA,NA,San JosÃÂÃÂ©,0,NA,earthquake,1991-0293,9.609320443,-83.98901842
+1791,Costa Rica,CRI,94,1993,5534,Turrialba,2,Cartago,Turrialba,NA,Turrialba,0,NA,earthquake,1993-0184,9.824509338,-83.54461626
+1854,Cuba,CUB,40,1992,5617,Granma,1,Granma,NA,NA,Granma,0,NA,earthquake,1992-0067,20.2812363,-76.90553907
+1854,Cuba,CUB,40,1992,5684,Las Tunas,1,Las Tunas,NA,NA,Las Tunas,0,NA,earthquake,1992-0067,21.00265936,-77.01725871
+1854,Cuba,CUB,40,1992,5739,Santiago De Cuba,1,Santiago De Cuba,NA,NA,Santiago de Cuba,0,NA,earthquake,1992-0067,20.19609009,-75.90011506
+1895,Cyprus,CYP,352,1995,5764,Nicosia,1,Nicosia,NA,NA,Nicosia,0,NA,earthquake,1995-0034,35.04056654,33.066206
+1895,Cyprus,CYP,352,1995,5765,Paphos,1,Paphos,NA,NA,Paphos,0,NA,earthquake,1995-0034,34.90608432,32.5245254
+2002,Ecuador,ECU,130,1970,6080,Loja,1,Loja,NA,NA,Loja province,0,NA,earthquake,1970-0067,-4.088212643,-79.65422702
+2004,Ecuador,ECU,130,1976,6078,Latacunga,2,Pichincha,Latacunga,NA,Cotopaxi   Pinchincha,0,NA,earthquake,1976-0068,-0.788476934,-78.57798949
+2005,Ecuador,ECU,130,1980,6061,Guayaquil,2,Guayas,Guayaquil,NA,Guayaquil,0,NA,earthquake,1980-0081,-2.485753488,-80.06197177
+2007,Ecuador,ECU,130,1987,6019,Carchi,1,Carchi,NA,NA,Carchi,0,NA,earthquake,1987-0070,0.739517467,-78.04604111
+2007,Ecuador,ECU,130,1987,6070,Imbabura,1,Imbabura,NA,NA,Imbabura,0,NA,earthquake,1987-0070,0.406313223,-78.35746643
+2007,Ecuador,ECU,130,1987,6109,Napo,1,Napo,NA,NA,Napo,0,NA,earthquake,1987-0070,-0.654262106,-77.81934333
+2007,Ecuador,ECU,130,1987,6114,Pastaza,1,Pastaza,NA,NA,Pastaza,0,NA,earthquake,1987-0070,-1.707839769,-76.87352162
+2008,Ecuador,ECU,130,1987,6002,Ambato,2,Tungurahua,Ambato,NA,Ambato,0,NA,earthquake,1987-0162,-1.274066388,-78.7479452
+2009,Ecuador,ECU,130,1990,6122,Pomasqui,3,Pichincha,Quito,Pomasqui,Pomasqui,0,NA,earthquake,1990-0230,-0.047268579,-78.46173303
+2011,Ecuador,ECU,130,1995,6124,Quevedo,2,Los Rios,Quevedo,NA,Quevedo,0,NA,earthquake,1995-0047,-0.945466164,-79.40265988
+2012,Ecuador,ECU,130,1995,6115,Pastaza,1,Pastaza,NA,NA,Pastaza,0,NA,earthquake,1995-0226,-1.707839769,-76.87352162
+2012,Ecuador,ECU,130,1995,6137,Santiago,2,Morona Santiago,Santiago,NA,Santiago,0,NA,earthquake,1995-0226,-2.776057742,-78.30717231
+2013,Ecuador,ECU,130,1996,6077,La Victoria,3,Cotopaxi,Pujili,La Victoria,La Victoria,0,NA,earthquake,1996-0062,-0.911759185,-78.70082412
+2033,Egypt,EGY,651,1992,6153,Al Fayyum,1,Al Fayyum,NA,Al Fayoum,Fayoum,0,NA,earthquake,1992-0149,29.33343375,30.79983661
+2033,Egypt,EGY,651,1992,6159,Al Qahirah,1,Al Qahirah,NA,NA,Cairo,0,NA,earthquake,1992-0149,29.48602125,30.82061955
+2036,Egypt,EGY,651,1995,6160,Al Qahirah,1,Al Qahirah,NA,NA,Cairo,0,NA,earthquake,1995-0293,29.48602125,30.82061955
+2047,El Salvador,SLV,92,1965,6247,San Salvador,1,San Salvador,NA,NA,San Salvador,0,NA,earthquake,1965-0025,13.76264147,-89.16501344
+2051,El Salvador,SLV,92,1986,6248,San Salvador,1,San Salvador,NA,NA,San Salvador,0,NA,earthquake,1986-0123,13.76264147,-89.16501344
+2086,Ethiopia,ETH,530,1969,6291,Afar Zone 1,2,Afar,Afar Zone 1,NA,Serdo,0,NA,earthquake,1969-0061,11.93941902,41.2187558
+2141,Fiji,FJI,950,1990,6455,Serua,2,Western,Serua,NA,Fiji Islands,0,NA,earthquake,1990-0188,-18.15462213,177.9537289
+2173,France,FRA,220,1979,6642,Provence-Alpes-Cote D'Azur,1,Provence-Alpes-Cote D'Azur,NA,NA,Cote d'Azur,0,NA,earthquake,1979-0259,43.95687066,6.058617955
+2272,Georgia,GEO,372,1991,6757,Shida Kartli,1,Shida Kartli,NA,NA,Dzhava-Tskhinvazli,0,NA,earthquake,1991-0122,42.10628653,44.00717725
+2273,Georgia,GEO,372,1992,6738,Mtskheta-Mtianeti,1,Mtskheta-Mtianeti,NA,NA,Barisakho,0,NA,earthquake,1992-0481,42.29324541,44.74455728
+2351,Germany,DEU,260,1978,6850,Reutlingen,2,Baden-Wurttemberg,Reutlingen,NA,Swabian Alb,1,Germany West,earthquake,1978-0113,48.4067994,9.366522563
+2371,Greece,GRC,350,1965,7027,Thessaly,2,Thessaly And Central Greece,Thessaly,NA,Thessaly,0,NA,earthquake,1965-0015,39.52992874,22.21768655
+2373,Greece,GRC,350,1966,7002,Peloponnese,2,Peloponnese; Western Greece And The Ionian Islands,Peloponnese,NA,Megalopos,0,NA,earthquake,1966-0068,37.34288202,22.45850442
+2381,Greece,GRC,350,1983,7036,West Greece,2,Peloponnese; Western Greece And The Ionian Islands,West Greece,NA,Vonitsa,0,NA,earthquake,1983-0171,38.28216056,21.57299253
+2382,Greece,GRC,350,1985,7013,Preveza,3,Epirus And Western Macedonia,Epirus,Preveza,Preveza region,0,NA,earthquake,1985-0258,39.14468957,20.70319507
+2386,Greece,GRC,350,1990,7014,Preveza,3,Epirus And Western Macedonia,Epirus,Preveza,Kanalaki,0,NA,earthquake,1990-0217,39.14468957,20.70319507
+2387,Greece,GRC,350,1990,6983,Kilkis,3,Macedonia And Thrace,Central Macedonia,Kilkis,Goumenisa,0,NA,earthquake,1990-0169,41.04123064,22.89915484
+2388,Greece,GRC,350,1993,7037,West Greece,2,Peloponnese; Western Greece And The Ionian Islands,West Greece,NA,Pyrgos-Amalias,0,NA,earthquake,1993-0136,38.28216056,21.57299253
+2389,Greece,GRC,350,1993,6998,Patras,3,Peloponnese; Western Greece And The Ionian Islands,West Greece,Patras,Patras,0,NA,earthquake,1993-0579,38.2137766,21.79484979
+2391,Greece,GRC,350,1995,6999,Patras,3,Peloponnese; Western Greece And The Ionian Islands,West Greece,Patras,Patras,0,NA,earthquake,1995-0085,38.2137766,21.79484979
+2392,Greece,GRC,350,1995,7038,West Greece,2,Peloponnese; Western Greece And The Ionian Islands,West Greece,NA,Aiyion,0,NA,earthquake,1995-0437,38.28216056,21.57299253
+2393,Greece,GRC,350,1996,6984,Konitsa,3,Epirus And Western Macedonia,Epirus,Konitsa,Konitsa,0,NA,earthquake,1996-0179,40.14184666,20.82416059
+2396,Greece,GRC,350,1999,6982,Kastoria,3,Epirus And Western Macedonia,West Macedonia,Kastoria,Ag Anargiri,0,NA,earthquake,1999-0302,40.56180383,21.25394044
+2396,Greece,GRC,350,1999,7039,West Greece,2,Peloponnese; Western Greece And The Ionian Islands,West Greece,NA,Menidi,0,NA,earthquake,1999-0302,38.28216056,21.57299253
+2431,Guatemala,GTM,90,1976,7087,Guatemala,1,Guatemala,NA,NA,Guatemala city,0,NA,earthquake,1976-0024,14.62841721,-90.48741402
+2432,Guatemala,GTM,90,1979,7117,Jutiapa,1,Jutiapa,NA,NA,Jutiapia,0,NA,earthquake,1979-0094,14.21214822,-89.89141205
+2432,Guatemala,GTM,90,1979,7170,Santa Rosa,1,Santa Rosa,NA,NA,Santa Rosa,0,NA,earthquake,1979-0094,14.1657267,-90.33351324
+2435,Guatemala,GTM,90,1986,7108,Ixchiguan,2,San Marcos,Ixchiguan,NA,Ixchiguan,0,NA,earthquake,1986-0170,15.13789725,-91.91287812
+2438,Guatemala,GTM,90,1988,7061,Chimaltenango,1,Chimaltenango,NA,NA,Chamaltenango,0,NA,earthquake,1988-0463,14.69214663,-90.92117412
+2440,Guatemala,GTM,90,1991,7062,Chimaltenango,1,Chimaltenango,NA,NA,Chimaltenango,0,NA,earthquake,1991-0230,14.69214663,-90.92117412
+2440,Guatemala,GTM,90,1991,7077,Escuintla,1,Escuintla,NA,NA,Escuintla,0,NA,earthquake,1991-0230,14.16355655,-90.99727917
+2440,Guatemala,GTM,90,1991,7155,Sacatepequez,1,Sacatepequez,NA,NA,Sacatepeguez,0,NA,earthquake,1991-0230,14.55266134,-90.74279258
+2440,Guatemala,GTM,90,1991,7177,Solola,1,Solola,NA,NA,Solola,0,NA,earthquake,1991-0230,14.71570394,-91.25918208
+2476,Guinea,GIN,438,1983,7213,Gaoual,2,Boke,Gaoual,NA,Gaoual-Koumbia,0,NA,earthquake,1983-0161,11.72313693,-13.35621591
+2575,Honduras,HND,91,1982,7526,Comayagua,1,Comayagua,NA,NA,Comayagua area,0,NA,earthquake,1982-0141,14.61383235,-87.6400471
+2664,India,IND,750,1975,8149,Himachal Pradesh,1,Himachal Pradesh,NA,NA,Himachal Pradesh,0,NA,earthquake,1975-0014,31.92726931,77.23302517
+2683,India,IND,750,1980,8203,Jammu,2,Jammu And Kashmir,Jammu,NA,Jammu,0,NA,earthquake,1980-0084,32.80071486,74.73195938
+2685,India,IND,750,1980,8055,Gangtok,3,Sikkim,East Sikkim,Gangtok,Gangtok Region,0,NA,earthquake,1980-0255,27.29224045,88.67118288
+2703,India,IND,750,1984,7944,Cachar,2,Assam,Cachar,NA,Cachar district,0,NA,earthquake,1984-0124,24.81273134,92.85904352
+2708,India,IND,750,1986,8263,Kangra,2,Himachal Pradesh,Kangra,NA,Dharmsala,0,NA,earthquake,1986-0372,32.11106817,76.30433736
+2740,India,IND,750,1991,8928,Uttarkashi,2,Uttarakhand,Uttarkashi,NA,Uttarkashi,0,NA,earthquake,1991-0368,30.97799036,78.58958843
+2752,India,IND,750,1993,7946,Chamba,2,Himachal Pradesh,Chamba,NA,Holi,0,NA,earthquake,1993-0074,32.67822502,76.33775186
+2754,India,IND,750,1993,8411,Latur,2,Maharashtra,Latur,NA,Latur area,0,NA,earthquake,1993-0581,18.37278299,76.75964617
+2774,India,IND,750,1997,8179,Jabalpur,2,Madhya Pradesh,Jabalpur,NA,Jabalpur,0,NA,earthquake,1997-0115,23.17446788,79.94316101
+2974,Indonesia,IDN,850,1967,9493,Malang,2,Jawa Timur,Malang,NA,Malang,0,NA,earthquake,1967-0102,-8.12584091,112.6383892
+2977,Indonesia,IDN,850,1968,9186,Donggala,2,Sulawesi Tengah,Donggala,NA,Donggala,0,NA,earthquake,1968-0064,-0.919641281,119.8846648
+2978,Indonesia,IDN,850,1969,9491,Majene,2,Sulawesi Barat,Majene,NA,Majene,0,NA,earthquake,1969-0052,-3.144747563,118.9300794
+2980,Indonesia,IDN,850,1976,9062,Bali,1,Bali,NA,NA,Bali,0,NA,earthquake,1976-0047,-8.368407465,115.1320316
+2984,Indonesia,IDN,850,1977,9559,Nusa Tenggara Timur,1,Nusa Tenggara Timur,NA,NA,Sumba,0,NA,earthquake,1977-0106,-9.259755266,122.1785055
+2988,Indonesia,IDN,850,1979,9561,Nusa Tenggara Timur,1,Nusa Tenggara Timur,NA,NA,Sumabxa Island,0,NA,earthquake,1979-0054,-9.259755266,122.1785055
+2992,Indonesia,IDN,850,1979,9123,Bengkulu,1,Bengkulu,NA,NA,Bengkulu area,0,NA,earthquake,1979-0114,-3.56038621,102.3464653
+2992,Indonesia,IDN,850,1979,9780,Sumatera Selatan,1,Sumatera Selatan,NA,NA,South Sumatra,0,NA,earthquake,1979-0114,-3.21734014,104.1691231
+2993,Indonesia,IDN,850,1979,9063,Bali,1,Bali,NA,NA,Bali,0,NA,earthquake,1979-0115,-8.368407465,115.1320316
+2996,Indonesia,IDN,850,1980,9856,Ternate,2,Maluku Utara,Ternate,NA,Ternate,0,NA,earthquake,1980-0088,0.752916014,127.351456
+2998,Indonesia,IDN,850,1981,9147,Bojonegoro,2,Jawa Timur,Bojonegoro,NA,Solo Valley,0,NA,earthquake,1981-0025,-7.255899347,111.8052744
+3001,Indonesia,IDN,850,1982,9704,Sukabumi,2,Jawa Barat,Sukabumi,NA,Sukabumi,0,NA,earthquake,1982-0031,-7.075194493,106.7055944
+3005,Indonesia,IDN,850,1983,9067,Banda Aceh,2,Aceh,Banda Aceh,NA,Banda Aceh,0,NA,earthquake,1983-0067,5.540968512,95.34259123
+3006,Indonesia,IDN,850,1984,9513,Mamuju,2,Sulawesi Barat,Mamuju,NA,Mamuju,0,NA,earthquake,1984-0015,-2.34390473,119.3891787
+3021,Indonesia,IDN,850,1987,9054,Alor,2,Nusa Tenggara Timur,Alor,NA,South Pantar Island,0,NA,earthquake,1987-0213,-8.302998786,124.5733825
+3029,Indonesia,IDN,850,1989,9055,Alor,2,Nusa Tenggara Timur,Alor,NA,Alor,0,NA,earthquake,1989-0218,-8.302998786,124.5733825
+3030,Indonesia,IDN,850,1989,9394,Jayawijaya,2,Papua,Jayawijaya,NA,Jayawijaya,0,NA,earthquake,1989-0092,-3.967709496,138.7426285
+3037,Indonesia,IDN,850,1991,9194,Gorontalo,1,Gorontalo,NA,NA,Gorontalo area,0,NA,earthquake,1991-0124,0.68741032,122.3751424
+3038,Indonesia,IDN,850,1991,9056,Alor,2,Nusa Tenggara Timur,Alor,NA,Kalabahi,0,NA,earthquake,1991-0165,-8.302998786,124.5733825
+3040,Indonesia,IDN,850,1992,9157,Brebes,2,Jawa Tengah,Brebes,NA,Brebes area,0,NA,earthquake,1992-0247,-7.056691103,108.9282911
+3046,Indonesia,IDN,850,1994,9118,Bekasi,2,Jawa Barat,Bekasi,NA,Sumberjaya,0,NA,earthquake,1994-0007,-6.211359583,107.1232329
+3046,Indonesia,IDN,850,1994,9784,Sumatera Selatan,1,Sumatera Selatan,NA,NA,South Sumatra,0,NA,earthquake,1994-0007,-3.21734014,104.1691231
+3049,Indonesia,IDN,850,1994,9114,Banyuwangi,2,Jawa Timur,Banyuwangi,NA,Sarongan,0,NA,earthquake,1994-0062,-8.366156766,114.2085872
+3053,Indonesia,IDN,850,1994,9180,Denpasar,2,Bali,Denpasar,NA,Denpasar,0,NA,earthquake,1994-0652,-8.663810262,115.2215793
+3061,Indonesia,IDN,850,1995,9695,Solok Selatan,2,Sumatera Barat,Solok Selatan,NA,Gunungkerinci,0,NA,earthquake,1995-0252,-1.402078997,101.2515426
+3069,Indonesia,IDN,850,1997,9615,Parepare,2,Sulawesi Selatan,Parepare,NA,Parepare,0,NA,earthquake,1997-0240,-4.029446023,119.6598327
+3071,Indonesia,IDN,850,1998,9494,Malang,2,Jawa Timur,Malang,NA,Malang area,0,NA,earthquake,1998-0583,-8.12584091,112.6383892
+3074,Indonesia,IDN,850,1999,9141,Kota Bogor,2,Jawa Barat,Kota Bogor,NA,Karyasari,0,NA,earthquake,1999-0568,-6.558990031,106.7681426
+3074,Indonesia,IDN,850,1999,9230,Jakarta Raya,1,Jakarta Raya,NA,NA,Jakarta,0,NA,earthquake,1999-0568,-6.202112106,106.8357425
+3074,Indonesia,IDN,850,1999,9591,Pandeglang,2,Banten,Pandeglang,NA,Pandelang District,0,NA,earthquake,1999-0568,-6.59003466,105.7459587
+3221,Iran,IRN,630,1960,10122,Lar,2,Fars,Lar,NA,Lar,0,NA,earthquake,1960-0002,27.88679124,53.96722623
+3223,Iran,IRN,630,1968,10135,Maku,2,West Azarbaijan,Maku,NA,Maku,0,NA,earthquake,1968-0042,39.28264506,44.84833898
+3224,Iran,IRN,630,1968,10192,Razavi Khorasan,1,Razavi Khorasan,NA,NA,Khorasan province,0,NA,earthquake,1968-0068,35.48537469,58.87406123
+3226,Iran,IRN,630,1969,10193,Razavi Khorasan,1,Razavi Khorasan,NA,NA,Khurasan province,0,NA,earthquake,1969-0046,35.48537469,58.87406123
+3230,Iran,IRN,630,1972,9986,Fars,1,Fars,NA,NA,Qir,0,NA,earthquake,1972-0027,29.29663231,53.18646599
+3232,Iran,IRN,630,1976,10242,South Khorasan,1,South Khorasan,NA,NA,South Khorasan province,0,NA,earthquake,1976-0072,32.36204672,59.61231385
+3234,Iran,IRN,630,1977,9950,Chahar Mahall And Bakhtiari,1,Chahar Mahall And Bakhtiari,NA,NA,Shahr Kord,0,NA,earthquake,1977-0057,31.94484893,50.6489166
+3235,Iran,IRN,630,1977,9961,Chaldoran,2,West Azarbaijan,Chaldoran,NA,Chaldoran,0,NA,earthquake,1977-0071,39.08792581,44.40586231
+3237,Iran,IRN,630,1977,10290,Zarand,2,Kerman,Zarand,NA,Bab-Tangal,0,NA,earthquake,1977-0142,30.52364402,55.83418903
+3238,Iran,IRN,630,1978,10194,Razavi Khorasan,1,Razavi Khorasan,NA,NA,Khorasan province,0,NA,earthquake,1978-0115,35.48537469,58.87406123
+3238,Iran,IRN,630,1978,10256,Tabas,2,Yazd,Tabas,NA,Tabas,0,NA,earthquake,1978-0115,33.39490094,56.76799654
+3239,Iran,IRN,630,1978,10059,Izeh County,2,Khuzestan,Izeh County,NA,Izeh,0,NA,earthquake,1978-0141,31.88774474,49.87325056
+3240,Iran,IRN,630,1979,10195,Razavi Khorasan,1,Razavi Khorasan,NA,NA,Meshed,0,NA,earthquake,1979-0018,35.48537469,58.87406123
+3241,Iran,IRN,630,1979,10196,Razavi Khorasan,1,Razavi Khorasan,NA,NA,Khorasan province,0,NA,earthquake,1979-0103,35.48537469,58.87406123
+3242,Iran,IRN,630,1979,10197,Razavi Khorasan,1,Razavi Khorasan,NA,NA,Khorasan province,0,NA,earthquake,1979-0107,35.48537469,58.87406123
+3243,Iran,IRN,630,1980,10138,Markazi,1,Markazi,NA,NA,Kishan,0,NA,earthquake,1980-0264,34.5699065,49.93057695
+3244,Iran,IRN,630,1980,10188,Qom,1,Qom,NA,NA,Qom-Saveh,0,NA,earthquake,1980-0108,34.69377095,50.98233356
+3245,Iran,IRN,630,1980,10189,Qom,1,Qom,NA,NA,Qom,0,NA,earthquake,1980-0109,34.69377095,50.98233356
+3247,Iran,IRN,630,1981,10068,Kerman,1,Kerman,NA,NA,Kerman province,0,NA,earthquake,1981-0056,29.57494283,57.27845719
+3248,Iran,IRN,630,1981,10069,Kerman,1,Kerman,NA,NA,Golbaf,0,NA,earthquake,1981-0067,29.57494283,57.27845719
+3250,Iran,IRN,630,1983,10141,Mazandaran,1,Mazandaran,NA,NA,Damavand-Amol,0,NA,earthquake,1983-0058,36.37660817,52.36348253
+3251,Iran,IRN,630,1983,10283,Zanjan,1,Zanjan,NA,NA,Zanjan,0,NA,earthquake,1983-0432,36.52367723,48.35945942
+3252,Iran,IRN,630,1985,9987,Fars,1,Fars,NA,NA,Firuzabad-Johrom,0,NA,earthquake,1985-0027,29.29663231,53.18646599
+3252,Iran,IRN,630,1985,10070,Kerman,1,Kerman,NA,NA,Fath-Abad,0,NA,earthquake,1985-0027,29.57494283,57.27845719
+3254,Iran,IRN,630,1986,9951,Chahar Mahall And Bakhtiari,1,Chahar Mahall And Bakhtiari,NA,NA,Mamasani,0,NA,earthquake,1986-0174,31.94484893,50.6489166
+3256,Iran,IRN,630,1986,9952,Chahar Mahall And Bakhtiari,1,Chahar Mahall And Bakhtiari,NA,NA,Mamasani,0,NA,earthquake,1986-0189,31.94484893,50.6489166
+3257,Iran,IRN,630,1987,10223,Sepidan,2,Fars,Sepidan,NA,Doshman Ziari,0,NA,earthquake,1987-0067,30.24273658,52.06188302
+3259,Iran,IRN,630,1987,10262,Tehran,1,Tehran,NA,NA,Teheran,0,NA,earthquake,1987-0101,35.55589631,51.87717293
+3263,Iran,IRN,630,1987,9928,Birjand,2,South Khorasan,Birjand,NA,Birjand,0,NA,earthquake,1987-0196,33.72438996,59.66392405
+3264,Iran,IRN,630,1988,10109,Kohgiluyeh And Buyer Ahmad,1,Kohgiluyeh And Buyer Ahmad,NA,NA,Deh Dasht,0,NA,earthquake,1988-0021,30.81058112,50.73165508
+3265,Iran,IRN,630,1988,9953,Chahar Mahall And Bakhtiari,1,Chahar Mahall And Bakhtiari,NA,NA,Mamasani,0,NA,earthquake,1988-0041,31.94484893,50.6489166
+3268,Iran,IRN,630,1989,9989,Fars,1,Fars,NA,NA,Fars,0,NA,earthquake,1989-0090,29.29663231,53.18646599
+3268,Iran,IRN,630,1989,10110,Kohgiluyeh And Buyer Ahmad,1,Kohgiluyeh And Buyer Ahmad,NA,NA,Yasuj,0,NA,earthquake,1989-0090,30.81058112,50.73165508
+3269,Iran,IRN,630,1989,10111,Kohgiluyeh And Buyer Ahmad,1,Kohgiluyeh And Buyer Ahmad,NA,NA,Deh Borzog-e Sisakht,0,NA,earthquake,1989-0290,30.81058112,50.73165508
+3270,Iran,IRN,630,1990,10088,Khalkhal,2,Ardebil,Khalkhal,NA,Khalkhal,0,NA,earthquake,1990-0034,37.5820213,48.36270139
+3270,Iran,IRN,630,1990,10174,Qazvin,1,Qazvin,NA,NA,Ghazvin,0,NA,earthquake,1990-0034,36.09375164,49.72166167
+3270,Iran,IRN,630,1990,10284,Zanjan,1,Zanjan,NA,NA,Zanjan,0,NA,earthquake,1990-0034,36.52367723,48.35945942
+3272,Iran,IRN,630,1990,9963,Darab,2,Fars,Darab,NA,Darab,0,NA,earthquake,1990-0118,28.43247947,54.69121992
+3276,Iran,IRN,630,1991,9926,Behbahan,2,Khuzestan,Behbahan,NA,Behbahan area,0,NA,earthquake,1991-0284,30.59490199,50.05614206
+3279,Iran,IRN,630,1992,9954,Chahar Mahall And Bakhtiari,1,Chahar Mahall And Bakhtiari,NA,NA,Lordegan-Aradal,0,NA,earthquake,1992-0180,31.94484893,50.6489166
+3283,Iran,IRN,630,1993,10160,Nehbandan,2,South Khorasan,Nehbandan,NA,Nehbandan area,0,NA,earthquake,1993-0578,31.53138163,59.72742257
+3287,Iran,IRN,630,1993,10114,Kohgiluyeh And Buyer Ahmad,1,Kohgiluyeh And Buyer Ahmad,NA,NA,Gachsaran-Dogonbadan,0,NA,earthquake,1993-0035,30.81058112,50.73165508
+3289,Iran,IRN,630,1994,10176,Qazvin,1,Qazvin,NA,NA,Sefid Abeh,0,NA,earthquake,1994-0040,36.09375164,49.72166167
+3289,Iran,IRN,630,1994,10234,Sistan And Baluchestan,1,Sistan And Baluchestan,NA,NA,Sistan,0,NA,earthquake,1994-0040,27.81142744,60.68396443
+3290,Iran,IRN,630,1994,9995,Fars,1,Fars,NA,NA,Fars Province,0,NA,earthquake,1994-0041,29.29663231,53.18646599
+3291,Iran,IRN,630,1994,10228,Shiraz,2,Fars,Shiraz,NA,Shiraz,0,NA,earthquake,1994-0070,29.40812895,52.71553958
+3300,Iran,IRN,630,1997,9908,Ardebil,1,Ardebil,NA,NA,Ardabil region,0,NA,earthquake,1997-0035,38.44717843,48.04621764
+3305,Iran,IRN,630,1998,10074,Kerman,1,Kerman,NA,NA,Kerman,0,NA,earthquake,1998-0043,29.57494283,57.27845719
+3305,Iran,IRN,630,1998,10267,Tehran,1,Tehran,NA,NA,Golbaft,0,NA,earthquake,1998-0043,35.55589631,51.87717293
+3307,Iran,IRN,630,1998,9931,Birjand,2,South Khorasan,Birjand,NA,Birjand,0,NA,earthquake,1998-0084,33.72438996,59.66392405
+3307,Iran,IRN,630,1998,10203,Razavi Khorasan,1,Razavi Khorasan,NA,NA,Gonobad,0,NA,earthquake,1998-0084,35.48537469,58.87406123
+3310,Iran,IRN,630,1998,10054,Ilam,1,Ilam,NA,NA,Darreh Shahr,0,NA,earthquake,1998-0585,33.18503146,46.83737259
+3311,Iran,IRN,630,1998,9999,Fars,1,Fars,NA,NA,Fars Province,0,NA,earthquake,1998-0385,29.29663231,53.18646599
+3311,Iran,IRN,630,1998,10259,Tabriz,2,East Azarbaijan,Tabriz,NA,Tabriz,0,NA,earthquake,1998-0385,37.7928439,45.98265018
+3313,Iran,IRN,630,1999,10000,Fars,1,Fars,NA,NA,Fars Province,0,NA,earthquake,1999-0150,29.29663231,53.18646599
+3317,Iran,IRN,630,1999,10018,Golestan,1,Golestan,NA,NA,Ali-Abad,0,NA,earthquake,1999-0587,37.29513834,55.06213381
+3317,Iran,IRN,630,1999,10148,Mazandaran,1,Mazandaran,NA,NA,Mazandaran,0,NA,earthquake,1999-0587,36.37660817,52.36348253
+3385,Iraq,IRQ,645,1991,10297,Arbil,1,Arbil,NA,NA,Arbil Region,0,NA,earthquake,1991-0232,36.36962866,44.21870959
+3424,Italy,ITA,325,1971,10519,Toscana,1,Toscana,NA,NA,Toscana,0,NA,earthquake,1971-0014,43.44979394,11.12595465
+3425,Italy,ITA,325,1972,10356,Ancona,2,Marche,Ancona,NA,Ancona,0,NA,earthquake,1972-0084,43.50561701,13.15400037
+3428,Italy,ITA,325,1976,10411,Friuli-Venezia Giulia,1,Friuli-Venezia Giulia,NA,NA,Friuli,0,NA,earthquake,1976-0037,46.15463292,13.05773169
+3429,Italy,ITA,325,1976,10412,Friuli-Venezia Giulia,1,Friuli-Venezia Giulia,NA,NA,Friuli,0,NA,earthquake,1976-0195,46.15463292,13.05773169
+3433,Italy,ITA,325,1980,10486,Potenza,2,Basilicata,Potenza,NA,Potenza,0,NA,earthquake,1980-0103,40.51582015,15.89147337
+3434,Italy,ITA,325,1981,10349,Abruzzo,1,Abruzzo,NA,NA,South,0,NA,earthquake,1981-0224,42.22852721,13.85538983
+3434,Italy,ITA,325,1981,10360,Apulia,1,Apulia,NA,NA,South,0,NA,earthquake,1981-0224,40.98543068,16.61965728
+3434,Italy,ITA,325,1981,10368,Basilicata,1,Basilicata,NA,NA,Basilicata,0,NA,earthquake,1981-0224,40.50026793,16.08338167
+3434,Italy,ITA,325,1981,10378,Calabria,1,Calabria,NA,NA,South,0,NA,earthquake,1981-0224,39.0690029,16.3489323
+3434,Italy,ITA,325,1981,10384,Campania,1,Campania,NA,NA,Campania,0,NA,earthquake,1981-0224,40.85985403,14.83996832
+3434,Italy,ITA,325,1981,10462,Molise,1,Molise,NA,NA,Molise,0,NA,earthquake,1981-0224,41.68514318,14.59555073
+3436,Italy,ITA,325,1982,10367,Avellino,2,Campania,Avellino,NA,Avellino,0,NA,earthquake,1982-0035,40.97700999,15.07831076
+3436,Italy,ITA,325,1982,10487,Potenza,2,Basilicata,Potenza,NA,Potenza,0,NA,earthquake,1982-0035,40.51582015,15.89147337
+3437,Italy,ITA,325,1982,10474,Perugia,2,Umbria,Perugia,NA,Perugia area,0,NA,earthquake,1982-0106,43.06698686,12.53357148
+3440,Italy,ITA,325,1984,10350,Abruzzo,1,Abruzzo,NA,NA,Abruzzo area,0,NA,earthquake,1984-0047,42.22852721,13.85538983
+3447,Italy,ITA,325,1990,10488,Potenza,2,Basilicata,Potenza,NA,Potenza area,0,NA,earthquake,1990-0105,40.51582015,15.89147337
+3456,Italy,ITA,325,1997,10447,Marche,1,Marche,NA,NA,Marche,0,NA,earthquake,1997-0228,43.36686472,13.10844298
+3456,Italy,ITA,325,1997,10539,Umbria,1,Umbria,NA,NA,Umbria,0,NA,earthquake,1997-0228,42.96623441,12.49147611
+3523,Japan,JPN,740,1960,11190,Miyagi,1,Miyagi,NA,NA,Onagawa,0,NA,earthquake,1960-0016,38.44659069,140.9261804
+3525,Japan,JPN,740,1964,11039,Kagawa,1,Kagawa,NA,NA,Kagawa,0,NA,earthquake,1964-0036,34.21708716,133.9686006
+3537,Japan,JPN,740,1968,10748,Aomori,1,Aomori,NA,NA,Aomori Prefecture,0,NA,earthquake,1968-0050,40.78369335,140.8295531
+3543,Japan,JPN,740,1974,11519,Shizuoka,1,Shizuoka,NA,NA,Izu-Hanto,0,NA,earthquake,1974-0026,34.92114009,138.4052614
+3553,Japan,JPN,740,1978,11468,Sendai,2,Miyagi,Sendai,NA,Sendai,0,NA,earthquake,1978-0080,38.30088356,140.7520942
+3556,Japan,JPN,740,1980,10703,Aichi,1,Aichi,NA,NA,Aichi,0,NA,earthquake,1980-0266,35.034637,137.2139891
+3556,Japan,JPN,740,1980,10727,Akita,1,Akita,NA,NA,Akita,0,NA,earthquake,1980-0266,39.74813497,140.4078158
+3556,Japan,JPN,740,1980,10750,Aomori,1,Aomori,NA,NA,Honshu,0,NA,earthquake,1980-0266,40.78369335,140.8295531
+3556,Japan,JPN,740,1980,10770,Chiba,1,Chiba,NA,NA,Chiba,0,NA,earthquake,1980-0266,35.51037345,140.1992438
+3556,Japan,JPN,740,1980,10812,Fukui,1,Fukui,NA,NA,Fukui,0,NA,earthquake,1980-0266,35.84601935,136.2236906
+3556,Japan,JPN,740,1980,10874,Gifu,1,Gifu,NA,NA,Honshu,0,NA,earthquake,1980-0266,35.77957986,137.0558252
+3556,Japan,JPN,740,1980,10894,Gunma,1,Gunma,NA,NA,Gunma,0,NA,earthquake,1980-0266,36.50413546,138.9849477
+3556,Japan,JPN,740,1980,10914,Hiroshima,1,Hiroshima,NA,NA,Honshu,0,NA,earthquake,1980-0266,34.60714608,132.7891401
+3556,Japan,JPN,740,1980,10956,Hyogo,1,Hyogo,NA,NA,Honshu,0,NA,earthquake,1980-0266,35.04016741,134.8281039
+3556,Japan,JPN,740,1980,10978,Ibaraki,1,Ibaraki,NA,NA,Honshu,0,NA,earthquake,1980-0266,36.30496862,140.32148
+3556,Japan,JPN,740,1980,11001,Ishikawa,1,Ishikawa,NA,NA,Honshu,0,NA,earthquake,1980-0266,36.76865008,136.7700187
+3556,Japan,JPN,740,1980,11021,Iwate,1,Iwate,NA,NA,Honshu,0,NA,earthquake,1980-0266,39.59372366,141.3612107
+3556,Japan,JPN,740,1980,11085,Kanagawa,1,Kanagawa,NA,NA,Kanagawa,0,NA,earthquake,1980-0266,35.41334278,139.3360646
+3556,Japan,JPN,740,1980,11146,Kyoto,1,Kyoto,NA,NA,Honshu,0,NA,earthquake,1980-0266,35.25443838,135.4419032
+3556,Japan,JPN,740,1980,11167,Mie,1,Mie,NA,NA,Honshu,0,NA,earthquake,1980-0266,34.50852184,136.375217
+3556,Japan,JPN,740,1980,11195,Miyagi,1,Miyagi,NA,NA,Honshu,0,NA,earthquake,1980-0266,38.44659069,140.9261804
+3556,Japan,JPN,740,1980,11242,Nagano,1,Nagano,NA,NA,Honshu,0,NA,earthquake,1980-0266,36.13138656,138.0456173
+3556,Japan,JPN,740,1980,11294,Nara,1,Nara,NA,NA,Nara,0,NA,earthquake,1980-0266,34.31780384,135.8717335
+3556,Japan,JPN,740,1980,11409,Osaka,1,Osaka,NA,NA,Osaka,0,NA,earthquake,1980-0266,34.62161449,135.5082161
+3556,Japan,JPN,740,1980,11451,Saitama,1,Saitama,NA,NA,Honshu,0,NA,earthquake,1980-0266,35.99757593,139.3488579
+3556,Japan,JPN,740,1980,11477,Shiga,1,Shiga,NA,NA,Shiga,0,NA,earthquake,1980-0266,35.21763711,136.1382324
+3556,Japan,JPN,740,1980,11520,Shizuoka,1,Shizuoka,NA,NA,Honshu,0,NA,earthquake,1980-0266,34.92114009,138.4052614
+3556,Japan,JPN,740,1980,11544,Tochigi,1,Tochigi,NA,NA,Tochigi,0,NA,earthquake,1980-0266,36.69030812,139.8191975
+3556,Japan,JPN,740,1980,11613,Tottori,1,Tottori,NA,NA,Honshu,0,NA,earthquake,1980-0266,35.35952638,133.8651396
+3556,Japan,JPN,740,1980,11632,Toyama,1,Toyama,NA,NA,Honshu,0,NA,earthquake,1980-0266,36.63785294,137.2698289
+3556,Japan,JPN,740,1980,11675,Yamagata,1,Yamagata,NA,NA,Yamagata,0,NA,earthquake,1980-0266,38.44787123,140.1016345
+3556,Japan,JPN,740,1980,11695,Yamaguchi,1,Yamaguchi,NA,NA,Yamaguchi,0,NA,earthquake,1980-0266,34.20231962,131.5725496
+3556,Japan,JPN,740,1980,11713,Yamanashi,1,Yamanashi,NA,NA,Honshu,0,NA,earthquake,1980-0266,35.61187909,138.6119949
+3569,Japan,JPN,740,1983,10705,Aichi,1,Aichi,NA,NA,Aichi,0,NA,earthquake,1983-0081,35.034637,137.2139891
+3569,Japan,JPN,740,1983,10729,Akita,1,Akita,NA,NA,Akita,0,NA,earthquake,1983-0081,39.74813497,140.4078158
+3569,Japan,JPN,740,1983,10752,Aomori,1,Aomori,NA,NA,Honshu,0,NA,earthquake,1983-0081,40.78369335,140.8295531
+3569,Japan,JPN,740,1983,10772,Chiba,1,Chiba,NA,NA,Chiba,0,NA,earthquake,1983-0081,35.51037345,140.1992438
+3569,Japan,JPN,740,1983,10814,Fukui,1,Fukui,NA,NA,Fukui,0,NA,earthquake,1983-0081,35.84601935,136.2236906
+3569,Japan,JPN,740,1983,10876,Gifu,1,Gifu,NA,NA,Honshu,0,NA,earthquake,1983-0081,35.77957986,137.0558252
+3569,Japan,JPN,740,1983,10896,Gunma,1,Gunma,NA,NA,Gunma,0,NA,earthquake,1983-0081,36.50413546,138.9849477
+3569,Japan,JPN,740,1983,10916,Hiroshima,1,Hiroshima,NA,NA,Honshu,0,NA,earthquake,1983-0081,34.60714608,132.7891401
+3569,Japan,JPN,740,1983,10958,Hyogo,1,Hyogo,NA,NA,Honshu,0,NA,earthquake,1983-0081,35.04016741,134.8281039
+3569,Japan,JPN,740,1983,10980,Ibaraki,1,Ibaraki,NA,NA,Honshu,0,NA,earthquake,1983-0081,36.30496862,140.32148
+3569,Japan,JPN,740,1983,11003,Ishikawa,1,Ishikawa,NA,NA,Ishkawa,0,NA,earthquake,1983-0081,36.76865008,136.7700187
+3569,Japan,JPN,740,1983,11023,Iwate,1,Iwate,NA,NA,Honshu,0,NA,earthquake,1983-0081,39.59372366,141.3612107
+3569,Japan,JPN,740,1983,11087,Kanagawa,1,Kanagawa,NA,NA,Kanagawa,0,NA,earthquake,1983-0081,35.41334278,139.3360646
+3569,Japan,JPN,740,1983,11148,Kyoto,1,Kyoto,NA,NA,Honshu,0,NA,earthquake,1983-0081,35.25443838,135.4419032
+3569,Japan,JPN,740,1983,11169,Mie,1,Mie,NA,NA,Honshu,0,NA,earthquake,1983-0081,34.50852184,136.375217
+3569,Japan,JPN,740,1983,11197,Miyagi,1,Miyagi,NA,NA,Honshu,0,NA,earthquake,1983-0081,38.44659069,140.9261804
+3569,Japan,JPN,740,1983,11244,Nagano,1,Nagano,NA,NA,Kai-Chubu,0,NA,earthquake,1983-0081,36.13138656,138.0456173
+3569,Japan,JPN,740,1983,11296,Nara,1,Nara,NA,NA,Nara,0,NA,earthquake,1983-0081,34.31780384,135.8717335
+3569,Japan,JPN,740,1983,11411,Osaka,1,Osaka,NA,NA,Osaka,0,NA,earthquake,1983-0081,34.62161449,135.5082161
+3569,Japan,JPN,740,1983,11453,Saitama,1,Saitama,NA,NA,Honshu,0,NA,earthquake,1983-0081,35.99757593,139.3488579
+3569,Japan,JPN,740,1983,11479,Shiga,1,Shiga,NA,NA,Shiga,0,NA,earthquake,1983-0081,35.21763711,136.1382324
+3569,Japan,JPN,740,1983,11522,Shizuoka,1,Shizuoka,NA,NA,Kai-Chubu,0,NA,earthquake,1983-0081,34.92114009,138.4052614
+3569,Japan,JPN,740,1983,11546,Tochigi,1,Tochigi,NA,NA,Tochigi,0,NA,earthquake,1983-0081,36.69030812,139.8191975
+3569,Japan,JPN,740,1983,11615,Tottori,1,Tottori,NA,NA,Honshu,0,NA,earthquake,1983-0081,35.35952638,133.8651396
+3569,Japan,JPN,740,1983,11634,Toyama,1,Toyama,NA,NA,Kai-Chubu,0,NA,earthquake,1983-0081,36.63785294,137.2698289
+3569,Japan,JPN,740,1983,11677,Yamagata,1,Yamagata,NA,NA,Yamagata,0,NA,earthquake,1983-0081,38.44787123,140.1016345
+3569,Japan,JPN,740,1983,11697,Yamaguchi,1,Yamaguchi,NA,NA,Yamaguchi,0,NA,earthquake,1983-0081,34.20231962,131.5725496
+3569,Japan,JPN,740,1983,11715,Yamanashi,1,Yamanashi,NA,NA,Honshu,0,NA,earthquake,1983-0081,35.61187909,138.6119949
+3572,Japan,JPN,740,1984,11042,Kagawa,1,Kagawa,NA,NA,Kagawa,0,NA,earthquake,1984-0335,34.21708716,133.9686006
+3572,Japan,JPN,740,1984,11560,Tokushima,1,Tokushima,NA,NA,Shikoku Island,0,NA,earthquake,1984-0335,33.91892997,134.2409976
+3573,Japan,JPN,740,1984,11245,Nagano,1,Nagano,NA,NA,Nagano prefecture,0,NA,earthquake,1984-0084,36.13138656,138.0456173
+3579,Japan,JPN,740,1987,10774,Chiba,1,Chiba,NA,NA,Chiba prefecture,0,NA,earthquake,1987-0229,35.51037345,140.1992438
+3603,Japan,JPN,740,1994,10708,Aichi,1,Aichi,NA,NA,Aichi,0,NA,earthquake,1994-0316,35.034637,137.2139891
+3603,Japan,JPN,740,1994,10732,Akita,1,Akita,NA,NA,Akita,0,NA,earthquake,1994-0316,39.74813497,140.4078158
+3603,Japan,JPN,740,1994,10779,Chiba,1,Chiba,NA,NA,Chiba,0,NA,earthquake,1994-0316,35.51037345,140.1992438
+3603,Japan,JPN,740,1994,10817,Fukui,1,Fukui,NA,NA,Fukui,0,NA,earthquake,1994-0316,35.84601935,136.2236906
+3603,Japan,JPN,740,1994,10879,Gifu,1,Gifu,NA,NA,Honshu,0,NA,earthquake,1994-0316,35.77957986,137.0558252
+3603,Japan,JPN,740,1994,10899,Gunma,1,Gunma,NA,NA,Gunma,0,NA,earthquake,1994-0316,36.50413546,138.9849477
+3603,Japan,JPN,740,1994,10907,Hachinohe,2,Aomori,Hachinohe,NA,Hachinohe,0,NA,earthquake,1994-0316,40.47187543,141.4858276
+3603,Japan,JPN,740,1994,10920,Hiroshima,1,Hiroshima,NA,NA,Honshu,0,NA,earthquake,1994-0316,34.60714608,132.7891401
+3603,Japan,JPN,740,1994,10961,Hyogo,1,Hyogo,NA,NA,Honshu,0,NA,earthquake,1994-0316,35.04016741,134.8281039
+3603,Japan,JPN,740,1994,10983,Ibaraki,1,Ibaraki,NA,NA,Honshu,0,NA,earthquake,1994-0316,36.30496862,140.32148
+3603,Japan,JPN,740,1994,11006,Ishikawa,1,Ishikawa,NA,NA,Honshu,0,NA,earthquake,1994-0316,36.76865008,136.7700187
+3603,Japan,JPN,740,1994,11026,Iwate,1,Iwate,NA,NA,Honshu,0,NA,earthquake,1994-0316,39.59372366,141.3612107
+3603,Japan,JPN,740,1994,11091,Kanagawa,1,Kanagawa,NA,NA,Kanagawa,0,NA,earthquake,1994-0316,35.41334278,139.3360646
+3603,Japan,JPN,740,1994,11151,Kyoto,1,Kyoto,NA,NA,Honshu,0,NA,earthquake,1994-0316,35.25443838,135.4419032
+3603,Japan,JPN,740,1994,11172,Mie,1,Mie,NA,NA,Honshu,0,NA,earthquake,1994-0316,34.50852184,136.375217
+3603,Japan,JPN,740,1994,11200,Miyagi,1,Miyagi,NA,NA,Honshu,0,NA,earthquake,1994-0316,38.44659069,140.9261804
+3603,Japan,JPN,740,1994,11248,Nagano,1,Nagano,NA,NA,Honshu,0,NA,earthquake,1994-0316,36.13138656,138.0456173
+3603,Japan,JPN,740,1994,11299,Nara,1,Nara,NA,NA,Nara,0,NA,earthquake,1994-0316,34.31780384,135.8717335
+3603,Japan,JPN,740,1994,11415,Osaka,1,Osaka,NA,NA,Osaka,0,NA,earthquake,1994-0316,34.62161449,135.5082161
+3603,Japan,JPN,740,1994,11457,Saitama,1,Saitama,NA,NA,Honshu,0,NA,earthquake,1994-0316,35.99757593,139.3488579
+3603,Japan,JPN,740,1994,11482,Shiga,1,Shiga,NA,NA,Shiga,0,NA,earthquake,1994-0316,35.21763711,136.1382324
+3603,Japan,JPN,740,1994,11525,Shizuoka,1,Shizuoka,NA,NA,Honshu,0,NA,earthquake,1994-0316,34.92114009,138.4052614
+3603,Japan,JPN,740,1994,11549,Tochigi,1,Tochigi,NA,NA,Tochigi,0,NA,earthquake,1994-0316,36.69030812,139.8191975
+3603,Japan,JPN,740,1994,11618,Tottori,1,Tottori,NA,NA,Honshu,0,NA,earthquake,1994-0316,35.35952638,133.8651396
+3603,Japan,JPN,740,1994,11637,Toyama,1,Toyama,NA,NA,Honshu,0,NA,earthquake,1994-0316,36.63785294,137.2698289
+3603,Japan,JPN,740,1994,11680,Yamagata,1,Yamagata,NA,NA,Yamagata,0,NA,earthquake,1994-0316,38.44787123,140.1016345
+3603,Japan,JPN,740,1994,11700,Yamaguchi,1,Yamaguchi,NA,NA,Yamaguchi,0,NA,earthquake,1994-0316,34.20231962,131.5725496
+3603,Japan,JPN,740,1994,11718,Yamanashi,1,Yamanashi,NA,NA,Honshu,0,NA,earthquake,1994-0316,35.61187909,138.6119949
+3604,Japan,JPN,740,1995,11102,Kobe,2,Hyogo,Kobe,NA,Kobe,0,NA,earthquake,1995-0016,34.74502976,135.1321905
+3604,Japan,JPN,740,1995,11152,Kyoto,1,Kyoto,NA,NA,Kyoto prefecture,0,NA,earthquake,1995-0016,35.25443838,135.4419032
+3604,Japan,JPN,740,1995,11416,Osaka,1,Osaka,NA,NA,Osaka,0,NA,earthquake,1995-0016,34.62161449,135.5082161
+3728,Kenya,KEN,501,1990,11849,Kapenguria,2,West Pokot,Kapenguria,NA,Kapenguria,0,NA,earthquake,1990-0202,1.511597672,35.14485468
+3876,Kyrgyzstan,KGZ,703,1992,12054,Osh,1,Osh,NA,NA,Osh,0,NA,earthquake,1992-0082,40.13303521,73.22038272
+3876,Kyrgyzstan,KGZ,703,1992,12061,Suzak,2,Jalal-Abad,Suzak,NA,Djalalabad,0,NA,earthquake,1992-0082,41.10378021,73.25982359
+3877,Kyrgyzstan,KGZ,703,1992,12048,Naryn,1,Naryn,NA,NA,Naryn,0,NA,earthquake,1992-0081,41.36755787,75.62144947
+3877,Kyrgyzstan,KGZ,703,1992,12062,Suzak,2,Jalal-Abad,Suzak,NA,Dshalal-Abad,0,NA,earthquake,1992-0081,41.10378021,73.25982359
+3877,Kyrgyzstan,KGZ,703,1992,12064,Talas,1,Talas,NA,NA,Talas,0,NA,earthquake,1992-0081,42.43176707,72.1262773
+3922,Libya,LBY,620,1963,12151,Al Marj,1,Al Marj,NA,NA,Marj,0,NA,earthquake,1963-0001,31.97100297,21.29954485
+4003,Malawi,MWI,553,1989,12735,Salima,1,Salima,NA,NA,Salima district,0,NA,earthquake,1989-0167,-13.70485052,34.43057514
+4129,Mexico,MEX,70,1964,13136,Guerrero,1,Guerrero,NA,NA,Guerrero,0,NA,earthquake,1964-0032,17.6650991,-99.87832768
+4129,Mexico,MEX,70,1964,13221,Michoacan,1,Michoacan,NA,NA,Michoacan,0,NA,earthquake,1964-0032,19.19914499,-101.8845921
+4134,Mexico,MEX,70,1968,13069,Chiapas,1,Chiapas,NA,NA,Chiapas state,0,NA,earthquake,1968-0073,16.49155667,-92.47580809
+4139,Mexico,MEX,70,1973,13109,Colima,1,Colima,NA,NA,Colima,0,NA,earthquake,1973-0014,19.14093841,-103.9227181
+4139,Mexico,MEX,70,1973,13222,Michoacan,1,Michoacan,NA,NA,Michoacan,0,NA,earthquake,1973-0014,19.19914499,-101.8845921
+4141,Mexico,MEX,70,1973,13307,Puebla,1,Puebla,NA,NA,Puebla,0,NA,earthquake,1973-0035,19.03765135,-97.81565517
+4147,Mexico,MEX,70,1978,13262,Oaxaca,1,Oaxaca,NA,NA,Oaxaca,0,NA,earthquake,1978-0135,16.95488362,-96.43681498
+4148,Mexico,MEX,70,1979,13138,Guerrero,1,Guerrero,NA,NA,Guerrero,0,NA,earthquake,1979-0032,17.6650991,-99.87832768
+4148,Mexico,MEX,70,1979,13172,Jalisco,1,Jalisco,NA,NA,Gudalajara,0,NA,earthquake,1979-0032,20.55635462,-103.6280345
+4148,Mexico,MEX,70,1979,13241,Monterrey,2,Nuevo Leon,Monterrey,NA,Monterrey,0,NA,earthquake,1979-0032,25.68322836,-100.3114799
+4148,Mexico,MEX,70,1979,13308,Puebla,1,Puebla,NA,NA,Puebla,0,NA,earthquake,1979-0032,19.03765135,-97.81565517
+4151,Mexico,MEX,70,1980,13263,Oaxaca,1,Oaxaca,NA,NA,Oaxaca state,0,NA,earthquake,1980-0097,16.95488362,-96.43681498
+4153,Mexico,MEX,70,1981,13223,Michoacan,1,Michoacan,NA,NA,Michoacan,0,NA,earthquake,1981-0093,19.19914499,-101.8845921
+4154,Mexico,MEX,70,1982,13224,Michoacan,1,Michoacan,NA,NA,Michoacan,0,NA,earthquake,1982-0291,19.19914499,-101.8845921
+4158,Mexico,MEX,70,1985,13173,Jalisco,1,Jalisco,NA,NA,Jalisco,0,NA,earthquake,1985-0109,20.55635462,-103.6280345
+4158,Mexico,MEX,70,1985,13225,Michoacan,1,Michoacan,NA,NA,Michoacan,0,NA,earthquake,1985-0109,19.19914499,-101.8845921
+4161,Mexico,MEX,70,1987,13196,Mexicali,2,Baja California,Mexicali,NA,Mexicali,0,NA,earthquake,1987-0254,31.84620065,-115.3042595
+4180,Mexico,MEX,70,1993,13141,Guerrero,1,Guerrero,NA,NA,Guerrero state,0,NA,earthquake,1993-0086,17.6650991,-99.87832768
+4183,Mexico,MEX,70,1995,13266,Oaxaca,1,Oaxaca,NA,NA,Oaxaca,0,NA,earthquake,1995-0203,16.95488362,-96.43681498
+4185,Mexico,MEX,70,1995,13110,Colima,1,Colima,NA,NA,Colima,0,NA,earthquake,1995-0253,19.14093841,-103.9227181
+4185,Mexico,MEX,70,1995,13143,Guerrero,1,Guerrero,NA,NA,Guerrero,0,NA,earthquake,1995-0253,17.6650991,-99.87832768
+4185,Mexico,MEX,70,1995,13174,Jalisco,1,Jalisco,NA,NA,Jalisco,0,NA,earthquake,1995-0253,20.55635462,-103.6280345
+4185,Mexico,MEX,70,1995,13226,Michoacan,1,Michoacan,NA,NA,Michoacan,0,NA,earthquake,1995-0253,19.19914499,-101.8845921
+4187,Mexico,MEX,70,1995,13175,Jalisco,1,Jalisco,NA,NA,Nuevo Mexico,0,NA,earthquake,1995-0454,20.55635462,-103.6280345
+4187,Mexico,MEX,70,1995,13428,Villaflores,2,Chiapas,Villaflores,NA,Villaflores,0,NA,earthquake,1995-0454,16.39786439,-93.41966733
+4193,Mexico,MEX,70,1997,13040,Arteaga,2,Michoacan,Arteaga,NA,Arteaga area,0,NA,earthquake,1997-0071,25.37611863,-100.6764636
+4194,Mexico,MEX,70,1997,13041,Arteaga,2,Michoacan,Arteaga,NA,Arteaga,0,NA,earthquake,1997-0116,25.37611863,-100.6764636
+4206,Mexico,MEX,70,1999,13271,Oaxaca,1,Oaxaca,NA,NA,Oaxaca State,0,NA,earthquake,1999-0208,16.95488362,-96.43681498
+4206,Mexico,MEX,70,1999,13309,Puebla,1,Puebla,NA,NA,West Puebla,0,NA,earthquake,1999-0208,19.03765135,-97.81565517
+4207,Mexico,MEX,70,1999,13146,Guerrero,1,Guerrero,NA,NA,Guerrero,0,NA,earthquake,1999-0385,17.6650991,-99.87832768
+4211,Mexico,MEX,70,1999,13273,Oaxaca,1,Oaxaca,NA,NA,North Puerto Angel,0,NA,earthquake,1999-0360,16.95488362,-96.43681498
+4320,Morocco,MAR,600,1960,13557,Agadir-Ida Ou Tanane,2,Souss-Massa-Draa,Agadir-Ida Ou Tanane,NA,Agadir,0,NA,earthquake,1960-0010,30.63469743,-9.548856031
+4401,Myanmar,MMR,775,1991,14029,Thabeikkyin,3,Mandalay,Pyin-Oo-Lwin,Thabeikkyin,Thabeikkyin area,0,NA,earthquake,1991-0001,23.16641848,96.09296991
+4404,Myanmar,MMR,775,1995,14013,Shan,1,Shan,NA,NA,Shan state,0,NA,earthquake,1995-0148,21.72238405,98.12757915
+4448,Nepal,NPL,790,1988,14129,Bhaktapur,3,Central,Bagmati,Bhaktapur,Bhaktapur,0,NA,earthquake,1988-0383,27.67646531,85.44283138
+4490,Netherlands,NLD,210,1992,14409,Roermond,2,Limburg,Roermond,NA,Roermond,0,NA,earthquake,1992-0093,51.18956411,6.007253618
+4507,New Zealand,NZL,920,1968,14497,West Coast,1,West Coast,NA,NA,Inangahua,0,NA,earthquake,1968-0099,-42.79701666,170.8720664
+4508,New Zealand,NZL,920,1976,14445,Kermadec Islands,2,Northern Islands,Kermadec Islands,NA,Kermadec Islands,0,NA,earthquake,1976-0021,-29.36922533,-177.9818406
+4522,New Zealand,NZL,920,1987,14415,Bay Of Plenty,1,Bay Of Plenty,NA,NA,Bay of Plenty,0,NA,earthquake,1987-0068,-38.22515409,176.7844069
+4557,Nicaragua,NIC,93,1968,14568,Managua,1,Managua,NA,NA,Managua,0,NA,earthquake,1968-0018,12.2211081,-86.28580302
+4560,Nicaragua,NIC,93,1972,14569,Managua,1,Managua,NA,NA,Managua,0,NA,earthquake,1972-0067,12.2211081,-86.28580302
+4563,Nicaragua,NIC,93,1990,14570,Managua,1,Managua,NA,NA,Managua,0,NA,earthquake,1990-0194,12.2211081,-86.28580302
+4563,Nicaragua,NIC,93,1990,14600,Rivas,1,Rivas,NA,NA,Rivas,0,NA,earthquake,1990-0194,11.40170261,-85.82873331
+4565,Nicaragua,NIC,93,1992,14518,Carazo,1,Carazo,NA,NA,Huehuete,0,NA,earthquake,1992-0079,11.74057805,-86.24785853
+4565,Nicaragua,NIC,93,1992,14535,Corinto,2,Chinandega,Corinto,NA,Corinto,0,NA,earthquake,1992-0079,12.50436229,-87.18293863
+4565,Nicaragua,NIC,93,1992,14556,Leon,1,Leon,NA,NA,Poneloya,0,NA,earthquake,1992-0079,12.58494221,-86.63598574
+4565,Nicaragua,NIC,93,1992,14571,Managua,1,Managua,NA,NA,Pochomil,0,NA,earthquake,1992-0079,12.2211081,-86.28580302
+4565,Nicaragua,NIC,93,1992,14587,Matagalpa,1,Matagalpa,NA,NA,Matagalpa,0,NA,earthquake,1992-0079,12.93447253,-85.51343518
+4565,Nicaragua,NIC,93,1992,14601,Rivas,1,Rivas,NA,NA,San Juan Del Sur,0,NA,earthquake,1992-0079,11.40170261,-85.82873331
+4570,Nicaragua,NIC,93,1998,14613,Ticuantepe,2,Managua,Ticuantepe,NA,Ticuantepe,0,NA,earthquake,1998-0586,11.99526818,-86.21035651
+4671,Pakistan,PAK,770,1974,15165,Punjab,1,Punjab,NA,NA,Indus River Valley,0,NA,earthquake,1974-0063,30.79672677,72.12357823
+4677,Pakistan,PAK,770,1981,14953,Baluchistan,1,Baluchistan,NA,NA,Koshkak,0,NA,earthquake,1981-0127,28.30535123,65.877627
+4680,Pakistan,PAK,770,1984,15005,F.A.T.A.,1,F.A.T.A.,NA,NA,F.A.T.A.,0,NA,earthquake,1984-0339,33.16969567,70.3873858
+4680,Pakistan,PAK,770,1984,15115,N.W.F.P.,1,N.W.F.P.,NA,NA,Chiltral-Landi Kotal,0,NA,earthquake,1984-0339,34.42019855,72.04828242
+4681,Pakistan,PAK,770,1985,14992,Chitral,3,N.W.F.P.,Malakand,Chitral,Chitral,0,NA,earthquake,1985-0078,36.22647705,72.23618133
+4683,Pakistan,PAK,770,1986,15069,Khuzdar,3,Baluchistan,Kalat,Khuzdar,Khuzdar area,0,NA,earthquake,1986-0186,27.49908033,66.70188635
+4686,Pakistan,PAK,770,1990,15042,Kalat,2,Baluchistan,Kalat,NA,Kalat Area,0,NA,earthquake,1990-0189,27.49406146,65.73427776
+4687,Pakistan,PAK,770,1990,14954,Baluchistan,1,Baluchistan,NA,NA,South Baluchistan Province,0,NA,earthquake,1990-0219,28.30535123,65.877627
+4692,Pakistan,PAK,770,1992,15199,Quetta,2,Baluchistan,Quetta,NA,Quetta,0,NA,earthquake,1992-0058,29.37715869,64.30355722
+4703,Pakistan,PAK,770,1997,15226,Sibi,2,Baluchistan,Sibi,NA,Sibi district,0,NA,earthquake,1997-0030,29.48860349,68.57024099
+4708,Pakistan,PAK,770,1998,15208,Rawalpindi,2,Punjab,Rawalpindi,Rawalpindi Tehsil,Rawalpindi,0,NA,earthquake,1998-0579,33.19598911,72.72281404
+4787,Panama,PAN,95,1991,15293,Bocas Del Toro,2,Bocas Del Toro,Bocas Del Toro,NA,Bocas Del Toro,0,NA,earthquake,1991-0114,9.212808761,-82.25426198
+4787,Panama,PAN,95,1991,15309,Chiriqui,1,Chiriqui,NA,NA,Chiriqui,0,NA,earthquake,1991-0114,8.366501186,-82.29331093
+4821,Papua New Guinea,PNG,910,1986,15395,East Sepik,1,East Sepik,NA,NA,East Sepik province,0,NA,earthquake,1986-0076,-4.31146299,143.1700791
+4826,Papua New Guinea,PNG,910,1993,15400,Goroka,2,Eastern Highlands,Goroka,NA,Goroka,0,NA,earthquake,1993-0076,-6.033058188,145.3831449
+4828,Papua New Guinea,PNG,910,1998,15422,Sandaun,1,Sandaun,NA,NA,Sandaun Province,0,NA,earthquake,1998-0220,-3.913848369,141.7142848
+4861,Peru,PER,135,1960,15512,Arequipa,1,Arequipa,NA,NA,Arequipa,0,NA,earthquake,1960-0007,-15.8433345,-72.47645611
+4864,Peru,PER,135,1968,15683,Moyobamba,2,San Martin,Moyobamba,NA,Moyobamba,0,NA,earthquake,1968-0052,-5.86655706,-77.15073162
+4865,Peru,PER,135,1969,15600,Huancayo,2,Junin,Huancayo,NA,Huancayo,0,NA,earthquake,1969-0098,-12.09537165,-75.0667519
+4866,Peru,PER,135,1970,15555,Chimbote,3,Ancash,Santa,Chimbote,Chimbote,0,NA,earthquake,1970-0032,-8.879405663,-78.40025892
+4867,Peru,PER,135,1970,15701,Piura,1,Piura,NA,NA,Piura,0,NA,earthquake,1970-0068,-5.134300505,-80.3358317
+4867,Peru,PER,135,1970,15747,Tumbes,1,Tumbes,NA,NA,Tumbes,0,NA,earthquake,1970-0068,-3.857107606,-80.5456376
+4868,Peru,PER,135,1974,15649,Lima,1,Lima,NA,NA,Lima area,0,NA,earthquake,1974-0050,-12.01791851,-76.90640121
+4872,Peru,PER,135,1979,15513,Arequipa,1,Arequipa,NA,NA,Arequipa,0,NA,earthquake,1979-0025,-15.8433345,-72.47645611
+4873,Peru,PER,135,1980,15526,Ayacucho,1,Ayacucho,NA,NA,Ayacucho,0,NA,earthquake,1980-0100,-14.09071441,-74.08389069
+4875,Peru,PER,135,1981,15527,Ayacucho,1,Ayacucho,NA,NA,Ayacucho area,0,NA,earthquake,1981-0211,-14.09071441,-74.08389069
+4876,Peru,PER,135,1981,15528,Ayacucho,1,Ayacucho,NA,NA,Ayacucho,0,NA,earthquake,1981-0057,-14.09071441,-74.08389069
+4876,Peru,PER,135,1981,15590,Huancavelica,1,Huancavelica,NA,NA,Huancavelica,0,NA,earthquake,1981-0057,-13.02386252,-75.0021647
+4878,Peru,PER,135,1982,15601,Huancayo,2,Junin,Huancayo,NA,Huancayo,0,NA,earthquake,1982-0293,-12.09537165,-75.0667519
+4878,Peru,PER,135,1982,15668,Lunahuana,3,Lima,Canete,Lunahuana,Lunahuana,0,NA,earthquake,1982-0293,-13.01749315,-76.11826401
+4880,Peru,PER,135,1983,15556,Chimbote,3,Ancash,Santa,Chimbote,Chimbote,0,NA,earthquake,1983-0070,-8.879405663,-78.40025892
+4881,Peru,PER,135,1985,15557,Chimbote,3,Ancash,Santa,Chimbote,Chimbote area,0,NA,earthquake,1985-0191,-8.879405663,-78.40025892
+4882,Peru,PER,135,1986,15611,Huarmey,2,Ancash,Huarmey,NA,Huarmey area,0,NA,earthquake,1986-0150,-10.09452196,-77.92792121
+4883,Peru,PER,135,1986,15558,Chimbote,3,Ancash,Santa,Chimbote,Chimbote,0,NA,earthquake,1986-0051,-8.879405663,-78.40025892
+4883,Peru,PER,135,1986,15565,Coronel Portillo,2,Ucayali,Coronel Portillo,NA,Pucallpa,0,NA,earthquake,1986-0051,-8.694591352,-74.05757701
+4883,Peru,PER,135,1986,15569,Cusco,1,Cusco,NA,NA,Cuzco,0,NA,earthquake,1986-0051,-13.19175307,-72.15262351
+4889,Peru,PER,135,1990,15493,Amazonas,1,Amazonas,NA,NA,Amazonas,0,NA,earthquake,1990-0029,-5.077512497,-78.05049924
+4889,Peru,PER,135,1990,15684,Moyobamba,2,San Martin,Moyobamba,NA,Moyoyamba,0,NA,earthquake,1990-0029,-5.86655706,-77.15073162
+4891,Peru,PER,135,1991,15666,Lucanas,2,Ayacucho,Lucanas,NA,Mayobamba,0,NA,earthquake,1991-0066,-14.61609446,-74.34614635
+4891,Peru,PER,135,1991,15717,Rioja,2,San Martin,Rioja,NA,Rioja,0,NA,earthquake,1991-0066,-5.8656833,-77.460287
+4895,Peru,PER,135,1993,15653,Lima,1,Lima,NA,NA,Lima region,0,NA,earthquake,1993-0144,-12.01791851,-76.90640121
+4898,Peru,PER,135,1996,15552,Caraveli,2,Arequipa,Caraveli,NA,Caraveli,0,NA,earthquake,1996-0261,-15.68870345,-73.96522517
+4898,Peru,PER,135,1996,15592,Huancavelica,1,Huancavelica,NA,NA,Huancavelica,0,NA,earthquake,1996-0261,-13.02386252,-75.0021647
+4898,Peru,PER,135,1996,15667,Lucanas,2,Ayacucho,Lucanas,NA,Lucanas,0,NA,earthquake,1996-0261,-14.61609446,-74.34614635
+4901,Peru,PER,135,1999,15516,Arequipa,1,Arequipa,NA,NA,Arequipa Area,0,NA,earthquake,1999-0384,-15.8433345,-72.47645611
+4903,Peru,PER,135,1999,15562,Chuschi,3,Ayacucho,Cangallo,Chuschi,Chuschi area,0,NA,earthquake,1999-0434,-13.4920062,-74.43884668
+4947,Philippines,PHL,840,1968,17655,Metropolitan Manila,1,Metropolitan Manila,NA,NA,Manila,0,NA,earthquake,1968-0061,14.60072082,120.9836622
+4951,Philippines,PHL,840,1970,16443,Camarines Norte,1,Camarines Norte,NA,NA,Bicol Region,0,NA,earthquake,1970-0004,14.14367255,122.7292292
+4951,Philippines,PHL,840,1970,16496,Camarines Sur,1,Camarines Sur,NA,NA,Bicol Region,0,NA,earthquake,1970-0004,13.70361525,123.2627336
+4951,Philippines,PHL,840,1970,16657,Catanduanes,1,Catanduanes,NA,NA,Bicol Region,0,NA,earthquake,1970-0004,13.78280333,124.2364878
+4951,Philippines,PHL,840,1970,18634,Sorsogon,1,Sorsogon,NA,NA,Bicol Region,0,NA,earthquake,1970-0004,12.85386788,123.9288961
+4967,Philippines,PHL,840,1973,16445,Camarines Norte,1,Camarines Norte,NA,NA,Bicol Region,0,NA,earthquake,1973-0017,14.14367255,122.7292292
+4967,Philippines,PHL,840,1973,16498,Camarines Sur,1,Camarines Sur,NA,NA,Bicol Region,0,NA,earthquake,1973-0017,13.70361525,123.2627336
+4967,Philippines,PHL,840,1973,16659,Catanduanes,1,Catanduanes,NA,NA,Bicol Region,0,NA,earthquake,1973-0017,13.78280333,124.2364878
+4967,Philippines,PHL,840,1973,18439,Romblon,1,Romblon,NA,NA,Tablas Island,0,NA,earthquake,1973-0017,12.43350193,122.2392444
+4967,Philippines,PHL,840,1973,18636,Sorsogon,1,Sorsogon,NA,NA,Bicol Region,0,NA,earthquake,1973-0017,12.85386788,123.9288961
+5026,Philippines,PHL,840,1982,16666,Catanduanes,1,Catanduanes,NA,NA,Catanduanes,0,NA,earthquake,1982-0325,13.78280333,124.2364878
+5039,Philippines,PHL,840,1983,17067,Ilocos Norte,1,Ilocos Norte,NA,NA,Ilocos Norte,0,NA,earthquake,1983-0109,18.19871775,120.7292185
+5049,Philippines,PHL,840,1985,16611,Caraga,2,Davao Oriental,Caraga,NA,Mindanao,0,NA,earthquake,1985-0171,7.360197025,126.4285156
+5049,Philippines,PHL,840,1985,16857,Davao City,2,Davao Del Sur,Davao City,NA,Mindanao,0,NA,earthquake,1985-0171,7.252573324,125.4145992
+5078,Philippines,PHL,840,1990,16245,Bohol,1,Bohol,NA,NA,Bohol,0,NA,earthquake,1990-0009,9.854245146,124.1984066
+5078,Philippines,PHL,840,1990,16414,Cagayan De Oro,2,Misamis Oriental,Cagayan De Oro,NA,Cagayan De Oro,0,NA,earthquake,1990-0009,8.411380659,124.6237348
+5078,Philippines,PHL,840,1990,16554,Camiguin,1,Camiguin,NA,NA,Camiguin,0,NA,earthquake,1990-0009,9.170060694,124.7178736
+5078,Philippines,PHL,840,1990,16818,North Cotabato,1,North Cotabato,NA,NA,Cotabato,0,NA,earthquake,1990-0009,7.214843075,124.8524845
+5079,Philippines,PHL,840,1990,16836,Culasi,2,Antique,Culasi,NA,Culasi,0,NA,earthquake,1990-0028,11.42395139,122.1079918
+5082,Philippines,PHL,840,1990,16062,Baguio City,2,Benguet,Baguio City,NA,Baguio,0,NA,earthquake,1990-0040,16.4047204,120.5939617
+5082,Philippines,PHL,840,1990,16367,Cabanatuan,2,Nueva Ecija,Cabanatuan,NA,Cabanatuan,0,NA,earthquake,1990-0040,15.49261829,120.9925296
+5082,Philippines,PHL,840,1990,16839,Dagupan,2,Pangasinan,Dagupan,NA,Dagupan,0,NA,earthquake,1990-0040,16.0548694,120.3480983
+5111,Philippines,PHL,840,1994,16416,Cagayan De Oro,2,Misamis Oriental,Cagayan De Oro,NA,Cagayan De Oro,0,NA,earthquake,1994-0768,8.411380659,124.6237348
+5123,Philippines,PHL,840,1994,16459,Camarines Norte,1,Camarines Norte,NA,NA,Bicol Region,0,NA,earthquake,1994-0518,14.14367255,122.7292292
+5123,Philippines,PHL,840,1994,16514,Camarines Sur,1,Camarines Sur,NA,NA,Bicol Region,0,NA,earthquake,1994-0518,13.70361525,123.2627336
+5123,Philippines,PHL,840,1994,16674,Catanduanes,1,Catanduanes,NA,NA,Bicol Region,0,NA,earthquake,1994-0518,13.78280333,124.2364878
+5123,Philippines,PHL,840,1994,18653,Sorsogon,1,Sorsogon,NA,NA,Bicol Region,0,NA,earthquake,1994-0518,12.85386788,123.9288961
+5125,Philippines,PHL,840,1995,16218,Biliran,1,Biliran,NA,NA,Samar Island,0,NA,earthquake,1995-0055,11.59473918,124.4745203
+5125,Philippines,PHL,840,1995,16965,Eastern Samar,1,Eastern Samar,NA,NA,Samar Island,0,NA,earthquake,1995-0055,11.658038,125.3796713
+5125,Philippines,PHL,840,1995,18710,Southern Leyte,1,Southern Leyte,NA,NA,Samar Island,0,NA,earthquake,1995-0055,10.29359658,125.0526091
+5159,Philippines,PHL,840,1999,17541,Manila,2,Metropolitan Manila,Manila,NA,Manila Region,0,NA,earthquake,1999-0644,14.60072082,120.9836622
+5374,Poland,POL,290,1982,19051,Bytom,2,Slaskie,Bytom,NA,Bytom,0,NA,earthquake,1982-0307,50.3209964,18.84503879
+5436,Romania,ROU,360,1977,19234,Bucharest,1,Bucharest,NA,NA,Bucharest,0,NA,earthquake,1977-0048,44.44455493,26.08814362
+5438,Romania,ROU,360,1990,19222,Braila,1,Braila,NA,NA,Bucharest-Braila-Brasov,0,NA,earthquake,1990-0020,45.08696293,27.67385907
+5438,Romania,ROU,360,1990,19229,Brasov,1,Brasov,NA,NA,Bucharest-Braila-Brasov,0,NA,earthquake,1990-0020,45.76561373,25.30241973
+5438,Romania,ROU,360,1990,19235,Bucharest,1,Bucharest,NA,NA,Bucharest,0,NA,earthquake,1990-0020,44.44455493,26.08814362
+5439,Romania,ROU,360,1991,19345,Orsova,2,Mehedinti,Orsova,NA,Orsova,0,NA,earthquake,1991-0774,44.7286448,22.41289993
+5507,Russia,RUS,365,1999,19488,Kizilyurt,2,Dagestan,Kizilyurt,NA,Kizilyurt area,0,NA,earthquake,1999-0601,43.22901988,46.92429399
+5674,Solomon Islands,SLB,200,1977,20026,Guadalcanal,1,Guadalcanal,NA,NA,Guadalcanal,1,United Kingdom,earthquake,1977-0059,-9.625506651,160.1656021
+5674,Solomon Islands,SLB,200,1977,20034,Honiara,1,Honiara,NA,NA,Honiara,1,United Kingdom,earthquake,1977-0059,-9.438489459,159.971389
+5678,Solomon Islands,SLB,940,1988,20041,Makira Ulawa,1,Makira Ulawa,NA,NA,San Cristobal,0,NA,earthquake,1988-0675,-10.53967388,161.820726
+5739,South Africa,ZAF,560,1990,20270,West Rand,2,Gauteng,West Rand,NA,Carletonville,0,NA,earthquake,1990-0704,-26.24559151,27.5554587
+5790,Uzbekistan,UZB,365,1966,26242,Tashkent,1,Tashkent,NA,NA,Tashkent,1,USSR,earthquake,1966-0042,41.28258514,69.21790634
+5791,Uzbekistan,UZB,365,1976,26238,Jondor,2,Bukhoro,Jondor,NA,Gazli,1,USSR,earthquake,1976-0039,39.9528832,63.65083945
+5794,Turkmenistan,TKM,365,1983,22521,Balkan,1,Balkan,NA,NA,Kum-Dag,1,USSR,earthquake,1983-0066,39.99952614,54.80809362
+5799,Georgia,GEO,365,1986,6756,Samtskhe-Javakheti,1,Samtskhe-Javakheti,NA,NA,Akhalkalaki,1,USSR,earthquake,1986-0171,41.53680082,43.32649953
+5802,Armenia,ARM,365,1988,960,Lori,1,Lori,NA,NA,Spitak,1,USSR,earthquake,1988-0528,40.98066093,44.49345282
+5802,Armenia,ARM,365,1988,961,Shirak,1,Shirak,NA,NA,Leninakan,1,USSR,earthquake,1988-0528,40.82738011,43.86962701
+5803,Tajikistan,TJK,365,1989,21203,Hissor,2,Tadzhikistan Territories,Hissor,NA,Hisor,1,USSR,earthquake,1989-0027,38.65624785,68.58145945
+5809,Kazakhstan,KAZ,365,1990,11738,Akkol'Skiy,2,Aqmola,Akkol'Skiy,NA,Akkol,1,USSR,earthquake,1990-0228,52.13735147,71.63374821
+5811,Tajikistan,TJK,702,1991,21275,Shughnon,2,Gorno-Badakhshan,Shughnon,NA,Khorog,0,NA,earthquake,1991-0033,37.60704782,72.2103773
+5812,Russia,RUS,365,1991,19599,Ust'-Kamchatskiy Rayon,2,Kamchatka,Ust'-Kamchatskiy Rayon,NA,Kamchatka Peninsula,1,USSR,earthquake,1991-0055,56.37065539,161.1298794
+5815,Georgia,GEO,372,1991,6750,Sachkhere,2,Imereti,Sachkhere,NA,Sachkhere,0,NA,earthquake,1991-0117,42.28237881,43.50468777
+5838,Spain,ESP,230,1999,20495,Murcia,2,Region De Murcia,Murcia,NA,Mula,0,NA,earthquake,1999-0638,38.00134366,-1.483595569
+5952,Sudan,SDN,625,1993,20894,Khartoum,1,Khartoum,NA,NA,Khartoum,0,NA,earthquake,1993-0056,15.84371653,32.80459422
+6041,Taiwan,TWN,713,1986,21150,Taipei,1,Taipei,NA,NA,Taipei,0,NA,earthquake,1986-0133,24.93347484,121.3158037
+6060,Taiwan,TWN,713,1999,21094,Nantou,2,Taiwan,Nantou,NA,Nantou,0,NA,earthquake,1999-0321,23.83767044,120.9882101
+6060,Taiwan,TWN,713,1999,21129,Taichung,1,Taichung,Taichung,NA,Taichung County,0,NA,earthquake,1999-0321,24.23364313,120.8960861
+6061,Taiwan,TWN,713,1999,21049,Chiayi City,2,Taiwan,Chiayi City,NA,Jiayi Province,0,NA,earthquake,1999-0405,23.47538781,120.4471678
+6145,Tanzania,TZA,510,1964,21306,Arusha,1,Arusha,NA,NA,Arusha,0,NA,earthquake,1964-0027,-2.971649322,35.92279542
+6145,Tanzania,TZA,510,1964,21331,Kilimanjaro,1,Kilimanjaro,NA,NA,Northern,0,NA,earthquake,1964-0027,-3.76320962,37.63999263
+6145,Tanzania,TZA,510,1964,21355,Manyara,1,Manyara,NA,NA,Manyara,0,NA,earthquake,1964-0027,-4.531697765,36.54534061
+6145,Tanzania,TZA,510,1964,21413,Tanga,1,Tanga,NA,NA,Northern,0,NA,earthquake,1964-0027,-5.217677103,38.28164354
+6211,Thailand,THA,800,1995,21486,Chiang Rai,1,Chiang Rai,NA,NA,ChiangRai,0,NA,earthquake,1995-0148,19.84503542,99.86705635
+6286,Tonga,TON,NA,1977,22157,Tongatapu,1,Tongatapu,NA,NA,Tongatapu,0,NA,earthquake,1977-0078,-21.17960791,-175.2033562
+6322,Turkey,TUR,640,1964,22300,Bursa,1,Bursa,NA,NA,Bursa & Balikesir,0,NA,earthquake,1964-0059,40.11486665,29.02668797
+6323,Turkey,TUR,640,1966,22435,Mus,1,Mus,NA,NA,Mus province,0,NA,earthquake,1966-0058,39.01377029,41.88232453
+6324,Turkey,TUR,640,1966,22507,Varto,2,Mus,Varto,NA,Varto,0,NA,earthquake,1966-0062,39.18879991,41.48447967
+6326,Turkey,TUR,640,1968,22256,Antalya,1,Antalya,NA,NA,North Anatolia,0,NA,earthquake,1968-0071,36.79863466,30.92109948
+6328,Turkey,TUR,640,1969,22247,Alasehir,2,Manisa,Alasehir,NA,West Alasehir,0,NA,earthquake,1969-0059,41.00181864,29.11108793
+6329,Turkey,TUR,640,1970,22358,Gediz,2,Kutahya,Gediz,NA,Gediz,0,NA,earthquake,1970-0019,38.95010076,29.39751987
+6330,Turkey,TUR,640,1971,22298,Burdur,1,Burdur,NA,NA,Burdur,0,NA,earthquake,1971-0030,37.42293556,30.09070637
+6331,Turkey,TUR,640,1971,22278,Bingol,1,Bingol,NA,NA,Bingol,0,NA,earthquake,1971-0034,39.04572251,40.72168906
+6331,Turkey,TUR,640,1971,22337,Erzincan,1,Erzincan,NA,NA,Erzincan,0,NA,earthquake,1971-0034,39.66583518,39.31617681
+6334,Turkey,TUR,640,1975,22423,Lice,2,Diyarbakir,Lice,NA,Lice,0,NA,earthquake,1975-0053,38.46325654,40.69103344
+6336,Turkey,TUR,640,1976,22318,Denizli,1,Denizli,NA,NA,Denizli,0,NA,earthquake,1976-0056,37.73403753,29.26284069
+6337,Turkey,TUR,640,1976,22434,Muradiye,2,Van,Muradiye,NA,Muradiye,0,NA,earthquake,1976-0075,39.01182885,43.71891526
+6338,Turkey,TUR,640,1977,22322,Diyarbakir,1,Diyarbakir,NA,NA,Lice-Palu,0,NA,earthquake,1977-0052,38.1359983,40.34659889
+6339,Turkey,TUR,640,1978,22338,Erzincan,1,Erzincan,NA,NA,Erzincan,0,NA,earthquake,1978-0263,39.66583518,39.31617681
+6341,Turkey,TUR,640,1983,22398,Kars,1,Kars,NA,NA,Kars,0,NA,earthquake,1983-0136,40.47389649,43.06595586
+6344,Turkey,TUR,640,1985,22339,Erzincan,1,Erzincan,NA,NA,Erzincan,0,NA,earthquake,1985-0276,39.66583518,39.31617681
+6345,Turkey,TUR,640,1985,22343,Erzurum,1,Erzurum,NA,NA,Erzurum area,0,NA,earthquake,1985-0194,40.0549636,41.56259218
+6346,Turkey,TUR,640,1986,22238,Adiyaman,1,Adiyaman,NA,NA,Adiyaman,0,NA,earthquake,1986-0058,37.80461718,38.33574078
+6346,Turkey,TUR,640,1986,22424,Malatya,1,Malatya,NA,NA,Malatya,0,NA,earthquake,1986-0058,38.51243961,38.11640602
+6347,Turkey,TUR,640,1986,22265,Aydin,1,Aydin,NA,NA,Aydin area,0,NA,earthquake,1986-0183,37.75283263,28.01758171
+6353,Turkey,TUR,640,1992,22340,Erzincan,1,Erzincan,NA,NA,Erzican province,0,NA,earthquake,1992-0022,39.66583518,39.31617681
+6358,Turkey,TUR,640,1996,22248,Amasya,1,Amasya,NA,NA,Amasya,0,NA,earthquake,1996-0461,40.69139421,35.72133311
+6358,Turkey,TUR,640,1996,22313,Corum,1,Corum,NA,NA,Corum,0,NA,earthquake,1996-0461,40.56644471,34.66220729
+6361,Turkey,TUR,640,1998,22311,Ceyhan,2,Adana,Ceyhan,NA,Ceyhan,0,NA,earthquake,1998-0201,37.01193171,35.76748085
+6361,Turkey,TUR,640,1998,22369,Hatay,1,Hatay,NA,NA,Hatay,0,NA,earthquake,1998-0201,36.44171869,36.25630436
+6364,Turkey,TUR,640,1998,22403,Kayseri,1,Kayseri,NA,NA,Kayseri,0,NA,earthquake,1998-0588,38.67886327,35.85646031
+6365,Turkey,TUR,640,1999,22293,Bolu,1,Bolu,NA,NA,Bolu,0,NA,earthquake,1999-0268,40.6009786,31.66721148
+6365,Turkey,TUR,640,1999,22301,Bursa,1,Bursa,NA,NA,Bursa,0,NA,earthquake,1999-0268,40.11486665,29.02668797
+6365,Turkey,TUR,640,1999,22351,Eskisehir,1,Eskisehir,NA,NA,Eskisehir,0,NA,earthquake,1999-0268,39.59867201,31.07872805
+6365,Turkey,TUR,640,1999,22380,Istanbul,1,Istanbul,NA,NA,Istanbul,0,NA,earthquake,1999-0268,41.14880853,28.84707535
+6365,Turkey,TUR,640,1999,22462,Sakarya,1,Sakarya,NA,NA,Sakarya,0,NA,earthquake,1999-0268,40.74136996,30.54039974
+6365,Turkey,TUR,640,1999,22485,Tekirdag,1,Tekirdag,NA,NA,Tekirdag,0,NA,earthquake,1999-0268,41.1119232,27.44539296
+6365,Turkey,TUR,640,1999,22508,Yalova,1,Yalova,NA,NA,Yalova,0,NA,earthquake,1999-0268,40.58684243,29.12357155
+6365,Turkey,TUR,640,1999,22519,Zinguldak,1,Zinguldak,NA,NA,Zonguldak,0,NA,earthquake,1999-0268,41.25208674,31.84116887
+6366,Turkey,TUR,640,1999,22412,Kocaeli,1,Kocaeli,NA,NA,Izmit,0,NA,earthquake,1999-0386,40.85864746,29.89519912
+6367,Turkey,TUR,640,1999,22302,Bursa,1,Bursa,NA,NA,Bursa,0,NA,earthquake,1999-0314,40.11486665,29.02668797
+6367,Turkey,TUR,640,1999,22381,Istanbul,1,Istanbul,NA,NA,Istanbul,0,NA,earthquake,1999-0314,41.14880853,28.84707535
+6367,Turkey,TUR,640,1999,22413,Kocaeli,1,Kocaeli,NA,NA,Kocaeli,0,NA,earthquake,1999-0314,40.85864746,29.89519912
+6367,Turkey,TUR,640,1999,22463,Sakarya,1,Sakarya,NA,NA,Sakarya,0,NA,earthquake,1999-0314,40.74136996,30.54039974
+6367,Turkey,TUR,640,1999,22509,Yalova,1,Yalova,NA,NA,Yalova,0,NA,earthquake,1999-0314,40.58684243,29.12357155
+6368,Turkey,TUR,640,1999,22430,Marmaris,2,Mugla,Marmaris,NA,Marmaris,0,NA,earthquake,1999-0376,36.81599461,28.18749613
+6369,Turkey,TUR,640,1999,22464,Sakarya,1,Sakarya,NA,NA,Sakarya Province,0,NA,earthquake,1999-0445,40.74136996,30.54039974
+6370,Turkey,TUR,640,1999,22294,Bolu,1,Bolu,NA,NA,Bolu,0,NA,earthquake,1999-0449,40.6009786,31.66721148
+6424,Uganda,UGA,500,1966,22564,Bwamba,2,Bundibugyo,Bwamba,NA,Bwamba county,0,NA,earthquake,1966-0039,0.698499966,30.05472885
+6425,Uganda,UGA,500,1988,22549,Arua,1,Arua,NA,NA,Arua,0,NA,earthquake,1988-0369,3.055479605,31.1020291
+6426,Uganda,UGA,500,1990,22618,Moyo,1,Moyo,NA,NA,Moyo area,0,NA,earthquake,1990-0033,3.530972131,31.67150657
+6428,Uganda,UGA,500,1994,22559,Bundibugyo,1,Bundibugyo,NA,NA,Bund Ibugyo,0,NA,earthquake,1994-0051,0.873278674,30.22486711
+6428,Uganda,UGA,500,1994,22568,Fort Portal,2,Kabarole,Fort Portal,NA,Fort Portal,0,NA,earthquake,1994-0051,0.656404576,30.28194763
+6428,Uganda,UGA,500,1994,22585,Kasese,1,Kasese,NA,NA,Kasese,0,NA,earthquake,1994-0051,0.121792156,30.00102736
+6481,United Kingdom,GBR,200,1990,22909,Shropshire,2,England,Shropshire,NA,Wrexham-Welshpool-Shrewsbury,0,NA,earthquake,1990-0193,52.62811429,-2.723533831
+6533,United States,USA,2,1960,23740,Hawaii,1,Hawaii,NA,NA,Hawaii,0,NA,earthquake,1960-0018,20.24767092,-156.3479103
+6541,United States,USA,2,1965,24186,King,2,Washington,King,NA,Seattle,0,NA,earthquake,1965-0024,33.61613912,-100.2591841
+6548,United States,USA,2,1971,24239,Los Angeles,2,California,Los Angeles,NA,San Fernando,0,NA,earthquake,1971-0016,34.32090698,-118.2275975
+6564,United States,USA,2,1980,24118,Kentucky,1,Kentucky,NA,NA,Kentucky,0,NA,earthquake,1980-0124,37.52688112,-85.29102556
+6579,United States,USA,2,1983,23627,Fresno,2,California,Fresno,NA,Coalinga,0,NA,earthquake,1983-0174,36.75816338,-119.6520789
+6584,United States,USA,2,1983,23742,Hawaii,1,Hawaii,NA,NA,Hawai,0,NA,earthquake,1983-0197,20.24767092,-156.3479103
+6604,United States,USA,2,1986,25280,Orange,2,California,Orange,NA,Newport Beach,0,NA,earthquake,1986-0177,33.70274935,-117.7620186
+6612,United States,USA,2,1987,24240,Los Angeles,2,California,Los Angeles,NA,Los Angeles-Whittier,0,NA,earthquake,1987-0179,34.32090698,-118.2275975
+6613,United States,USA,2,1987,23872,Imperial,2,California,Imperial,NA,Imperial county,0,NA,earthquake,1987-0254,33.0397358,-115.364234
+6644,United States,USA,2,1989,23743,Hawaii,1,Hawaii,NA,NA,Hawaii,0,NA,earthquake,1989-0186,20.24767092,-156.3479103
+6651,United States,USA,2,1989,25105,Oakland,2,Michigan,Oakland,NA,Oakland,0,NA,earthquake,1989-0133,42.65957927,-83.38572513
+6658,United States,USA,2,1990,23451,Contra Costa,2,California,Contra Costa,NA,Alamo,0,NA,earthquake,1990-0703,37.9166423,-121.9243883
+6697,United States,USA,2,1991,24251,Los Angeles,2,California,Los Angeles,NA,Pasadena,0,NA,earthquake,1991-0192,34.32090698,-118.2275975
+6715,United States,USA,2,1992,23771,Humboldt,2,California,Humboldt,NA,Petrolia,0,NA,earthquake,1992-0120,40.69841657,-123.8731865
+6715,United States,USA,2,1992,25106,Oakland,2,Michigan,Oakland,NA,Ferndale,0,NA,earthquake,1992-0120,42.65957927,-83.38572513
+6722,United States,USA,2,1992,25520,San Bernardino,2,California,San Bernardino,NA,Landers California,0,NA,earthquake,1992-0215,34.84275635,-116.1806586
+6769,United States,USA,2,1994,23561,Eureka,2,Nevada,Eureka,NA,Eureka,0,NA,earthquake,1994-0599,39.98037552,-116.2684303
+7168,Uzbekistan,UZB,704,1992,26235,Andijon,1,Andijon,NA,NA,Andizhan oblast,0,NA,earthquake,1992-0236,40.75059423,72.29591207
+7183,Vanuatu,VUT,NA,1990,26263,Port Vila,2,Shefa,Port Vila,NA,Port Vila,0,NA,earthquake,1990-0190,-17.7277871,168.3195255
+7184,Vanuatu,VUT,NA,1990,26268,Sanma,1,Sanma,NA,NA,Espiritu Santo,0,NA,earthquake,1990-0227,-15.26327294,166.8910389
+7192,Vanuatu,VUT,NA,1999,26258,Penama,1,Penama,NA,NA,Pentecost,0,NA,earthquake,1999-0524,-15.47674415,168.056004
+7204,Venezuela,VEN,101,1967,26336,Libertador,2,Distrito Capital,Libertador,NA,Caracas,0,NA,earthquake,1967-0050,10.17167316,-67.51413782
+7204,Venezuela,VEN,101,1967,26384,Vargas,1,Vargas,NA,NA,Vargas,0,NA,earthquake,1967-0050,10.54840833,-66.90878784
+7205,Venezuela,VEN,101,1980,26367,San Cristobal,2,Tachira,San Cristobal,NA,San Cristobal,0,NA,earthquake,1980-0184,7.714583548,-72.17329696
+7206,Venezuela,VEN,101,1986,26306,Anzoategui,1,Anzoategui,NA,NA,Eastern Venezuela,0,NA,earthquake,1986-0074,8.895326751,-64.40631268
+7206,Venezuela,VEN,101,1986,26359,Monagas,1,Monagas,NA,NA,Monagas,0,NA,earthquake,1986-0074,9.392657055,-63.017592
+7206,Venezuela,VEN,101,1986,26369,Sucre,1,Sucre,NA,NA,Eastern Venezuela,0,NA,earthquake,1986-0074,10.41435162,-63.37678798
+7207,Venezuela,VEN,101,1986,26334,Federacion,2,Falcon,Federacion,NA,Churuguara,0,NA,earthquake,1986-0182,10.84944339,-69.56195708
+7215,Venezuela,VEN,101,1997,26366,Ribero,2,Sucre,Ribero,NA,Cariaco,0,NA,earthquake,1997-0147,10.44779049,-63.56293684
+7389,Yemen,YEM,678,1991,27046,Hazm Al Udayn,2,Ibb,Hazm Al Udayn,NA,Hazm Al Udayn,0,NA,earthquake,1991-0682,14.12044925,43.92217944
+7417,Yemen,YEM,678,1982,27034,Dhamar,1,Dhamar,NA,NA,Dhamar province,1,Yemen North,earthquake,1982-0131,14.59833699,44.20220098
+7421,Macedonia,MKD,345,1963,12166,Aracinovo,1,Aracinovo,NA,NA,Skopje,1,Yugoslavia,earthquake,1963-0016,42.02555433,21.57955751
+7421,Macedonia,MKD,345,1963,12192,Gazi Baba,1,Gazi Baba,NA,NA,Skopje,1,Yugoslavia,earthquake,1963-0016,42.01032034,21.51033215
+7421,Macedonia,MKD,345,1963,12254,Studenicani,1,Studenicani,NA,NA,Skopje,1,Yugoslavia,earthquake,1963-0016,41.8148001,21.43293393
+7424,Macedonia,MKD,345,1967,12188,Debar,1,Debar,NA,NA,Debar,1,Yugoslavia,earthquake,1967-0074,41.51723868,20.59336288
+7428,Montenegro,SRB,345,1979,13555,Ulcinj,1,Ulcinj,NA,NA,Kotor-Ulcinj,1,Yugoslavia,earthquake,1979-0052,41.99127064,19.28675161
+7429,Serbia,SRB,345,1980,19868,Rasinski,1,Rasinski,Rasina,NA,Aleksandrovac,1,Yugoslavia,earthquake,1980-0046,43.49327576,21.14862428
+7429,Serbia,SRB,345,1980,19871,Raska,2,Raski,Raska,NA,Raska,1,Yugoslavia,earthquake,1980-0046,43.31160996,20.61580228
+7431,Bosnia And Herzegovina,SRB,345,1981,2634,Repuplika Srpska,1,Repuplika Srpska,Republica Srpska,NA,Banja Luka,1,Yugoslavia,earthquake,1981-0073,44.22451292,18.04809316
+7432,Macedonia,MKD,345,1983,12167,Aracinovo,1,Aracinovo,NA,NA,Skopje,1,Yugoslavia,earthquake,1983-0408,42.02555433,21.57955751
+7432,Macedonia,MKD,345,1983,12193,Gazi Baba,1,Gazi Baba,NA,NA,Skopje,1,Yugoslavia,earthquake,1983-0408,42.01032034,21.51033215
+7432,Macedonia,MKD,345,1983,12255,Studenicani,1,Studenicani,NA,NA,Skopje,1,Yugoslavia,earthquake,1983-0408,41.8148001,21.43293393
+7433,Macedonia,MKD,345,1985,12189,Demir Kapija,1,Demir Kapija,NA,NA,Demir Kapija,1,Yugoslavia,earthquake,1985-0193,41.37948441,22.23188661
+7433,Macedonia,MKD,345,1985,12225,Negotino,1,Negotino,NA,NA,Negotino,1,Yugoslavia,earthquake,1985-0193,41.50887233,22.11811153
+7438,Democratic Republic Of The Congo,COD,490,1992,5817,Tanganyika,1,Tanganyika,NA,NA,Shaba province,0,NA,earthquake,1992-0064,-8.749957851,26.4033927
+2633,Iceland,ISL,NA,1976,7667,Hofudborgarsv??di,1,Hofudborgarsv??di,NA,NA,Nordurland Eystra,0,NA,earthquake,1976-0020,64.16093459,-21.66486841
+4951,Philippines,PHL,840,1970,17744,Metropolitan Manila,1,Metropolitan Manila,NA,NA,National Capital Region,0,NA,earthquake,1970-0004,14.59873565,121.0325745
+4967,Philippines,PHL,840,1973,17745,Metropolitan Manila,1,Metropolitan Manila,NA,NA,National Capital Region,0,NA,earthquake,1973-0017,14.59873565,121.0325745
+5123,Philippines,PHL,840,1994,17756,Metropolitan Manila,1,Metropolitan Manila,NA,NA,National Capital Region,0,NA,earthquake,1994-0518,14.59873565,121.0325745
+6326,Turkey,TUR,640,1968,22269,Bartin,1,Bartin,NA,NA,Bartin,0,NA,earthquake,1968-0071,41.54824997,32.46654329
+6338,Turkey,TUR,640,1977,22332,Elazig,1,Elazig,NA,NA,Elazig,0,NA,earthquake,1977-0052,38.67723027,39.42613253
+6344,Turkey,TUR,640,1985,22359,Gumushane,1,Gumushane,NA,NA,Gumushane,0,NA,earthquake,1985-0276,40.33249908,39.41317633
+7421,Macedonia,MKD,345,1963,12161,Aerodrom,1,Aerodrom,NA,NA,Skopje,1,Yugoslavia,earthquake,1963-0016,41.95251865,21.49279285
+7421,Macedonia,MKD,345,1963,12173,Butel,1,Butel,NA,NA,Skopje,1,Yugoslavia,earthquake,1963-0016,42.07231491,21.46069347
+7421,Macedonia,MKD,345,1963,12177,Cair,1,Cair,NA,NA,Skopje,1,Yugoslavia,earthquake,1963-0016,41.99367438,21.43627393
+7421,Macedonia,MKD,345,1963,12181,Centar,1,Centar,NA,NA,Skopje,1,Yugoslavia,earthquake,1963-0016,41.97544577,21.42023024
+7421,Macedonia,MKD,345,1963,12186,Cucer Sandevo,1,Cucer Sandevo,NA,NA,Skopje,1,Yugoslavia,earthquake,1963-0016,42.1319442,21.40351188
+7421,Macedonia,MKD,345,1963,12197,Gjorce Petrov,1,Gjorce Petrov,NA,NA,Skopje,1,Yugoslavia,earthquake,1963-0016,42.0481835,21.31179864
+7421,Macedonia,MKD,345,1963,12203,Ilinden,1,Ilinden,NA,NA,Skopje,1,Yugoslavia,earthquake,1963-0016,41.97791588,21.61994237
+7421,Macedonia,MKD,345,1963,12207,Karpos,1,Karpos,NA,NA,Skopje,1,Yugoslavia,earthquake,1963-0016,41.98037755,21.3854358
+7421,Macedonia,MKD,345,1963,12212,Kisela Voda,1,Kisela Voda,NA,NA,Skopje,1,Yugoslavia,earthquake,1963-0016,41.93088293,21.48039037
+7421,Macedonia,MKD,345,1963,12231,Petrovec,1,Petrovec,NA,NA,Skopje,1,Yugoslavia,earthquake,1963-0016,41.89728713,21.69543131
+7421,Macedonia,MKD,345,1963,12239,Saraj,1,Saraj,NA,NA,Skopje,1,Yugoslavia,earthquake,1963-0016,41.98539733,21.24384527
+7421,Macedonia,MKD,345,1963,12243,Sopiste,1,Sopiste,NA,NA,Skopje,1,Yugoslavia,earthquake,1963-0016,41.85846843,21.32266366
+7421,Macedonia,MKD,345,1963,12258,Suto Orizari,1,Suto Orizari,NA,NA,Skopje,1,Yugoslavia,earthquake,1963-0016,42.03153063,21.40736901
+7421,Macedonia,MKD,345,1963,12267,Zelenikovo,1,Zelenikovo,NA,NA,Skopje,1,Yugoslavia,earthquake,1963-0016,41.809537,21.56163257
+7429,Kosovo,SRB,345,1980,12024,Kosovska Mitrovica,1,Kosovska Mitrovica,NA,NA,Mt Kopaonik,1,Yugoslavia,earthquake,1980-0046,42.9130365,20.79125926
+7429,Serbia,SRB,345,1980,19891,Toplicki,1,Toplicki,NA,NA,Kursumlija,1,Yugoslavia,earthquake,1980-0046,43.14526266,21.36693527
+7432,Macedonia,MKD,345,1983,12162,Aerodrom,1,Aerodrom,NA,NA,Skopje,1,Yugoslavia,earthquake,1983-0408,41.95251865,21.49279285
+7432,Macedonia,MKD,345,1983,12174,Butel,1,Butel,NA,NA,Skopje,1,Yugoslavia,earthquake,1983-0408,42.07231491,21.46069347
+7432,Macedonia,MKD,345,1983,12178,Cair,1,Cair,NA,NA,Skopje,1,Yugoslavia,earthquake,1983-0408,41.99367438,21.43627393
+7432,Macedonia,MKD,345,1983,12182,Centar,1,Centar,NA,NA,Skopje,1,Yugoslavia,earthquake,1983-0408,41.97544577,21.42023024
+7432,Macedonia,MKD,345,1983,12187,Cucer Sandevo,1,Cucer Sandevo,NA,NA,Skopje,1,Yugoslavia,earthquake,1983-0408,42.1319442,21.40351188
+7432,Macedonia,MKD,345,1983,12198,Gjorce Petrov,1,Gjorce Petrov,NA,NA,Skopje,1,Yugoslavia,earthquake,1983-0408,42.0481835,21.31179864
+7432,Macedonia,MKD,345,1983,12204,Ilinden,1,Ilinden,NA,NA,Skopje,1,Yugoslavia,earthquake,1983-0408,41.97791588,21.61994237
+7432,Macedonia,MKD,345,1983,12208,Karpos,1,Karpos,NA,NA,Skopje,1,Yugoslavia,earthquake,1983-0408,41.98037755,21.3854358
+7432,Macedonia,MKD,345,1983,12213,Kisela Voda,1,Kisela Voda,NA,NA,Skopje,1,Yugoslavia,earthquake,1983-0408,41.93088293,21.48039037
+7432,Macedonia,MKD,345,1983,12232,Petrovec,1,Petrovec,NA,NA,Skopje,1,Yugoslavia,earthquake,1983-0408,41.89728713,21.69543131
+7432,Macedonia,MKD,345,1983,12240,Saraj,1,Saraj,NA,NA,Skopje,1,Yugoslavia,earthquake,1983-0408,41.98539733,21.24384527
+7432,Macedonia,MKD,345,1983,12244,Sopiste,1,Sopiste,NA,NA,Skopje,1,Yugoslavia,earthquake,1983-0408,41.85846843,21.32266366
+7432,Macedonia,MKD,345,1983,12259,Suto Orizari,1,Suto Orizari,NA,NA,Skopje,1,Yugoslavia,earthquake,1983-0408,42.03153063,21.40736901
+7432,Macedonia,MKD,345,1983,12268,Zelenikovo,1,Zelenikovo,NA,NA,Skopje,1,Yugoslavia,earthquake,1983-0408,41.809537,21.56163257
+211,Argentina,ARG,160,1977,789,Buenos Aires,1,Buenos Aires,NA,NA,Buenos Aires,0,NA,earthquake,1977-0137,-36.68352662,-60.56597846
+281,Australia,AUS,900,1989,1206,New South Wales,1,New South Wales,NA,NA,Newcastle,0,NA,earthquake,1989-0142,-32.16565906,147.0085368
+544,Bangladesh,BGD,771,1997,1725,Chittagong,1,Chittagong,NA,NA,Chittagong,0,NA,earthquake,1997-0281,22.71208045,91.73027541
+558,Bangladesh,BGD,771,1999,1730,Chittagong,1,Chittagong,NA,NA,Maheshkhali Island,0,NA,earthquake,1999-0228,22.71208045,91.73027541
+1133,China,CHN,710,1969,3977,Guangdong,1,Guangdong,NA,NA,Swatow,0,NA,earthquake,1969-0082,23.33519983,113.4152731
+1135,China,CHN,710,1975,4510,Liaoning,1,Liaoning,NA,NA,Anshan Liaoning,0,NA,earthquake,1975-0017,41.2989153,122.6076547
+1142,China,CHN,710,1981,4636,Sichuan,1,Sichuan,NA,NA,Sichuan province,0,NA,earthquake,1981-0026,30.61575411,102.7099641
+1148,China,CHN,710,1982,4639,Sichuan,1,Sichuan,NA,NA,Sichuan province,0,NA,earthquake,1982-0068,30.61575411,102.7099641
+1152,China,CHN,710,1983,4582,Shandong,1,Shandong,NA,NA,Heze,0,NA,earthquake,1983-0144,36.35199896,118.1509191
+1155,China,CHN,710,1985,4641,Sichuan,1,Sichuan,NA,NA,Neijiang area,0,NA,earthquake,1985-0182,30.61575411,102.7099641
+1156,China,CHN,710,1985,4791,Yunnan,1,Yunnan,NA,NA,Yunnan province,0,NA,earthquake,1985-0055,24.97571744,101.4898344
+1160,China,CHN,710,1985,4736,Xinjiang Uygur,1,Xinjiang Uygur,NA,NA,Wuqia-Shufu,0,NA,earthquake,1985-0101,41.11196232,85.20363342
+1162,China,CHN,710,1986,4781,Xizang,1,Xizang,NA,NA,Tibet,0,NA,earthquake,1986-0173,31.69003921,88.13130923
+1188,China,CHN,710,1988,4792,Yunnan,1,Yunnan,NA,NA,Yunnan province,0,NA,earthquake,1988-0502,24.97571744,101.4898344
+1189,China,CHN,710,1989,3945,Gansu,1,Gansu,NA,NA,Baiju,0,NA,earthquake,1989-0081,37.82078887,100.9338739
+1191,China,CHN,710,1989,4793,Yunnan,1,Yunnan,NA,NA,Yunnan province,0,NA,earthquake,1989-0155,24.97571744,101.4898344
+1196,China,CHN,710,1989,4648,Sichuan,1,Sichuan,NA,NA,Sichuan province,0,NA,earthquake,1989-0287,30.61575411,102.7099641
+1199,China,CHN,710,1989,4649,Sichuan,1,Sichuan,NA,NA,Sichuan Province,0,NA,earthquake,1989-0225,30.61575411,102.7099641
+1212,China,CHN,710,1990,3946,Gansu,1,Gansu,NA,NA,Gansu Province,0,NA,earthquake,1990-0093,37.82078887,100.9338739
+1215,China,CHN,710,1991,4737,Xinjiang Uygur,1,Xinjiang Uygur,NA,NA,Keping,0,NA,earthquake,1991-0043,41.11196232,85.20363342
+1233,China,CHN,710,1992,4783,Xizang,1,Xizang,NA,NA,Lhasa prefecture,0,NA,earthquake,1992-0256,31.69003921,88.13130923
+1238,China,CHN,710,1993,4795,Yunnan,1,Yunnan,NA,NA,Yunnan province,0,NA,earthquake,1993-0108,24.97571744,101.4898344
+1250,China,CHN,710,1993,4738,Xinjiang Uygur,1,Xinjiang Uygur,NA,NA,Shufu,0,NA,earthquake,1993-0582,41.11196232,85.20363342
+1261,China,CHN,710,1994,3888,Fujian,1,Fujian,NA,NA,Fujian,0,NA,earthquake,1994-0307,26.08105732,117.9899438
+1261,China,CHN,710,1994,4004,Guangdong,1,Guangdong,NA,NA,Guandong,0,NA,earthquake,1994-0307,23.33519983,113.4152731
+1261,Taiwan,TWN,713,1994,21164,Taiwan,1,Taiwan,NA,NA,Taiwan,0,NA,earthquake,1994-0307,23.72829126,121.009827
+1262,China,CHN,710,1994,4005,Guangdong,1,Guangdong,NA,NA,Gungdong,0,NA,earthquake,1994-0600,23.33519983,113.4152731
+1262,China,CHN,710,1994,4100,Guangxi,1,Guangxi,NA,NA,Guangxi,0,NA,earthquake,1994-0600,23.82701469,108.7865663
+1267,China,CHN,710,1995,4797,Yunnan,1,Yunnan,NA,NA,Yunnan province,0,NA,earthquake,1995-0148,24.97571744,101.4898344
+1268,China,CHN,710,1995,3950,Gansu,1,Gansu,NA,NA,Ganzu,0,NA,earthquake,1995-0457,37.82078887,100.9338739
+1273,China,CHN,710,1995,4798,Yunnan,1,Yunnan,NA,NA,Yunnan province,0,NA,earthquake,1995-0261,24.97571744,101.4898344
+1275,China,CHN,710,1996,4884,Zhejiang,1,Zhejiang,NA,NA,Lishui,0,NA,earthquake,1996-0021,29.17951244,120.0888388
+1276,China,CHN,710,1996,4739,Xinjiang Uygur,1,Xinjiang Uygur,NA,NA,Xinjiang,0,NA,earthquake,1996-0136,41.11196232,85.20363342
+1286,China,CHN,710,1996,4800,Yunnan,1,Yunnan,NA,NA,Yunnan Province,0,NA,earthquake,1996-0205,24.97571744,101.4898344
+1288,China,CHN,710,1997,4742,Xinjiang Uygur,1,Xinjiang Uygur,NA,NA,Southern Xinjiang,0,NA,earthquake,1997-0011,41.11196232,85.20363342
+1289,China,CHN,710,1997,4743,Xinjiang Uygur,1,Xinjiang Uygur,NA,NA,Jiashi,0,NA,earthquake,1997-0531,41.11196232,85.20363342
+1290,China,CHN,710,1997,4744,Xinjiang Uygur,1,Xinjiang Uygur,NA,NA,Shule,0,NA,earthquake,1997-0326,41.11196232,85.20363342
+1291,China,CHN,710,1997,4745,Xinjiang Uygur,1,Xinjiang Uygur,NA,NA,Jiashi,0,NA,earthquake,1997-0532,41.11196232,85.20363342
+1304,China,CHN,710,1998,4746,Xinjiang Uygur,1,Xinjiang Uygur,NA,NA,Xinjiang,0,NA,earthquake,1998-0580,41.11196232,85.20363342
+1309,China,CHN,710,1998,4748,Xinjiang Uygur,1,Xinjiang Uygur,NA,NA,Xinjiang,0,NA,earthquake,1998-0581,41.11196232,85.20363342
+1313,China,CHN,710,1998,4749,Xinjiang Uygur,1,Xinjiang Uygur,NA,NA,Jiashi,0,NA,earthquake,1998-0582,41.11196232,85.20363342
+1316,China,CHN,710,1998,4663,Sichuan,1,Sichuan,NA,NA,Sichuan,0,NA,earthquake,1998-0587,30.61575411,102.7099641
+1317,China,CHN,710,1998,4664,Sichuan,1,Sichuan,NA,NA,Shichuan province,0,NA,earthquake,1998-0384,30.61575411,102.7099641
+1317,China,CHN,710,1998,4803,Yunnan,1,Yunnan,NA,NA,Ninglang,0,NA,earthquake,1998-0384,24.97571744,101.4898344
+1318,China,CHN,710,1998,4804,Yunnan,1,Yunnan,NA,NA,Yunnan,0,NA,earthquake,1998-0454,24.97571744,101.4898344
+1333,China,CHN,710,1999,4518,Liaoning,1,Liaoning,NA,NA,Liaoning province,0,NA,earthquake,1999-0553,41.2989153,122.6076547
+1704,Colombia,COL,100,1991,5039,Choco,1,Choco,NA,NA,Choco Department,0,NA,earthquake,1991-0390,5.98735733,-76.97111851
+1716,Colombia,COL,100,1999,5295,Valle Del Cauca,1,Valle Del Cauca,NA,NA,Valle del Cauca,0,NA,earthquake,1999-0016,3.868855494,-76.53174509
+1854,Cuba,CUB,40,1992,5644,Holguin,1,Holguin,NA,NA,Holguin,0,NA,earthquake,1992-0067,20.7663889,-75.90046634
+2003,Ecuador,ECU,130,1976,6050,Esmeraldas,1,Esmeraldas,NA,NA,Esmeraldas,0,NA,earthquake,1976-0033,0.705423981,-79.22176809
+2646,India,IND,750,1967,8443,Maharashtra,1,Maharashtra,NA,NA,Maharashtra,0,NA,earthquake,1967-0077,19.44975928,76.10822143
+2740,India,IND,750,1991,8869,Uttar Pradesh,1,Uttar Pradesh,NA,NA,Uttar Pradesh,0,NA,earthquake,1991-0368,26.92542523,80.56098215
+2975,Indonesia,IDN,850,1967,9715,Sulawesi Selatan,1,Sulawesi Selatan,NA,NA,South Sulawesi,0,NA,earthquake,1967-0101,-3.732296629,120.1611373
+2984,Indonesia,IDN,850,1977,9549,Nusa Tenggara Barat,1,Nusa Tenggara Barat,NA,NA,Lombok,0,NA,earthquake,1977-0106,-8.606664515,117.5074521
+2988,Indonesia,IDN,850,1979,9550,Nusa Tenggara Barat,1,Nusa Tenggara Barat,NA,NA,Lombok Island,0,NA,earthquake,1979-0054,-8.606664515,117.5074521
+2991,Indonesia,IDN,850,1979,9273,Jawa Barat,1,Jawa Barat,NA,NA,West Java,0,NA,earthquake,1979-0102,-6.920194937,107.6030311
+2993,Indonesia,IDN,850,1979,9551,Nusa Tenggara Barat,1,Nusa Tenggara Barat,NA,NA,Lombok,0,NA,earthquake,1979-0115,-8.606664515,117.5074521
+3005,Indonesia,IDN,850,1983,9793,Sumatera Utara,1,Sumatera Utara,NA,NA,North Sumatra,0,NA,earthquake,1983-0067,2.190811217,99.0533116
+3006,Indonesia,IDN,850,1984,9730,Sulawesi Tengah,1,Sulawesi Tengah,NA,NA,Sulawesi Tengah,0,NA,earthquake,1984-0015,-1.003911742,121.2022833
+3035,Indonesia,IDN,850,1990,9798,Sumatera Utara,1,Sumatera Utara,NA,NA,North Sumatra,0,NA,earthquake,1990-0593,2.190811217,99.0533116
+3045,Indonesia,IDN,850,1994,9508,Maluku Utara,1,Maluku Utara,NA,NA,Halmahera,0,NA,earthquake,1994-0006,0.210393283,127.53991
+3045,Indonesia,IDN,850,1994,9601,Papua,1,Papua,Papua,NA,Irian Jaya region,0,NA,earthquake,1994-0006,-4.662877994,138.6911071
+3053,Indonesia,IDN,850,1994,9496,Maluku,1,Maluku,NA,NA,Maluki,0,NA,earthquake,1994-0652,-4.729786971,129.8374071
+3053,Indonesia,IDN,850,1994,9799,Sumatera Utara,1,Sumatera Utara,NA,NA,North Sumatra,0,NA,earthquake,1994-0652,2.190811217,99.0533116
+3063,Indonesia,IDN,850,1996,9732,Sulawesi Tengah,1,Sulawesi Tengah,NA,NA,Sulawesi Tengah,0,NA,earthquake,1996-0002,-1.003911742,121.2022833
+3072,Indonesia,IDN,850,1998,9497,Maluku,1,Maluku,NA,NA,Maluku,0,NA,earthquake,1998-0403,-4.729786971,129.8374071
+3233,Iran,IRN,630,1977,10035,Hormozgan,1,Hormozgan,NA,NA,Bandar Abbas,0,NA,earthquake,1977-0051,27.1123314,56.21993732
+3235,Iran,IRN,630,1977,10036,Hormozgan,1,Hormozgan,NA,NA,Ilchi,0,NA,earthquake,1977-0071,27.1123314,56.21993732
+3236,Iran,IRN,630,1977,10037,Hormozgan,1,Hormozgan,NA,NA,Hormozgan,0,NA,earthquake,1977-0140,27.1123314,56.21993732
+3420,Italy,ITA,325,1968,10502,Sicily,1,Sicily,NA,NA,Western Sicily,0,NA,earthquake,1968-0023,37.58842202,14.14667935
+3525,Japan,JPN,740,1964,11309,Niigata,1,Niigata,NA,NA,Niigata,0,NA,earthquake,1964-0036,37.52181911,138.9186474
+3537,Japan,JPN,740,1968,10933,Hokkaido,1,Hokkaido,NA,NA,Hokkaido,0,NA,earthquake,1968-0050,43.38571051,142.5523179
+3556,Japan,JPN,740,1980,10849,Fukushima,1,Fukushima,NA,NA,Honshu,0,NA,earthquake,1980-0266,37.37886746,140.2232952
+3556,Japan,JPN,740,1980,11314,Niigata,1,Niigata,NA,NA,Honshu,0,NA,earthquake,1980-0266,37.52181911,138.9186474
+3556,Japan,JPN,740,1980,11363,Okayama,1,Okayama,NA,NA,Okayama,0,NA,earthquake,1980-0266,34.89245983,133.8262517
+3556,Japan,JPN,740,1980,11498,Shimane,1,Shimane,NA,NA,Honshu,0,NA,earthquake,1980-0266,35.07076032,132.554064
+3556,Japan,JPN,740,1980,11576,Tokyo,1,Tokyo,NA,NA,Oshima Island,0,NA,earthquake,1980-0266,35.7113435,139.4469212
+3556,Japan,JPN,740,1980,11655,Wakayama,1,Wakayama,NA,NA,Honshu,0,NA,earthquake,1980-0266,33.91187939,135.505446
+3559,Japan,JPN,740,1980,11577,Tokyo,1,Tokyo,NA,NA,Tokyo,0,NA,earthquake,1980-0092,35.7113435,139.4469212
+3563,Japan,JPN,740,1982,10935,Hokkaido,1,Hokkaido,NA,NA,Hokkaido,0,NA,earthquake,1982-0036,43.38571051,142.5523179
+3569,Japan,JPN,740,1983,10851,Fukushima,1,Fukushima,NA,NA,Honshu,0,NA,earthquake,1983-0081,37.37886746,140.2232952
+3569,Japan,JPN,740,1983,10936,Hokkaido,1,Hokkaido,NA,NA,Hokkaido,0,NA,earthquake,1983-0081,43.38571051,142.5523179
+3569,Japan,JPN,740,1983,11316,Niigata,1,Niigata,NA,NA,Kai-Chubu,0,NA,earthquake,1983-0081,37.52181911,138.9186474
+3569,Japan,JPN,740,1983,11365,Okayama,1,Okayama,NA,NA,Okayama,0,NA,earthquake,1983-0081,34.89245983,133.8262517
+3569,Japan,JPN,740,1983,11500,Shimane,1,Shimane,NA,NA,Honshu,0,NA,earthquake,1983-0081,35.07076032,132.554064
+3569,Japan,JPN,740,1983,11579,Tokyo,1,Tokyo,NA,NA,Honshu,0,NA,earthquake,1983-0081,35.7113435,139.4469212
+3569,Japan,JPN,740,1983,11657,Wakayama,1,Wakayama,NA,NA,Honshu,0,NA,earthquake,1983-0081,33.91187939,135.505446
+3572,Japan,JPN,740,1984,10791,Ehime,1,Ehime,NA,NA,Shikoku Island,0,NA,earthquake,1984-0335,33.62483527,132.8568425
+3572,Japan,JPN,740,1984,11107,Kochi,1,Kochi,NA,NA,Kochi,0,NA,earthquake,1984-0335,33.42251944,133.3673066
+3591,Japan,JPN,740,1992,11583,Tokyo,1,Tokyo,NA,NA,Tokyo,0,NA,earthquake,1992-0252,35.7113435,139.4469212
+3593,Japan,JPN,740,1993,10938,Hokkaido,1,Hokkaido,NA,NA,Hokkaido,0,NA,earthquake,1993-0097,43.38571051,142.5523179
+3596,Japan,JPN,740,1993,10939,Hokkaido,1,Hokkaido,NA,NA,Hokkaido,0,NA,earthquake,1993-0044,43.38571051,142.5523179
+3602,Japan,JPN,740,1994,10940,Hokkaido,1,Hokkaido,NA,NA,Hokaido Island,0,NA,earthquake,1994-0343,43.38571051,142.5523179
+3603,Japan,JPN,740,1994,10854,Fukushima,1,Fukushima,NA,NA,Honshu,0,NA,earthquake,1994-0316,37.37886746,140.2232952
+3603,Japan,JPN,740,1994,11319,Niigata,1,Niigata,NA,NA,Honshu,0,NA,earthquake,1994-0316,37.52181911,138.9186474
+3603,Japan,JPN,740,1994,11368,Okayama,1,Okayama,NA,NA,Okayama,0,NA,earthquake,1994-0316,34.89245983,133.8262517
+3603,Japan,JPN,740,1994,11503,Shimane,1,Shimane,NA,NA,Honshu,0,NA,earthquake,1994-0316,35.07076032,132.554064
+3603,Japan,JPN,740,1994,11585,Tokyo,1,Tokyo,NA,NA,Honshu,0,NA,earthquake,1994-0316,35.7113435,139.4469212
+3603,Japan,JPN,740,1994,11660,Wakayama,1,Wakayama,NA,NA,Honshu,0,NA,earthquake,1994-0316,33.91187939,135.505446
+3605,Japan,JPN,740,1995,11320,Niigata,1,Niigata,NA,NA,Niigata,0,NA,earthquake,1995-0449,37.52181911,138.9186474
+4817,Papua New Guinea,PNG,900,1970,15407,Madang,1,Madang,NA,NA,Madang,1,Australia,earthquake,1970-0060,-5.160796167,145.2876379
+4820,Papua New Guinea,PNG,910,1985,15425,West New Britain,1,West New Britain,NA,NA,West New Britain,0,NA,earthquake,1985-0227,-5.753983155,149.8365271
+4822,Papua New Guinea,PNG,910,1987,15414,Morobe,1,Morobe,NA,NA,Umboi Island,0,NA,earthquake,1987-0058,-6.831289924,146.8383242
+4951,Philippines,PHL,840,1970,15847,Albay,1,Albay,NA,NA,Bicol Region,0,NA,earthquake,1970-0004,13.2112739,123.6154635
+4951,Philippines,PHL,840,1970,17603,Masbate,1,Masbate,NA,NA,Bicol Region,0,NA,earthquake,1970-0004,12.29484998,123.5520013
+4967,Philippines,PHL,840,1973,15849,Albay,1,Albay,NA,NA,Bicol Region,0,NA,earthquake,1973-0017,13.2112739,123.6154635
+4967,Philippines,PHL,840,1973,17605,Masbate,1,Masbate,NA,NA,Bicol Region,0,NA,earthquake,1973-0017,12.29484998,123.5520013
+4985,Philippines,PHL,840,1976,18762,Sulu,1,Sulu,NA,NA,Sulu,0,NA,earthquake,1976-0054,5.955700443,121.0504938
+4989,Philippines,PHL,840,1977,16372,Cagayan,1,Cagayan,NA,NA,Cagayan,0,NA,earthquake,1977-0050,18.09951242,121.7630808
+5078,Philippines,PHL,840,1990,16752,Cebu,1,Cebu,NA,NA,Cebu,0,NA,earthquake,1990-0009,10.35656913,123.7556565
+5123,Philippines,PHL,840,1994,15866,Albay,1,Albay,NA,NA,Bicol Region,0,NA,earthquake,1994-0518,13.2112739,123.6154635
+5123,Philippines,PHL,840,1994,17620,Masbate,1,Masbate,NA,NA,Bicol Region,0,NA,earthquake,1994-0518,12.29484998,123.5520013
+5125,Philippines,PHL,840,1995,17412,Leyte,1,Leyte,NA,NA,Samar Island,0,NA,earthquake,1995-0055,10.97725563,124.753802
+5125,Philippines,PHL,840,1995,17938,Northern Samar,1,Northern Samar,NA,NA,Samar Island,0,NA,earthquake,1995-0055,12.41343747,124.7898794
+5125,Philippines,PHL,840,1995,18484,Samar,1,Samar,NA,NA,Samar Island,0,NA,earthquake,1995-0055,11.84281136,124.9405475
+5493,Russia,RUS,365,1994,19554,Sakhalin,1,Sakhalin,NA,NA,Iturup,0,NA,earthquake,1994-0342,49.94016642,143.6238954
+6656,United States,USA,2,1990,23264,California,1,California,NA,NA,Southern California,0,NA,earthquake,1990-0187,37.24501172,-119.6076352
+6714,United States,USA,2,1992,23271,California,1,California,NA,NA,South California,0,NA,earthquake,1992-0554,37.24501172,-119.6076352
+7188,Vanuatu,VUT,NA,1994,26246,Malampa,1,Malampa,NA,NA,Malakula Island,0,NA,earthquake,1994-0076,-16.26677253,167.6443179
+7189,Solomon Islands,SLB,940,1997,20070,Temotu,1,Temotu,NA,NA,Temotu,0,NA,earthquake,1997-0539,-10.93971307,166.2482549
+7192,Vanuatu,VUT,NA,1999,26247,Malampa,1,Malampa,NA,NA,Paama,0,NA,earthquake,1999-0524,-16.26677253,167.6443179
+7192,Vanuatu,VUT,NA,1999,26281,Shefa,1,Shefa,NA,NA,Epi Islands,0,NA,earthquake,1999-0524,-17.34856179,168.3523809
+1137,China,CHN,710,1976,3837,Chengdu,2,Sichuan,Chengdu,NA,Chengdu,0,NA,earthquake,1976-0055,30.66543905,103.8454299
+1189,China,CHN,710,1989,3976,Garze Tibetan,2,Sichuan,Garze Tibetan,NA,Garze,0,NA,earthquake,1989-0081,30.91235061,100.0178937
+1275,China,CHN,710,1996,3866,Dali Bai,2,Yunnan,Dali Bai,NA,Dali,0,NA,earthquake,1996-0021,25.72920944,100.0393132
+1705,Colombia,COL,100,1992,5196,Quibdo,2,Choco,Quibdo,NA,Bellaluz,0,NA,earthquake,1992-0151,5.942568866,-76.76020894
+1712,Colombia,COL,100,1995,5235,San Juan De Pasto,2,Narino,San Juan De Pasto,NA,Pasto,0,NA,earthquake,1995-0054,1.061885647,-77.22296294
+2720,India,IND,750,1988,8189,Jaipur,2,Rajasthan,Jaipur,NA,Khagana,0,NA,earthquake,1988-0382,26.98375164,75.71827969
+2975,Indonesia,IDN,850,1967,9640,Polewali Mandar,2,Sulawesi Barat,Polewali Mandar,NA,Tinambung,0,NA,earthquake,1967-0101,-3.312189805,119.1447791
+2984,Indonesia,IDN,850,1977,9492,Makassar,2,Sulawesi Selatan,Makassar,NA,Sumbaya,0,NA,earthquake,1977-0106,-5.133417005,119.4611476
+2989,Indonesia,IDN,850,1979,9475,Lembata,2,Nusa Tenggara Timur,Lembata,NA,Lomblen Island,0,NA,earthquake,1979-0066,-8.380280723,123.5423442
+2990,Indonesia,IDN,850,1979,9870,Kepulauan Yapen,2,Papua,Kepulauan Yapen,NA,Yapen,0,NA,earthquake,1979-0086,-1.745698196,136.1741345
+3003,Indonesia,IDN,850,1982,9189,Flores Timur,2,Nusa Tenggara Timur,Flores Timur,NA,Larantuka,0,NA,earthquake,1982-0128,-8.365094236,122.9444229
+3009,Indonesia,IDN,850,1984,9842,Tapanuli Utara,2,Sumatera Utara,Tapanuli Utara,NA,Pahae Jae,0,NA,earthquake,1984-0072,1.98840269,99.07302013
+3020,Indonesia,IDN,850,1987,9843,Tapanuli Utara,2,Sumatera Utara,Tapanuli Utara,NA,Tarutung,0,NA,earthquake,1987-0086,1.98840269,99.07302013
+3046,Indonesia,IDN,850,1994,9469,Lampung Barat,2,Lampung,Lampung Barat,NA,Balikbukit,0,NA,earthquake,1994-0007,-5.21686168,104.1990229
+3051,Indonesia,IDN,850,1994,9211,Halmahera Selatan,2,Maluku Utara,Halmahera Selatan,NA,Obi Island,0,NA,earthquake,1994-0513,-0.823586678,127.7050993
+3061,Indonesia,IDN,850,1995,9432,Kerinci,2,Jambi,Kerinci,NA,Sitinjau Laut,0,NA,earthquake,1995-0252,-2.036904743,101.4694256
+4892,Peru,PER,135,1991,15554,Caylloma,2,Arequipa,Caylloma,NA,Maca Arequipa region,0,NA,earthquake,1991-0173,-15.57620442,-71.58224758
+5506,Russia,RUS,365,1999,19510,Makhachkala Gorsovet,2,Dagestan,Makhachkala Gorsovet,NA,Makhachkala,0,NA,earthquake,1999-0047,42.98359284,47.45064659
+5731,South Africa,ZAF,560,1969,20170,City Of Cape Town,2,Western Cape,City Of Cape Town,NA,Cape Town,0,NA,earthquake,1969-0097,-33.89296367,18.59349281
+6339,Turkey,TUR,640,1978,22454,Pulumur,2,Tunceli,Pulumur,NA,Pulumur,0,NA,earthquake,1978-0263,39.43804811,40.08199183
+6342,Turkey,TUR,640,1984,22444,Olur,2,Erzurum,Olur,NA,Olur-Senkaya,0,NA,earthquake,1984-0086,40.84971276,42.14523942
+6343,Turkey,TUR,640,1984,22517,Senkaya,2,Erzurum,Senkaya,NA,Erzurum-Senkaya,0,NA,earthquake,1984-0413,40.56645745,42.34871612
+6362,Turkey,TUR,640,1998,22354,Feke,2,Adana,Feke,NA,Geyhan,0,NA,earthquake,1998-0207,37.87149502,35.82175412
+6365,Turkey,TUR,640,1999,22363,Golcuk,2,Kocaeli,Golcuk,NA,Golcuk,0,NA,earthquake,1999-0268,40.66098435,29.78785865
+6370,Turkey,TUR,640,1999,22402,Kaynasli,2,Duzce,Kaynasli,NA,Kaynasli,0,NA,earthquake,1999-0449,40.73727736,31.27653756
+1691,Colombia,COL,100,1979,4991,Buenaventura,2,Valle Del Cauca,Buenaventura,NA,Buenaventura,0,NA,earthquake,1979-0113,3.596249087,-77.08665041
+2372,Greece,GRC,350,1966,6954,Central Greece,2,Thessaly And Central Greece,Central Greece,NA,Eurytania,0,NA,earthquake,1966-0026,38.65437105,22.83374288
+2373,Greece,GRC,350,1966,6955,Central Greece,2,Thessaly And Central Greece,Central Greece,NA,Central Greece,0,NA,earthquake,1966-0068,38.65437105,22.83374288
+3312,Iran,IRN,630,1999,9920,Bandar-e-Abbas,2,Hormozgan,Bandar-e-Abbas,NA,Bandar-E-Abbas,0,NA,earthquake,1999-0065,27.46399832,56.14614444
+7211,Venezuela,VEN,101,1989,26368,Silva,2,Falcon,Silva,NA,Tucacas,0,NA,earthquake,1989-0067,10.75900631,-68.42132703
+1088,Chile,CHL,155,1985,3695,Concepcion,3,Bio-Bio,Concepcion,Concepcion,Concepcion,0,NA,earthquake,1985-0041,-36.86770418,-72.96249112
+1088,Chile,CHL,155,1985,3698,Copiapo,3,Atacama,Copiapo,Copiapo,Copiapo,0,NA,earthquake,1985-0041,-27.31083434,-69.75745575
+2376,Greece,GRC,350,1978,7024,Thessaloniki,3,Macedonia And Thrace,Central Macedonia,Thessaloniki,Thessaloniki,0,NA,earthquake,1978-0081,40.62066186,22.95199892
+2391,Greece,GRC,350,1995,7025,Thessaloniki,3,Macedonia And Thrace,Central Macedonia,Thessaloniki,Thessaloniki,0,NA,earthquake,1995-0085,40.62066186,22.95199892
+3432,Italy,ITA,325,1979,10544,Vallo Di Nera,3,Umbria,Perugia,Vallo Di Nera,Val Nerina,0,NA,earthquake,1979-0216,42.77780521,12.86797903
+3435,Italy,ITA,325,1981,10453,Mazara Del Vallo,3,Sicily,Trapani,Mazara Del Vallo,Mazara del Vallo,0,NA,earthquake,1981-0123,37.70228655,12.64643965
+3438,Italy,ITA,325,1983,10489,Pozzuoli,3,Campania,Napoli,Pozzuoli,Pozzuoli,0,NA,earthquake,1983-0112,40.85043483,14.10398527
+3458,Italy,ITA,325,1998,10427,Gualdo Tadino,3,Umbria,Perugia,Gualdo Tadino,Gualdo Tadino-Nocera Umbra,0,NA,earthquake,1998-0078,43.2292752,12.7556676
+4676,Pakistan,PAK,770,1981,15012,Gilgit,3,Northern Areas,Northern Areas,Gilgit,Gilgit-Baltistan,0,NA,earthquake,1981-0081,36.37485929,74.29713076
+5950,South Sudan,SDN,625,1990,20421,Juba,3,Central Equatoria,Bahr Al Jabal,Juba,Juba,1,Sudan,earthquake,1990-0033,4.731077443,31.50205722
+4147,Mexico,MEX,70,1978,13209,Distrito Federal,1,Distrito Federal,NA,NA,Mexico city,0,NA,earthquake,1978-0135,19.23831959,-99.08794199
+4148,Mexico,MEX,70,1979,13210,Distrito Federal,1,Distrito Federal,NA,NA,Mexico city,0,NA,earthquake,1979-0032,19.23831959,-99.08794199
+4153,Mexico,MEX,70,1981,13211,Distrito Federal,1,Distrito Federal,NA,NA,Mexico city,0,NA,earthquake,1981-0093,19.23831959,-99.08794199
+4158,Mexico,MEX,70,1985,13212,Distrito Federal,1,Distrito Federal,NA,NA,Mexico city,0,NA,earthquake,1985-0109,19.23831959,-99.08794199
+2979,Indonesia,IDN,850,1976,9594,Papua Barat,1,Papua Barat,NA,NA,Irian Jaya,0,NA,earthquake,1976-0043,-2.037778379,132.96826
+2981,Indonesia,IDN,850,1976,9595,Papua Barat,1,Papua Barat,NA,NA,West Irian,0,NA,earthquake,1976-0071,-2.037778379,132.96826
+2990,Indonesia,IDN,850,1979,9596,Papua Barat,1,Papua Barat,NA,NA,Irian Jaja,0,NA,earthquake,1979-0086,-2.037778379,132.96826
+2998,Indonesia,IDN,850,1981,9597,Papua Barat,1,Papua Barat,NA,NA,Irian Jaya,0,NA,earthquake,1981-0025,-2.037778379,132.96826
+3030,Indonesia,IDN,850,1989,9600,Papua Barat,1,Papua Barat,NA,NA,Irian Jaya,0,NA,earthquake,1989-0092,-2.037778379,132.96826
+3053,Indonesia,IDN,850,1994,9602,Papua Barat,1,Papua Barat,NA,NA,Irian Jaya,0,NA,earthquake,1994-0652,-2.037778379,132.96826
+3065,Indonesia,IDN,850,1996,9603,Papua Barat,1,Papua Barat,NA,NA,Irian Jaya,0,NA,earthquake,1996-0061,-2.037778379,132.96826
+01-1132,Philippines,PHI,840,1967,28383,Metropolitan Manila,1,Metropolitan Manila,NA,NA,Manilla,0,NA,earthquake,1967-0107,14.59873565,121.0325745
+01-1230,South Africa,SAF,560,1982,28540,Dr Kenneth Kaunda,2,North West,Dr Kenneth Kaunda,NA,Vaal Reefs goldmine,0,NA,earthquake,1982-0154,-26.80678335,26.569259
+01-127,Portugal,POR,235,1964,28572,Velas (Sao Jorge),3,Azores,Velas,Velas (Sao Jorge),Sao Jorge Isl.,0,NA,earthquake,1964-0016,38.70079259,-28.20055269
+01-128,Portugal,POR,235,1980,28579,Velas (Sao Jorge),3,Azores,Velas,Velas (Sao Jorge), Sao Jorge Islands,0,NA,earthquake,1980-0001,38.70079259,-28.20055269
+01-1345,Turkey,TUR,640,1962,28748,Pulumur,2,Tunceli,Pulumur,NA,Pulumur,0,NA,earthquake,1962-0001,39.43804811,40.08199183
+01-307,China,CHN,710,1970,29351,Yunnan,1,Yunnan,NA,NA,Yunnan province,0,NA,earthquake,1970-0010,24.97571744,101.4898344
+01-308,China,CHN,710,1974,29352,Sichuan,1,Sichuan,NA,NA, Sichuan,0,NA,earthquake,1974-0025,30.61575411,102.7099641
+01-308,China,CHN,710,1974,29353,Yunnan,1,Yunnan,NA,NA,Yunnan,0,NA,earthquake,1974-0025,24.97571744,101.4898344
+01-464,Ethiopia,ETH,530,1961,29696,Debub Wollo,2,Amhara,Debub Wollo,NA,Wollo,0,NA,earthquake,1961-0016,10.95792064,39.1941103
+01-538,Guam,NA,999,1993,29775,Tamuning,1,Tamuning,NA,NA,Tumon Bay area,0,NA,earthquake,1993-0049,13.50571096,144.7969229
+01-692,India,IND,750,1979,29955,Baramulla,2,Jammu And Kashmir,Baramulla,NA,Baramula-Sopur area,0,NA,earthquake,1979-0224,34.1805841,74.33737533
+01-790,Iran,IRN,630,1962,30140,Qazvin,1,Qazvin,NA,NA,Qazvin,0,NA,earthquake,1962-0006,36.09324707,49.72108543
+01-795,Iran,IRN,630,1988,30143,Kohgiluyeh And Buyer Ahmad,1,Kohgiluyeh And Buyer Ahmad,NA,NA,Deh Dasht,0,NA,earthquake,1988-0144,30.81046044,50.73249666
+01-954,Mexico,MEX,70,1995,30439,Oaxaca,1,Oaxaca,NA,NA, Oaxaca,0,NA,earthquake,1995-0203,16.95563972,-96.43783458

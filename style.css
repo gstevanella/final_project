@@ -1,3 +1,14 @@
+h1 {
+  font-style: bold;
+  font-size: 2.1em;
+}
+
+h2 {
+  font-style: bold;
+  font-size: 1.1em;
+}
+
+
 body { 
   margin:0; 
   padding:4%; 
@@ -7,13 +18,22 @@ body {
 
 #map {
   position: relative;
-  border: 1px solid gray;
+  border: 3px solid green;
   border-radius: 8px;
   height: 400px;  /* or as desired */
   width: 100%;  /* This means "100% of the width of its container", the .col-*/
 }
 
-#chart { 
+#map2 {
+  position: relative;
+  border: 3px solid green;
+  border-radius: 8px;
+  height: 400px;  /* or as desired */
+  width: 100%;  /* This means "100% of the width of its container", the .col-*/
+}
+
+
+#barchart { 
   position: relative;
   height: 100%;  /* or as desired */
   width: 100%;  /* This means "100% of the width of its container"*/
@@ -22,8 +42,8 @@ body {
 }
 
 svg {
-  border: 1px solid gray;
-  border-radius: 8px;
+  border: 2px solid gray;
+  border-radius: 3px;
 }
 
 /* bootstrap related */
@@ -43,8 +63,9 @@ svg {
 
 /* extra font styling */
 
-#text-two {
+#text-zero {
   font-style: italic;
+  color: green;
   font-size: .8em;
   padding-top: 30px;
 }
@@ -55,3 +76,4 @@ svg {
   font-family: 'Courier New', Courier, monospace;
   font-size: .8em;
 }
+
