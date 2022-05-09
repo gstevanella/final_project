@@ -41,8 +41,18 @@ body {
   max-height: 400px;
 }
 
+#lollipop_chart { 
+  position: relative;
+  border: 3px solid green;
+  border-radius: 8px;
+  height: 100%;  /* or as desired */
+  width: 100%;  /* This means "100% of the width of its container"*/
+
+}
+
 svg {
-  border: 2px solid gray;
+  position: relative;  /*this was not here originally*/
+  /*border: 2px solid gray;*/
   border-radius: 3px;
 }
 
@@ -64,6 +74,14 @@ svg {
 /* extra font styling */
 
 #text-zero {
+  font-style: italic;
+  color: green;
+  font-size: .8em;
+  padding-top: 30px;
+}
+
+#text-one {
+  position: relative;
   font-style: italic;
   color: green;
   font-size: .8em;

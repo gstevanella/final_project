@@ -11,7 +11,7 @@
     const width = 1000 - margin.left - margin.right;
     const height = 300 - margin.top - margin.bottom;
     
-    const staticColor = "salmon";
+    const staticColor = "green";
     const hoverColor = "gold";
     const tipColor = "#e8e8e8e8";
     

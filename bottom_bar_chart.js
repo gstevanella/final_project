@@ -4,8 +4,7 @@
 // export function chart3() {
 
     /* CONSTANTS AND GLOBALS */
-
-    
+   
 
     const margin = { top: 10, bottom: 30, left: 90, right: 10 };
     const width = 1000 - margin.left - margin.right;
@@ -36,12 +35,12 @@
     
     /* LOAD DATA */
     
-    d3.csv('./data/bar_chart_top.csv', d3.autoType)
+    d3.csv('./data/bar_chart_bottom.csv', d3.autoType)
     .then(raw_data => {
       console.log("data", raw_data);
       // save our data to application state
       raw_data.sort(function(a, b) {
-        return b.deaths - a.deaths;
+        return a.deaths - b.deaths;
       });
       state.data = raw_data;
       init();
@@ -64,7 +63,7 @@
       .domain([0, d3.max(state.data, d=> d.deaths)])
       .range([height-margin.bottom, margin.top])  
     
-      const container = d3.select("#chart_top").style("position", "relative");
+      const container = d3.select("#chart_bottom").style("position", "relative");
     
       svg = container
         .append("svg")
@@ -81,7 +80,7 @@
     
       // tooltip = d3.select("body")
       // change the d3.select to SPECIFIC ID for this graph's <div> instead of just the body
-      tooltip = d3.select("#chart_top")
+      tooltip = d3.select("#chart_bottom")
       .append("div")
       .attr("class", "tooltip")
       .style("position", "absolute")
@@ -123,21 +122,35 @@
     
         //set up selector
         // if you will have multiples be sure to add number suffix
-        const dropdown = d3.select("#dropdown_top")
+        const dropdown = d3.select("#dropdown_bottom")
     
         dropdown.selectAll("options")
-          .data(["all","Peru",
-          "China",
-          "Japan",
-          "Turkmenistan",
-          "Italy",
-          "Iran",
-          "Turkey",
-          "Pakistan",
-          "Chile",
-          "India",
-          "Armenia",
-          "Guatemala"])
+          .data(["all","Central Asia",
+          "Morocco",
+          "Tajikistan",
+          "India-Nepal",
+          "Philippines",
+          "Mexico",
+          "Nicaragua",
+          "Argentina",
+          "Taiwan",
+          "Russia",
+          "Algeria",
+          "Ecuador",
+          "Iran-Turkey",
+          "Afghanistan",
+          "Afghanistan-Tajikistan",
+          "United States",
+          "Arabia",
+          "Armenia-Azerbaijan",
+          "New Guinea",
+          "Indonesia",
+          "Romania",
+          "Colombia",
+          "Pakistan-Afghanistan",
+          "Ex-Yugoslavia",
+          "Colombia-Ecuador",
+          "El Salvador"])
           .join("option")
           .attr("value", d => d)
           .text(d => d)
@@ -200,7 +213,7 @@
         //.on("mouseover", function(event,d,i){
         .on("mouseover", function(d,i){
           tooltip
-          .html(`<div>activity: ${d.region}</div><div>sightings: ${d.deaths}</div>`)
+          .html(`<div>Region: ${d.region}</div><div>Number of deaths: ${d.deaths}</div>`)
           .style("visibility", "visible")
           .style("opacity", .8)
           .style("background", tipColor)
