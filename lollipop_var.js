@@ -1,4 +1,4 @@
-const margin1 = {top: 10, right: 30, bottom: 40, left: 120},
+const margin1 = {top: 10, right: 30, bottom: 50, left: 120},
     width1 = 1100 - margin1.left - margin1.right,
     height1 = 550 - margin1.top - margin1.bottom;
 
@@ -28,11 +28,17 @@ const yAxis1 = svg1.append("g")
 function update(selectedVar) {
 
   // Parse the Data
-  d3.csv('./data/top50_lollipop_chart.csv').then( function(data) {
+  d3.csv('./data/lollipop_top30_variables.csv').then( function(data) {
 
+  //sort data
+  data.sort(function (b,a){return a.EARTHQKEVI - b.EARTHQKEVI;});
     // X axis
     x1.domain(data.map(function(d) { return d.Country_Standard; }))
     xAxis1.transition().duration(1000).call(d3.axisBottom(x1))
+    .selectAll("text")
+    .attr("transform", "translate(-10,0)rotate(-35)")
+    .style("text-anchor", "end")
+    .style("font-size", 20);
 
     // Add Y axis
     y1.domain([0, d3.max(data, function(d) { return +d[selectedVar] }) ]);
@@ -51,7 +57,7 @@ function update(selectedVar) {
         .attr("x2", function(d) { return x1(d.Country_Standard); })
         .attr("y1", y1(0))
         .attr("y2", function(d) { return y1(d[selectedVar]); })
-        .attr("stroke", "grey")
+        .attr("stroke", "#00cc99")
 
 
     // variable u: map data to existing circle
@@ -64,13 +70,11 @@ function update(selectedVar) {
       .duration(1000)
         .attr("cx", function(d) { return x1(d.Country_Standard); })
         .attr("cy", function(d) { return y1(d[selectedVar]); })
-        .attr("r", 8)
-        .attr("fill", "#69b3a2");
-
+        .attr("r", 7)
+        .attr("fill", "#009933")
 
   })
 
 }
-
 // Initialize plot
-update('EVI')
+update('EARTHQKEVI')
