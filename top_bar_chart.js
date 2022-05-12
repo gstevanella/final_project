@@ -13,7 +13,7 @@
     
     const staticColor = "blue";
     const hoverColor = "gold";
-    const tipColor = "#00cc66";
+    const tipColor = "#e8e8e8e8";
     
     // adding let variables here
     // since we use our scales in multiple functions, they need global scope
@@ -70,7 +70,7 @@
         .append("svg")
         //add class for CSS use
         .attr("class", "chart")
-        .style('background', "tan")
+        .style('background', "black")
         .attr(
             'viewBox',
             `0 0 ${width + margin.left + margin.right} ${
@@ -200,7 +200,7 @@
         //.on("mouseover", function(event,d,i){
         .on("mouseover", function(d,i){
           tooltip
-          .html(`<div>activity: ${d.region}</div><div>sightings: ${d.deaths}</div>`)
+          .html(`<div>Region: ${d.region}</div><div>Deaths: ${d.deaths}</div>`)
           .style("visibility", "visible")
           .style("opacity", .8)
           .style("background", tipColor)

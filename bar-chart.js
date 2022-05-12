@@ -70,7 +70,7 @@
         .append("svg")
         //add class for CSS use
         .attr("class", "chart")
-        .style('background', "tan")
+        .style('background', "black")
         .attr(
             'viewBox',
             `0 0 ${width + margin.left + margin.right} ${
@@ -226,7 +226,7 @@
         //.on("mouseover", function(event,d,i){
         .on("mouseover", function(d,i){
           tooltip
-          .html(`<div>activity: ${d.region}</div><div>sightings: ${d.deaths}</div>`)
+          .html(`<div>Region: ${d.region}</div><div>Deaths: ${d.deaths}</div>`)
           .style("visibility", "visible")
           .style("opacity", .8)
           .style("background", tipColor)

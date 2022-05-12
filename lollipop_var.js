@@ -57,7 +57,7 @@ function update(selectedVar) {
         .attr("x2", function(d) { return x1(d.Country_Standard); })
         .attr("y1", y1(0))
         .attr("y2", function(d) { return y1(d[selectedVar]); })
-        .attr("stroke", "#00cc99")
+        .attr("stroke", "green")
 
 
     // variable u: map data to existing circle
@@ -71,7 +71,8 @@ function update(selectedVar) {
         .attr("cx", function(d) { return x1(d.Country_Standard); })
         .attr("cy", function(d) { return y1(d[selectedVar]); })
         .attr("r", 7)
-        .attr("fill", "#009933")
+        .attr("fill", "rgb(75, 176, 8)")
+        .attr("stroke", "white")
 
   })
 

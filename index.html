@@ -21,7 +21,11 @@
   <!-- Position the map with Cascading Style Sheet (CSS) -->
   <link rel="stylesheet" href="./style.css">
 
-  
+  <!-- For the font -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Aldrich&family=Bungee+Inline&family=Bungee+Shade&family=Electrolize&family=M+PLUS+Rounded+1c:wght@300&family=Rubik+Moonrocks&family=Smooch+Sans:wght@300&display=swap" rel="stylesheet">
+
 <!-- ADDITION FOR THE NAVIGATION BAR - REMOVE IF IT DOES NOT WORK -->
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -30,65 +34,102 @@
 <body>
 <nav class="navbar">
     <!-- LOGO -->
-    <div class="logo">Earthquakes</div>
+    <div class="logo">Shake me up!</div>
     <!-- NAVIGATION MENU -->
     <ul class="nav-links">
       
-      <!-- USING CHECKBOX HACK -->
-      <input type="checkbox" id="checkbox_toggle" />
-      <label for="checkbox_toggle" class="hamburger">&#9776;</label>
+      <!-- USING CHECKBOX HACK --
+     <input type="checkbox" id="checkbox_toggle" />
+     <label for="checkbox_toggle" class="hamburger">&#9776;</label>
+     >
 
       <!-- NAVIGATION MENUS -->
       <div class="menu">
         <li><a href="/">Home</a></li>
-        <li><a href="#lollipop_chart">EVI</a></li>
+        <li><a href="/">About</a></li>
         <li class="services">
-          <a href="/">Services</a>
+          <a href="#chart">Charts</a>
           <!-- DROPDOWN MENU -->
           <ul class="dropdown">
-            <li><a href="/">Dropdown 1 </a></li>
+            <li><a href="#chart">Bar Charts</a></li>
+            <li><a href="#lollipop_chart">Lollipo Charts</a></li>
             <li><a href="/">Dropdown 2</a></li>
-            <li><a href="/">Dropdown 2</a></li>
-            <li><a href="/">Dropdown 3</a></li>
-            <li><a href="/">Dropdown 4</a></li>
           </ul>
         </li>
-        <li><a href="/">Pricing</a></li>
-        <li><a href="/">Contact</a></li>
+        <li class="services">
+          <a href="/">Maps</a>
+          <ul class="dropdown">
+          <li><a href="#map">Earthquakes </a></li>
+          <li><a href="/">Dropdown 2</a></li>
+         </ul>
+        <li class = "services">
+         <a href="/">Links</a>
+         <ul class = "dropdown">
+         <li><a href="/">NASA</a></li>
+          <li><a href="/">Link 2</a></li>
+          <li><a href="/">Link 3</a></li>
+         </ul>
       </div>
   </ul>
 </nav>
 
-  <header class="header" data-scroll>
+  
+
+   <!-- <header class="header" data-scroll>
     <div class="col-12">
     <div class="container">
-      <h1>Earthquakes Map</h1>
+      <h1>TBC</h1>
     </div>
-  </header> 
-
-   <!-- text content 2 -->
+    </div>
+  </header> -->
 
   <div class="col-12">
     <div class="long-text" id="text-zero">
+ <h3>What is an earthquake?</h3>
+      <p>An earthquake is an intense shaking of Earth’s surface. 
+        The shaking is caused by movements in Earth’s outermost layer. An earthquake is what happens 
+        when two blocks of the earth suddenly slip past one another. The surface where they slip is called 
+        the fault or fault plane. 
+        The location below the earth’s surface where the earthquake starts is called the hypocenter, 
+        and the location directly above it on the surface of the earth is called the epicenter. </p>
+<p></p>
+<h3>Why Do Earthquakes Happen? </h3>
+        <p>Although the Earth looks like a pretty solid place from the surface, it’s actually extremely active just 
+        below the surface. The Earth is made of four basic layers: a solid crust, a hot, nearly solid mantle, a liquid outer core and a solid inner core. </p>
+        <p></p>
+        
+<h3>The jargon + Who does what</h3>
+        <p>Hazard – study of earthquakes and their effects, where they occur, how big and how often (the task of a seismologist).</p>
 
-      <p>This dataset is a geocoded extension of a selection of disasters from the Centre for Research on 
-        the Epidemiology of Disasters’ (CRED) emergency events database (EM-DAT) (Guha-Sapir, 
-        Below, and Hoyois, 2014). The dataset encompasses 39,953 locations for 9,924 disastersthat
-        occurred worldwide in the years 1960 to 2018. All floods, storms (typhoons, monsoons etc.), 
-        earthquakes, landslides (wet and dry), droughts, volcanic activity and extreme temperatures that
-        were recorded in EM-DAT during these 58 years are included in the dataset.1</p>
-
+        <p>Vulnerability of structures – prevent collapse and minimise structural damage (the task of an earthquake engineer).</p>
+          
+        <p>Risk – alerts, warnings and alarms for preparation and emergency response (the tasks of management and operating staff).</p>
       </div>
     </div>
   </div>
 </div>
+<h2>The maps</h2>
+
+      <p1>The below maps are based on a dataset is a geocoded extension of a selection of disasters from the Centre for Research on 
+        the Epidemiology of Disasters’ (CRED) emergency events database (EM-DAT) (Guha-Sapir, 
+        Below, and Hoyois, 2014). The dataset encompasses 39,953 locations for 9,924 disastersthat
+        occurred worldwide in the years 1960 to 2018. The map focuses on those disasters coded as earthquakes only
+        from 1960 to 1999 (first map) and from 2000 to 2018 (second map).</p1>
+  <div class="container">
+        <p> Click me to find out earthquake exact location and year
+          <img src = 'icons/location.png' alt="Map Icon" width="50" height="50">
+         </p>
+         <p> Click me to switch to OMS map view 
+          <img src = 'icons/level.png' alt="Level Icon" width="40" height="40">
+         </p>
+  </div>
 
 <div class="container">
   <div class="row">
     <div class="col-12">
       <!-- Insert HTML division tag to layout the map -->
-    <h2>Earthquakes on a map: 1960 to 1999</h2>   
-      <div id="hover-content"> </div>
+    <h4>Seisms on a map: 1960 to 1999</h4>   
+             <div id="hover-content"> </div>
       <div id='map'> </div>
     </div>
   </div>
@@ -99,31 +140,160 @@
     <div class="row">
       <div class="col-12">
       <!-- Insert HTML division tag to layout the map -->
-      <h2>Earthquakes on a map: 2000 to 2018</h2>    
+      <h4>Seisms on a map: 2000 to 2018</h4>    
       <div id='map2'> </div>
       </div>
      </div>
   </div>
 
+<h2>How are we impacted?</h2>
+<p1>The below bar charts show the total number of deaths recorded in some of the countries that have witnessed the most violent earthquakes.
+  Note that the each bar represents the aggregate number expressed as the sum of number of deaths per earthquake per country.
+</p1>
+ <!-- small chart content -->
+
+ <div class="container">
+  <div class="row">
+    <div class="col-10">
+
+
+      <label for="dropdown">Select Country</label>
+      <select id="dropdown" name="dropdown"></select>
+      <div class="svg" id='chart'></div>
+    </div>
+
+<!-- sub chart content -->     
+<div class="container">
+  <div class="row">
+    <div class="col-5">
+  
+  
+      <label for="dropdown">Select Country</label>
+      <select id="dropdown_top" name="dropdown_top"></select>
+      <div class="svg" id='chart_top'></div>
+    </div>
+
+<!-- additional text -->      
+    <div class="col-5">
+      <div class="long-text" id="text-two">
+
+        <p> This is to details some of the major earthquakes by number of deaths.
+          Details to be included - perhaps pictures as well?
+          Plus various links!Perhaps first chart to be replaced with table? 
+          </p>
+
+        </div>
+      </div>
+ <!-- sub chart content -->   
+    <div class="container">
+      <div class="row">
+        <div class="col-5">
+      
+        <label for="dropdown">Select Country</label>
+        <select id="dropdown_bottom" name="dropdown_bottom"></select>
+        <div class="svg" id='chart_bottom'></div>
+    </div>
+
+
+ <!-- text content 2 -->
+
+ <div class="col-5">
+    <div class="long-text" id="text-two">
+
+      <p>TESTTTTTT Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+        Ut enim ad minim veniam, quis nostrud exercitation ullamco 
+        laboris nisi ut aliquip ex ea commodo consequat.
+         Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+  <div class="col-12">
+    <div class="container">
+      <h2>What tools we can use to better understand where earthquakes can occure?</h2>
+      <p>The EVI, short for Environmental Sustainablity Index, is based on 50 indicators for estimating the vulnerability of the environment of a 
+        country to future shocks. These indicators are combined by simple averaging and reported 
+        simultaneously as a single index, a range of policy-relevant thematic sub-indices and as a 
+        profile showing the results for each indicator. </p>
+
+      <p>The EVI has been designed to reflect the extent to which the natural 
+        environment of a country is prone to damage and degradation. </p>
+      <p>It does not address the vulnerability of the social, cultural or economic systems, nor the environment that has become 
+        dominated by those same human systems (such as cities and farms) because these are 
+        included in the economic and social vulnerability indices which are needed separately to 
+        identify trade-offs. Therefore, the natural environment includes those biophysical systems that
+        can be sustained without direct and/or continuing human support. The environment at risk 
+        includes ecosystems, habitats, populations and communities of organisms, physical and 
+        biological processes (such as beach building and reproduction), productivity and energy 
+        flows, diversity at all levels, and interactions among them all. Each of these ecosystem goods, 
+        services and relationships may be affected by natural and human hazards, the risk of which 
+        may vary with time, place and human choices and behaviour.
+      </p>
+    <p>The EVI scores range as follows: </p>
+      <table class = "table">
+        <tr>
+          <td style="font-style:bold;">Vulnerability</td>
+          <td>Overall Score</td>
+          
+          </tr>
+          <tr>
+            <td style="color:red;">Extremely vulnerable </td>
+            <td>      365+</td>
+
+          </tr>
+          <tr>
+            <td style="color:rgba(255, 0, 0, 0.685);">Highly vulnerable</td>
+            <td>315-364 </td>
+          </tr>
+          <tr>
+            <td style="color:rgba(255, 68, 0, 0.758);">Vulnerable</td>
+            <td>265-314 </td>
+          </tr>
+          <tr>
+            <td style="color:rgba(255, 123, 0, 0.763);">At risk</td>
+            <td>215-264</td>
+          </tr>
+          <tr>
+            <td style="color:rgb(75, 176, 8);">Resilient</td>
+            <td>below 264</td>
+          </tr>  
+      </table>
+    
+    </div>
+    </div>
+
 <!-- lollipop chart attempt-->
+<div class="col-12">
   <div class="container">
+    <h2>What countries are the most vulnerable?</h2>  
+<div class="container">
     <div class="row">
       <div class="col-12">
         <script src="https://d3js.org/d3.v6.js"></script>
           <div class="svg" id='lollipop_chart'> </div>
       </div>
-
+    </div>
+</div>
 
   <!-- lollipop chart attempt-->
+  <div class="col-12">
+    <div class="container">
+      <h2>And what about the other vulnerability indices?</h2>
 
   <div class="container">
     <div class="row">
       <div class="col-12">
         <script src="https://d3js.org/d3.v6.js"></script>
-        <button onclick="update('EARTHQKEVI')">Earthquake Index</button>
-        <button onclick="update('TSUNAMIEVI')">Tsunami Index</button>
-        <button onclick="update('SLIDESEVI')">Landslide Index</button>
-        <button onclick="update('VOLCANOEVI')">Volcanic Index</button>
+        <button onclick="update('EARTHQKEVI')"> Earthquake Index </button>
+        <button onclick="update('TSUNAMIEVI')"> Tsunami Index </button>
+        <button onclick="update('SLIDESEVI')"> Landslide Index </button>
+        <button onclick="update('VOLCANOEVI')"> Volcanic Index </button>
         <div class="svg" id='lollipop_var'> </div>
       </div>
 
@@ -141,67 +311,7 @@
      </div>
   </div>
  
-   <!-- small chart content -->
-
-   <div class="container">
-    <div class="row">
-      <div class="col-10">
-
-
-        <label for="dropdown">Select Country</label>
-        <select id="dropdown" name="dropdown"></select>
-        <div class="svg" id='chart'></div>
-      </div>
-
- <!-- sub chart content -->     
-  <div class="container">
-    <div class="row">
-      <div class="col-5">
-    
-    
-        <label for="dropdown">Select Country</label>
-        <select id="dropdown_top" name="dropdown_top"></select>
-        <div class="svg" id='chart_top'></div>
-      </div>
-
-  <!-- additional text -->      
-      <div class="col-5">
-        <div class="long-text" id="text-two">
   
-          <p> This is to details some of the major earthquakes by number of deaths.
-            Details to be included - perhaps pictures as well?
-            Plus various links!Perhaps first chart to be replaced with table? 
-            </p>
-  
-          </div>
-        </div>
-   <!-- sub chart content -->   
-      <div class="container">
-        <div class="row">
-          <div class="col-5">
-        
-          <label for="dropdown">Select Country</label>
-          <select id="dropdown_bottom" name="dropdown_bottom"></select>
-          <div class="svg" id='chart_bottom'></div>
-      </div>
-
-
-   <!-- text content 2 -->
-
-   <div class="col-5">
-      <div class="long-text" id="text-two">
-
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-          Ut enim ad minim veniam, quis nostrud exercitation ullamco 
-          laboris nisi ut aliquip ex ea commodo consequat.
-           Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-        </div>
-      </div>
-    </div>
- </div>
-
 
  <div class="container-fluid">
   <div class="row">
@@ -219,6 +329,12 @@
     <div class="col-sm-9 col-md-6 col-lg-8">
         <div class="credits">
           <p>Sources and Credits</p>
+          <p><a href="https://www.flaticon.com/free-icons/goal" title="goal icons">Goal icons created by juicy_fish - Flaticon</a></p>
+          <p><a href="https://www.flaticon.com/free-icons/maps-and-location" title="maps and location icons">Maps and location icons created by smashingstocks - Flaticon</a></p>
+          <p><a href="https://www.flaticon.com/free-icons/find" title="find icons">Find icons created by juicy_fish - Flaticon</a></p>
+          <p><a href="https://www.flaticon.com/free-icons/location" title="location icons">Location icons created by Freepik - Flaticon</a></p>
+          <p><a href="https://www.flaticon.com/free-icons/marker" title="marker icons">Marker icons created by Freepik - Flaticon</a></p>
+          <p><a href="https://www.flaticon.com/free-icons/level" title="level icons">Level icons created by juicy_fish - Flaticon</a></p>
           <p>Data sources:
             source links</p>
             <p>Literature sources: 

@@ -4,7 +4,7 @@
   // Set up initial map center and zoom level
   const map2 = L.map('map2', {
     center: [42.22852721,13.85538983], // EDIT latitude, longitude to re-center map
-    zoom: 5,  // EDIT from 1 to 18 -- decrease to zoom out, increase to zoom in
+    zoom: 6.5,  // EDIT from 1 to 18 -- decrease to zoom out, increase to zoom in
     scrollWheelZoom: true,
     tap: false
   });
@@ -57,9 +57,9 @@ let popupContent2 = "<p>"+"Year:  "+row.year+ "   Location:  "+row.geolocation+"
       let marker2 = L.marker([row.Latitude, row.Longitude], {
         opacity: 0.9, 
           // Custom icon
-        //icon: L.icon({
-       // iconUrl:  'earthquake.jpg',
-       // iconSize: [20, 40] })
+          icon: L.icon({
+            iconUrl:  'icons/location.png',
+            iconSize: [40, 40] })
       }).bindPopup(popupContent2);
 
       marker2.addTo(map2);

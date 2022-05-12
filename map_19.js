@@ -4,7 +4,7 @@
   // Set up initial map center and zoom level
   const map = L.map('map', {
     center: [42.22852721,13.85538983], // EDIT latitude, longitude to re-center map
-    zoom: 5,  // EDIT from 1 to 18 -- decrease to zoom out, increase to zoom in
+    zoom: 6.5,  // EDIT from 1 to 18 -- decrease to zoom out, increase to zoom in
     scrollWheelZoom: true,
     tap: false
   });
@@ -50,14 +50,14 @@ controlLayers.addBaseLayer(basemapStamenTerrain, 'Terrain Map');
       var imagePopup = row.filepath
 
  //     let popupContent = "<p>"+"Year: "+row.year+" Location: "+row.geolocation+"</p>" ;
-let popupContent = "<p>"+"Year:  "+row.year+ "   Location:  "+row.geolocation+"</p>" ;
+      let popupContent = "<p>"+"Year:  "+row.year+ "   Location:  "+row.geolocation+"</p>";
 // original // let popupContent = "<p>"+"Year:  "+row.year+" Location:  "+row.geolocation+"<p> <img src='"+imagePopup+"' width='150px'> </p>"+"</p>" ;
       let marker = L.marker([row.Latitude, row.Longitude], {
-        opacity: 0.9, 
-          // Custom icon
-        //icon: L.icon({
-       // iconUrl:  'earthquake.jpg',
-       // iconSize: [20, 40] })
+        opacity: 0.8, 
+// Custom icon
+          icon: L.icon({
+          iconUrl:  'icons/location.png',
+          iconSize: [40, 40] })
       }).bindPopup(popupContent);
 
       marker.addTo(map);

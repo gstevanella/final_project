@@ -58,8 +58,8 @@ svg.selectAll("mycircle")
     .attr("cx", x(0) )
     .attr("cy", function(d) { return y(d.Country_Standard); })
     .attr("r", "3")
-    .style("fill", "green")
-    .attr("stroke", "black")
+    .style("fill", "rgb(75, 176, 8)")
+    .attr("stroke", "white")
 
 // Change the X coordinates of line and circle
 svg.selectAll("circle")
