@@ -3,11 +3,15 @@ const margin = {top: 10, right: 30, bottom: 40, left: 120},
     width = 1100 - margin.left - margin.right,
     height = 550 - margin.top - margin.bottom;
 
+
 // append the svg object to the body of the page
 const svg = d3.select("#lollipop_chart")
   .append("svg")
-    .attr("width", width + margin.left + margin.right)
-    .attr("height", height + margin.top + margin.bottom)
+    .attr('viewBox',`0 0 ${width + margin.left + margin.right} ${
+      height + margin.top + margin.bottom
+    }` )
+    //.attr("width", width + margin.left + margin.right)
+   // .attr("height", height + margin.top + margin.bottom)
   .append("g")
     .attr("transform",
           `translate(${margin.left}, ${margin.top})`);

@@ -5,8 +5,11 @@ const margin1 = {top: 10, right: 30, bottom: 50, left: 120},
 // append the svg object to the body of the page
 const svg1 = d3.select("#lollipop_var")
   .append("svg")
-    .attr("width", width1 + margin1.left + margin1.right)
-    .attr("height", height1 + margin1.top + margin1.bottom)
+    .attr('viewBox',`0 0 ${width + margin.left + margin.right} ${
+    height + margin.top + margin.bottom
+  }` )
+    //.attr("width", width1 + margin1.left + margin1.right)
+  //  .attr("height", height1 + margin1.top + margin1.bottom)
   .append("g")
     .attr("transform", `translate(${margin1.left}, ${margin1.top})`);
 
@@ -24,6 +27,9 @@ const yAxis1 = svg1.append("g")
   .attr("class", "myYaxis")
 
 
+
+
+
 // A function that create / update the plot for a given variable:
 function update(selectedVar) {
 
@@ -36,13 +42,13 @@ function update(selectedVar) {
     x1.domain(data.map(function(d) { return d.Country_Standard; }))
     xAxis1.transition().duration(1000).call(d3.axisBottom(x1))
     .selectAll("text")
-    .attr("transform", "translate(-10,0)rotate(-35)")
+    .attr("transform", "translate(-10,0)rotate(-25)")
     .style("text-anchor", "end")
     .style("font-size", 20);
 
     // Add Y axis
     y1.domain([0, d3.max(data, function(d) { return +d[selectedVar] }) ]);
-    yAxis1.transition().duration(1000).call(d3.axisLeft(y1));
+    yAxis1.transition().duration(1000).call(d3.axisLeft(y1).ticks(7));
 
     // variable u: map data to existing circle
     const j = svg1.selectAll(".myLine")  //should be svg only?
