@@ -6,11 +6,13 @@ This project is aimed at raising awarness about the natural phenomenon of earthq
 The project would like to be an explorative experience and the goal is to instill and stimulate the user's curiosity.
 
 Links to the project site and to code repo.
+
 https://gstevanella.github.io/final_project/
+
 https://github.com/gstevanella/final_project
 
 
-![Moodboard](images\moodboard.pdf?raw=true "Moodboard")
+<img src="images\moodboard.pdf" alt="Moodboard" title="Moodboard">
 
 I imagined my project as an instrument that could stimulate people’s curiosity; aimed at raising awareness on earthquakes, but also interest around geography and geology.
 
