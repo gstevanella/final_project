@@ -12,7 +12,7 @@ https://gstevanella.github.io/final_project/
 https://github.com/gstevanella/final_project
 
 
-<img src="images\moodboard.pdf" alt="Moodboard" title="Moodboard">
+<img src="images\Moodboard1.pdf" alt="Moodboard" title="Moodboard">
 
 I imagined my project as an instrument that could stimulate people’s curiosity; aimed at raising awareness on earthquakes, but also interest around geography and geology.
 
