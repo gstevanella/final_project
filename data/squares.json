@@ -1,0 +1,121 @@
+{
+ "location_name": "location",
+ "children":
+      [ 
+{  
+   "location_name": "Afghanistan", "deaths": 4323 },
+{ "location_name": "Afghanistan-Tajikistan",
+   "deaths": 4000
+},
+{ "location_name": "Algeria",
+   "deaths": 6250
+},
+{ "location_name": "Argentina",
+  "deaths": 4323
+},
+{ "location_name": "Armenia",
+   "deaths": 25000
+},
+{ "location_name": "Armenia-Azerbaijan",
+   "deaths": 2800
+},
+{ "location_name": "Central Asia",
+  "deaths": 12000
+},
+{ "location_name": "Chile",
+   "deaths": 4323
+},
+{ "location_name": "China",
+      "deaths": 564300
+},
+{ "location_name": "Colombia",
+      "deaths": 2185
+},
+{ "location_name": "Colombia-Ecuador",
+  "deaths": 1000
+},
+{ "location_name": "Ecuador",
+   "deaths": 6050
+},
+{ "location_name": "El Salvador",
+      "deaths": 1000
+},
+{ "location_name": "Ex-Yugoslavia",
+     "deaths": 1100
+},
+{ "location_name": "Guatemala",
+      "deaths": 25000
+},
+{ "location_name": "India",
+      "deaths": 32274
+},
+{ "location_name": "India-Nepla",
+      "deaths": 11700
+},
+{ "location_name": "Indonesia",
+  "deaths": 2500
+},
+{ "location_name": "Iran",
+   "deaths": 107206
+},
+{ "location_name": "Iran-Turkey",
+   "deaths": 5000
+},
+{ "location_name": "Italy",
+   "deaths": 109749
+},
+{ "location_name": "Japan",
+  "deaths": 162594
+},
+{ "location_name": "Mexico",
+   "deaths": 9500
+},
+{ "location_name": "Morocco",
+  "deaths": 12000
+},
+{ "location_name": "New Guinea",
+         "deaths": 2605
+},
+{ "location_name": "Nicaragua",
+        "deaths": 8500
+},
+{ "location_name": "Pakistan",
+  "deaths": 39300
+},
+{ "location_name": "Pakistan-Afghanistan",
+   "deaths": 1200
+},
+{ "location_name": "Peru'",
+  "deaths": 70140
+},
+{ "location_name": "Philippines",
+   "deaths": 9621
+},
+
+{ "location_name": "Romania",
+   "deaths": 2500
+},
+
+{ "location_name": "Russia",
+   "deaths": 6689
+},
+{ "location_name": "Taiwan",
+   "deaths": 6920
+},
+
+{ "location_name": "Tajikistan",
+   "deaths": 12000
+},
+{ "location_name": "Turkey",
+   "deaths": 83635
+},
+{ "location_name": "Turkmenistan",
+      "deaths": 110000
+   },
+{ "location_name": "United States",
+      "deaths": 3438
+}
+]
+}
+ 
+

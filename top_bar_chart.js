@@ -1,7 +1,3 @@
-// for nesting multiple charts in narrative, at VERY TOP wrap entire code in an export function
-// don't forget the close-curly-bracket at the VERY bottom of all the code
-
-// export function chart3() {
 
     /* CONSTANTS AND GLOBALS */
 
@@ -9,14 +5,13 @@
 
     const margin = { top: 10, bottom: 30, left: 90, right: 10 };
     const width = 1000 - margin.left - margin.right;
-    const height = 300 - margin.top - margin.bottom;
+    const height = 400 - margin.top - margin.bottom;
     
-    const staticColor = "blue";
+    const staticColor = "#0756b7";
     const hoverColor = "gold";
-    const tipColor = "#e8e8e8e8";
+    const tipColor = "yellow";
     
-    // adding let variables here
-    // since we use our scales in multiple functions, they need global scope
+    // adding global scope
     let svg;
     let xScale;
     let yScale;
@@ -39,7 +34,7 @@
     d3.csv('./data/bar_chart_top.csv', d3.autoType)
     .then(raw_data => {
       console.log("data", raw_data);
-      // save our data to application state
+      // save  data to application state
       raw_data.sort(function(a, b) {
         return b.deaths - a.deaths;
       });
@@ -49,7 +44,7 @@
     
     
     /* INITIALIZING FUNCTION */
-    // this will be run *one time* when the data finishes loading in
+   
     
     function init() {
     
@@ -70,7 +65,7 @@
         .append("svg")
         //add class for CSS use
         .attr("class", "chart")
-        .style('background', "black")
+        .style('background', "white")
         .attr(
             'viewBox',
             `0 0 ${width + margin.left + margin.right} ${
@@ -79,8 +74,7 @@
           )
         .style("position", "relative");
     
-      // tooltip = d3.select("body")
-      // change the d3.select to SPECIFIC ID for this graph's <div> instead of just the body
+     
       tooltip = d3.select("#chart_top")
       .append("div")
       .attr("class", "tooltip")
@@ -92,12 +86,11 @@
       .style('background', "blue")  //.style('background', tipColor)
       .style("border-radius", "4px")
       .style("color", "black")
-      .style("font-size", "0.8em" )
+      .style("font-size", "1em" )
       .text("tooltip");
     
     
-    // could add axes code here if desired
-    
+    // axes
     
         svg.append("text")
         .attr("class", "x-label")
@@ -122,7 +115,7 @@
         draw(); 
     
         //set up selector
-        // if you will have multiples be sure to add number suffix
+       
         const dropdown = d3.select("#dropdown_top")
     
         dropdown.selectAll("options")
@@ -155,9 +148,9 @@
       draw(); // calls the draw function
     }
     
-    // NEW CODE SECTION - contains earlier code sections of data join and draw plus some additions
+
     /* DRAW FUNCTION */
-    // we call this every time there is an update to the data/state
+    // calling this every time there is an update to the data/state
     function draw() {
     
       const filteredData = state.data
@@ -174,7 +167,7 @@
         .selectAll("text")  
         .style("text-anchor", "end")
         .attr("dx", "-.3em")
-        .attr("dy", ".10em")
+        .attr("dy", ".90em")
         .attr("transform", "rotate(-30)");
         
     svg.append("g") 
@@ -243,5 +236,5 @@
     
     console.log(state)
     }
-    // if this is a chart you are copying into export function you need a final end curly bracket
+    // final end curly bracket might be required
     //}

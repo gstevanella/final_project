@@ -1,22 +1,17 @@
-// for nesting multiple charts in narrative, at VERY TOP wrap entire code in an export function
-// don't forget the close-curly-bracket at the VERY bottom of all the code
-
-// export function chart3() {
-
     /* CONSTANTS AND GLOBALS */
 
     
 
     const margin = { top: 10, bottom: 30, left: 90, right: 10 };
     const width = 1000 - margin.left - margin.right;
-    const height = 300 - margin.top - margin.bottom;
+    const height = 600 - margin.top - margin.bottom;
     
     const staticColor = "green";
     const hoverColor = "gold";
-    const tipColor = "#e8e8e8e8";
+    const tipColor = "yellow";
     
-    // adding let variables here
-    // since we use our scales in multiple functions, they need global scope
+    // adding let variables 
+    //  global scope
     let svg;
     let xScale;
     let yScale;
@@ -49,7 +44,6 @@
     
     
     /* INITIALIZING FUNCTION */
-    // this will be run *one time* when the data finishes loading in
     
     function init() {
     
@@ -80,7 +74,7 @@
         .style("position", "relative");
     
       // tooltip = d3.select("body")
-      // change the d3.select to SPECIFIC ID for this graph's <div> instead of just the body
+     
       tooltip = d3.select("#chart")
       .append("div")
       .attr("class", "tooltip")
@@ -96,8 +90,7 @@
       .text("tooltip");
     
     
-    // could add axes code here if desired
-    
+    // axes
     
         svg.append("text")
         .attr("class", "x-label")
@@ -122,7 +115,7 @@
         draw(); 
     
         //set up selector
-        // if you will have multiples be sure to add number suffix
+      
         const dropdown = d3.select("#dropdown")
     
         dropdown.selectAll("options")
@@ -172,7 +165,7 @@
           // change this to use NON-arrow syntax for the function
           dropdown.on("change", function () {
             //state.selection = event.target.value
-            // better to use the "this." syntax now too
+            // using  "this." syntax now 
             state.selection = this.value
             console.log(state.selection)
             draw();
@@ -181,9 +174,8 @@
       draw(); // calls the draw function
     }
     
-    // NEW CODE SECTION - contains earlier code sections of data join and draw plus some additions
     /* DRAW FUNCTION */
-    // we call this every time there is an update to the data/state
+    // calling every time there is an update to the data/state
     function draw() {
     
       const filteredData = state.data
@@ -195,7 +187,7 @@
     yAxis = d3.axisLeft(yScale)
         
     svg.append("g")
-        .attr("transform", `translate(0,${height - margin.bottom})`) ///with professor - original it was height
+        .attr("transform", `translate(0,${height - margin.bottom})`) ///changed with professor - the original was height
         .call(xAxis)
         .selectAll("text")  
         .style("text-anchor", "end")
@@ -234,8 +226,7 @@
               .transition()
               .attr("fill", hoverColor);
           })
-          // here make mouseover behavior onn d3.select(this)
-          // function must be written out, not with arrow function syntax, for "this" 
+         
           // positioning is via d3.event reference to rect.bar attributes
           .on('mousemove', 
             function(d){
@@ -250,12 +241,12 @@
               console.log('tipPos '+tipPosX+" - "+tipPosY)
               d3.select('.tooltip').style("display", null)
               d3.select('.tooltip')
-              .style("left", tipPosX + "px")
+              .style("right", tipPosX + "px")
               .style("top",  tipPosY + "px")
-                //.html(html)
+              .html(html)
             })
         
-            // "event" is no longer needed in the parameter here
+            // removed "event" 
             .on("mouseout", function(event, d){
             //.on("mouseout", function(d){
               tooltip
@@ -269,5 +260,5 @@
     
     console.log(state)
     }
-    // if this is a chart you are copying into export function you need a final end curly bracket
+   // final end curly bracket might be required
     //}

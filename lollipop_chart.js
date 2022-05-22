@@ -1,4 +1,4 @@
-// set the dimensions and margins of the graph
+// set the dimensions and margins 
 const margin = {top: 10, right: 30, bottom: 40, left: 120},
     width = 1100 - margin.left - margin.right,
     height = 550 - margin.top - margin.bottom;

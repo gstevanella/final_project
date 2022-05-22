@@ -1,5 +1,5 @@
-
-  // then stick it inside a <div> in the html
+// map_19 JS creates the map here
+// inside a <div> in the html
 
   // Set up initial map center and zoom level
   const map2 = L.map('map2', {
@@ -36,7 +36,7 @@ const basemapStreets2 = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/
 
 
   
-  // see more basemap options at https://leaflet-extras.github.io/leaflet-providers/preview/
+  // library utilised: https://leaflet-extras.github.io/leaflet-providers/preview/
 
   // Read markers data from data.csv
   $.get('data/map_chart_20.csv', function(csvString) {
@@ -44,19 +44,17 @@ const basemapStreets2 = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/
     // Use PapaParse to convert string to array of objects
     const data2 = Papa.parse(csvString, {header: true, dynamicTyping: true}).data;
 
-    // For each row in data, create a marker and add it to the map
-    // For each row, columns `Latitude`, `Longitude`, and `Title` are required
-    // here we need to make an exception and use VAR because we are incorporating older syntax with our papa.parse 
+    
+    // incorporating older syntax with papa.parse - reverting to var 
     for (var i in data2) {
       var row = data2[i];
       var imagePopup = row.filepath
 
- //     let popupContent = "<p>"+"Year: "+row.year+" Location: "+row.geolocation+"</p>" ;
 let popupContent2 = "<p>"+"Year:  "+row.year+ "   Location:  "+row.geolocation+"</p>" ;
 // original // let popupContent = "<p>"+"Year:  "+row.year+" Location:  "+row.geolocation+"<p> <img src='"+imagePopup+"' width='150px'> </p>"+"</p>" ;
       let marker2 = L.marker([row.Latitude, row.Longitude], {
         opacity: 0.9, 
-          // Custom icon
+          // Customising icon
           icon: L.icon({
             iconUrl:  'icons/location.png',
             iconSize: [40, 40] })

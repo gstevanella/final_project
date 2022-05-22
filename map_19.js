@@ -1,9 +1,9 @@
-// the JS that creates the map here
-// then stick it inside a <div> in the html
+// map_19 JS creates the map here
+// inside a <div> in the html
 
   // Set up initial map center and zoom level
   const map = L.map('map', {
-    center: [42.22852721,13.85538983], // EDIT latitude, longitude to re-center map
+    center: [42.22852721,13.85538983], // centering map
     zoom: 6.5,  // EDIT from 1 to 18 -- decrease to zoom out, increase to zoom in
     scrollWheelZoom: true,
     tap: false
@@ -16,7 +16,7 @@
   }).addTo(map);
 
 
-  /* Stamen colored terrain basemap tiles with labels */
+  /* Stamen colored basemap Streets tiles with labels */
     const basemapStreets = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     minZoom: 0,
     maxZoom: 19,
@@ -34,7 +34,7 @@
 controlLayers.addBaseLayer(basemapStamenTerrain, 'Terrain Map');
 
   
-  // see more basemap options at https://leaflet-extras.github.io/leaflet-providers/preview/
+  // library utilised: https://leaflet-extras.github.io/leaflet-providers/preview/
 
   // Read markers data from data.csv
   $.get('data/map_chart_19.csv', function(csvString) {
@@ -42,19 +42,16 @@ controlLayers.addBaseLayer(basemapStamenTerrain, 'Terrain Map');
     // Use PapaParse to convert string to array of objects
     const data = Papa.parse(csvString, {header: true, dynamicTyping: true}).data;
 
-    // For each row in data, create a marker and add it to the map
-    // For each row, columns `Latitude`, `Longitude`, and `Title` are required
-    // here we need to make an exception and use VAR because we are incorporating older syntax with our papa.parse 
+    // incorporating older syntax with papa.parse - reverting to var
     for (var i in data) {
       var row = data[i];
       var imagePopup = row.filepath
 
- //     let popupContent = "<p>"+"Year: "+row.year+" Location: "+row.geolocation+"</p>" ;
       let popupContent = "<p>"+"Year:  "+row.year+ "   Location:  "+row.geolocation+"</p>";
 // original // let popupContent = "<p>"+"Year:  "+row.year+" Location:  "+row.geolocation+"<p> <img src='"+imagePopup+"' width='150px'> </p>"+"</p>" ;
       let marker = L.marker([row.Latitude, row.Longitude], {
         opacity: 0.8, 
-// Custom icon
+// Customising icon
           icon: L.icon({
           iconUrl:  'icons/location.png',
           iconSize: [40, 40] })

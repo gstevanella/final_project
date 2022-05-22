@@ -1,21 +1,17 @@
-// for nesting multiple charts in narrative, at VERY TOP wrap entire code in an export function
-// don't forget the close-curly-bracket at the VERY bottom of all the code
-
-// export function chart3() {
 
     /* CONSTANTS AND GLOBALS */
    
 
-    const margin = { top: 10, bottom: 30, left: 90, right: 10 };
+    const margin = { top: 10, bottom: 60, left: 90, right: 10 };
     const width = 1000 - margin.left - margin.right;
-    const height = 300 - margin.top - margin.bottom;
+    const height = 400 - margin.top - margin.bottom;
     
-    const staticColor = "black";
+    const staticColor = "#0756b7";
     const hoverColor = "gold";
     const tipColor = "#e8e8e8e8";
     
     // adding let variables here
-    // since we use our scales in multiple functions, they need global scope
+    // adding global scope
     let svg;
     let xScale;
     let yScale;
@@ -38,7 +34,7 @@
     d3.csv('./data/bar_chart_bottom.csv', d3.autoType)
     .then(raw_data => {
       console.log("data", raw_data);
-      // save our data to application state
+      // save  data to application state
       raw_data.sort(function(a, b) {
         return a.deaths - b.deaths;
       });
@@ -48,7 +44,6 @@
     
     
     /* INITIALIZING FUNCTION */
-    // this will be run *one time* when the data finishes loading in
     
     function init() {
     
@@ -69,7 +64,7 @@
         .append("svg")
         //add class for CSS use
         .attr("class", "chart")
-        .style('background', "rgb(75, 176, 8)")
+        .style('background', "white")
         .attr(
             'viewBox',
             `0 0 ${width + margin.left + margin.right} ${
@@ -86,16 +81,16 @@
       .style("position", "absolute")
       .style("z-index", "10")
       .style("visibility", "hidden")
-      //.style("opacity", 1)
+      .style("opacity", 1)
       .style("padding", "8px")
       .style('background', "blue")  //.style('background', tipColor)
       .style("border-radius", "4px")
-      .style("color", "black")
+      .style("color", "blue")
       .style("font-size", "0.8em" )
       .text("tooltip");
     
     
-    // could add axes code here if desired
+    // axes
     
     
         svg.append("text")
@@ -114,14 +109,14 @@
         .attr('font-family', 'sans-serif')
         .attr("x", -(height/2))
         .attr("y", 6)
-        .attr("dy", ".75em")
+        .attr("dy", ".90em")
         .attr("transform", "rotate(-90)")
         .text("Number of deaths recorded");
         // check if additional draw call req'd
         draw(); 
     
         //set up selector
-        // if you will have multiples be sure to add number suffix
+       
         const dropdown = d3.select("#dropdown_bottom")
     
         dropdown.selectAll("options")
@@ -159,7 +154,7 @@
           // change this to use NON-arrow syntax for the function
           dropdown.on("change", function () {
             //state.selection = event.target.value
-            // better to use the "this." syntax now too
+            // using "this." syntax now 
             state.selection = this.value
             console.log(state.selection)
             draw();
@@ -167,10 +162,9 @@
     
       draw(); // calls the draw function
     }
-    
-    // NEW CODE SECTION - contains earlier code sections of data join and draw plus some additions
+ 
     /* DRAW FUNCTION */
-    // we call this every time there is an update to the data/state
+    // calling this every time there is an update to the data/state
     function draw() {
     
       const filteredData = state.data
@@ -182,7 +176,7 @@
     yAxis = d3.axisLeft(yScale)
         
     svg.append("g")
-        .attr("transform", `translate(0,${height - margin.bottom})`) ///with professor - original it was height
+        .attr("transform", `translate(0,${height - margin.bottom})`) 
         .call(xAxis)
         .selectAll("text")  
         .style("text-anchor", "end")
@@ -209,20 +203,19 @@
       .attr("x", d=>xScale(d.region))
       .attr("y", d=>yScale(d.deaths))
       .attr("fill", staticColor)
-        // remove the term "event" here in parens 
+        // remove the term "event" here 
         //.on("mouseover", function(event,d,i){
         .on("mouseover", function(d,i){
           tooltip
           .html(`<div>Region: ${d.region}</div><div>Deaths: ${d.deaths}</div>`)
           .style("visibility", "visible")
-          .style("opacity", .8)
-          .style("background", tipColor)
+          .style("opacity", 1)
+          .style("background", "yellow")
           d3.select(this)
               .transition()
               .attr("fill", hoverColor);
           })
-          // here make mouseover behavior onn d3.select(this)
-          // function must be written out, not with arrow function syntax, for "this" 
+         
           // positioning is via d3.event reference to rect.bar attributes
           .on('mousemove', 
             function(d){
@@ -242,7 +235,7 @@
                 //.html(html)
             })
         
-            // "event" is no longer needed in the parameter here
+            // "event"  no longer needed here
             .on("mouseout", function(event, d){
             //.on("mouseout", function(d){
               tooltip
@@ -256,5 +249,5 @@
     
     console.log(state)
     }
-    // if this is a chart you are copying into export function you need a final end curly bracket
+    //  final end curly bracket might be required
     //}
